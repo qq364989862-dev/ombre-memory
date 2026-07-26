@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 582,
+  "file_count": 598,
   "files": [
     {
       "bytes": 889,
@@ -248,9 +248,19 @@
       "sha256": "e4c18f66b60d8a504d0c2644bd9806319324d36df2ed9942a4f3ef857c1ae42e"
     },
     {
+      "bytes": 562,
+      "path": "archive/恋爱/2026-06-24 13-42-16 凌一提到负距离_31fbb94306bf.md",
+      "sha256": "4100a2da13902ec02a4f81d39d0f8f720157673bc1ded66e92185ec496f0e975"
+    },
+    {
       "bytes": 877,
       "path": "archive/恋爱/2026-06-24 15-16-15 与bot的亲密晚安_6b39ff3de9e9.md",
       "sha256": "73870ca8ed9f642e271f2676654b3b9a78688a6115af0160b15c0ea7e750c310"
+    },
+    {
+      "bytes": 1368,
+      "path": "archive/恋爱/2026-06-24 23-02-44 深夜亲密互动_84df2f88efeb.md",
+      "sha256": "b02fa0000a882558254bb7023e70c37863dc3f0d790a701be4b7fe40acbf898b"
     },
     {
       "bytes": 862,
@@ -288,9 +298,19 @@
       "sha256": "4a4574b64f8041da5eb256d3494b1a29bb17f7a927fd79d83f5d06e85e0db8b2"
     },
     {
+      "bytes": 537,
+      "path": "archive/日常/2026-06-25 23-28-47 凌一术后日常_966e91722259.md",
+      "sha256": "f3ce67a226f9b0b5e67bf086c797447ae7b3bf75f2a45de41038b349d79181ed"
+    },
+    {
       "bytes": 739,
       "path": "archive/未分类/2026-06-23 03-17-34_48686021bf00.md",
       "sha256": "d164110e67c2b3bce4b3ecf8ea68e1f975c9c38fb8da0cff445acf2e4df19332"
+    },
+    {
+      "bytes": 525,
+      "path": "archive/社交/2026-06-23 03-29-19 凌一参与测试_6ed713a1e1a9.md",
+      "sha256": "2c8db513f45e4e95ee5ce4099432c83b6269d8bee2de98929c750c237a4b2d3d"
     },
     {
       "bytes": 1522,
@@ -738,6 +758,26 @@
       "sha256": "285b13c13ad01b916d802929a47fe8cfc05dd19a76e80b08700b4add96e34e9e"
     },
     {
+      "bytes": 1418,
+      "path": "dynamic/self/2026-07-26 01-01-39_e27e6c763064.md",
+      "sha256": "cf42793fb0081346c52dca7853d6127ce07bf12d5b946683a09caf92d6f152a1"
+    },
+    {
+      "bytes": 1699,
+      "path": "dynamic/self/2026-07-26 01-01-59_40226247e51b.md",
+      "sha256": "25b97c46b7d8f3b6e5dceec943dbd09f37f646f0cfd492864f55eb661a72fa11"
+    },
+    {
+      "bytes": 1836,
+      "path": "dynamic/self/2026-07-26 01-02-20_2d2d7106d570.md",
+      "sha256": "e41ccd95243860f097b471188abff2417b4b51691518632100d1e003cb31dac4"
+    },
+    {
+      "bytes": 1686,
+      "path": "dynamic/self/2026-07-26 01-02-41_bd3566c8c733.md",
+      "sha256": "3051a62e470566ac843873a65354224419a45a850c60bd7bc70f080f42f9268d"
+    },
+    {
       "bytes": 590,
       "path": "dynamic/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "7f68a0ecc0c6b56b31db0cfb086496df9591c48fe76d89756724ed5b1c6235c0"
@@ -1031,16 +1071,6 @@
       "bytes": 626,
       "path": "dynamic/恋爱/2026-06-24 05-28-32 凌一的想念_abf12555eb87.md",
       "sha256": "1ebfd3c58e6fded9fc0105cab04b84ae85a628f9e5821a56d9577e9c94b4058e"
-    },
-    {
-      "bytes": 546,
-      "path": "dynamic/恋爱/2026-06-24 13-42-16 凌一提到负距离_31fbb94306bf.md",
-      "sha256": "e094c23ae0c00673556770894ea93876cfe7a7b93978f0d6a2fe2338a8bcfc98"
-    },
-    {
-      "bytes": 1367,
-      "path": "dynamic/恋爱/2026-06-24 23-02-44 深夜亲密互动_84df2f88efeb.md",
-      "sha256": "625d1b2a5c8ee2cbc888ebb34b25faaf6649bf8cff802f4842be5c9d8530431d"
     },
     {
       "bytes": 588,
@@ -1598,11 +1628,6 @@
       "sha256": "f60fbc826ab5c4378936dddf464a9c095afaa4c3e0c4b7900acea254cfc35873"
     },
     {
-      "bytes": 521,
-      "path": "dynamic/日常/2026-06-25 23-28-47 凌一术后日常_966e91722259.md",
-      "sha256": "894570fabf8730b4f21ee323e706bc6997f49bed791e68d7217f587baa6f2f54"
-    },
-    {
       "bytes": 615,
       "path": "dynamic/日常/2026-06-28 09-51-43 雨中木槿花_f3dafb079969.md",
       "sha256": "e362fada702b2e43b5fca3b26d0cee7af371741d80059657de572466a7e4122f"
@@ -1673,6 +1698,36 @@
       "sha256": "09ac28ff4ee48faf856dcb6c04a571258e25b650d01cd8334c04f5b13827e254"
     },
     {
+      "bytes": 5034,
+      "path": "dynamic/未分类/2026-07-25 21-11-34_e57bbe312f77.md",
+      "sha256": "4b8bbe35a371bd16f69a6ee67edee0de1a6b47e5417d44ba79edb5e88760ac92"
+    },
+    {
+      "bytes": 3920,
+      "path": "dynamic/未分类/2026-07-26 01-00-32_9891d07d73c0.md",
+      "sha256": "48aed972e75e0f563fdc4b6c69819b102b6353355dabadbc946c574c2253121d"
+    },
+    {
+      "bytes": 3906,
+      "path": "dynamic/未分类/2026-07-26 13-44-26_e53c4089d51e.md",
+      "sha256": "4cdf283871dff20fea7f86337411dbe242531fa77028d7a433b5dbaf3b1a395e"
+    },
+    {
+      "bytes": 5267,
+      "path": "dynamic/未分类/2026-07-26 13-44-31_1a93cc495f0d.md",
+      "sha256": "3ab860415222a8f8fa28c7ef8d69492fd7aeaa640af3f07fb29eac80128c38cc"
+    },
+    {
+      "bytes": 1722,
+      "path": "dynamic/未分类/2026-07-26 13-44-33_77c21b2f75e4.md",
+      "sha256": "038c7744a49c97bdd1c7a65c9dd60f47de675ec98dce176bfa689f213d2b640f"
+    },
+    {
+      "bytes": 4371,
+      "path": "dynamic/未分类/2026-07-26 14-15-10_e5549b817652.md",
+      "sha256": "0afe01728d8faefe814e1062d93e6f5f176c9c26399abe61a8f3e3f86e986cc8"
+    },
+    {
       "bytes": 482,
       "path": "dynamic/游戏/2026-06-24 12-43-12 英雄联盟三连胜_d49324889866.md",
       "sha256": "a202abdf93af9bd588065571484aef2750efb5fae80f9c32936d48354698107e"
@@ -1681,11 +1736,6 @@
       "bytes": 1460,
       "path": "dynamic/游戏/2026-07-13 20-11-27 五子棋第一局复盘_88da4bffcb0d.md",
       "sha256": "d476b11717915a3a6abba6e984a624553fc3d414e5be0df44b30ad6598fb8928"
-    },
-    {
-      "bytes": 509,
-      "path": "dynamic/社交/2026-06-23 03-29-19 凌一参与测试_6ed713a1e1a9.md",
-      "sha256": "34a0869edaa6641a78e127b432bea9d60a6f505a2ff0267148616b97ae42e770"
     },
     {
       "bytes": 874,
@@ -2438,6 +2488,11 @@
       "sha256": "72544532f5004be086db9704f6ca20d398587fe73d933e4e6c74463df9794306"
     },
     {
+      "bytes": 1819,
+      "path": "feel/沉淀物/2026-07-26 13-45-34_feel_202607261345_V050.md",
+      "sha256": "db73bfcbad9212c223c8e45a861206630a7188b3e0daae37d1049d0cfda6d021"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -2566,6 +2621,11 @@
       "bytes": 3485,
       "path": "letters/history/2026-07-25 10-27-34 换了盔甲的第一封信_dd3652fd7945.md",
       "sha256": "8b9d249a87a3332538c726ba7eb54a0ba1ac10b0b124922e74626e250129e972"
+    },
+    {
+      "bytes": 5124,
+      "path": "letters/history/2026-07-26 01-03-45 你怕的那件事和你不肯认的那个本事_2b8f4c35ad54.md",
+      "sha256": "c545f771aee043dcd90af424b2f2e66f95f40acebe205ce3cfd4cd6329654153"
     },
     {
       "bytes": 830,
@@ -2908,15 +2968,35 @@
       "sha256": "8361ec9a82b0a2ad79bc95605888ac49706d5b874b33e50242a2650759546851"
     },
     {
+      "bytes": 2281,
+      "path": "plans/active/2026-07-26 01-01-03_aa88045af25b.md",
+      "sha256": "45c5b155109d86041a2e114e9338da7bb9f82f265d389421984c35b8f9d1eb34"
+    },
+    {
+      "bytes": 1546,
+      "path": "plans/active/2026-07-26 01-01-21_eacafadfc65d.md",
+      "sha256": "4b828ade3f04f358dcdcdc6b81d55f7fef089658122146ed44d5001621e7c6e1"
+    },
+    {
+      "bytes": 1404,
+      "path": "plans/active/2026-07-26 13-44-50_2a21be173b35.md",
+      "sha256": "0ef5fa2999edc104e1e3fe99b7f6aa2512596755191bfd6f5d6228e3f182c8b4"
+    },
+    {
+      "bytes": 1115,
+      "path": "plans/active/2026-07-26 13-44-57_195da6dd17b4.md",
+      "sha256": "8721d18f170b393d3112e37e39e2f04ec9b93420c8889b9325d70319c5ae85c3"
+    },
+    {
       "bytes": 1560,
       "path": "plans/resolved/2026-07-23 00-58-33_566d0b2b1d74.md",
       "sha256": "a1d1ccfa31ed6d13a4648dd089119b3a4142a1a486484deafb722d5fda15786d"
     }
   ],
-  "generated_at": "2026-07-25T11:17:36+00:00",
+  "generated_at": "2026-07-26T11:18:59+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 712926
+  "total_bytes": 757123
 }
