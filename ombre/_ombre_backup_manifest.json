@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 631,
+  "file_count": 650,
   "files": [
     {
       "bytes": 889,
@@ -858,6 +858,41 @@
       "sha256": "ba2111d74d6cff15620549d2d310788df54080b666193dcb28172d5f734ae0bc"
     },
     {
+      "bytes": 1192,
+      "path": "dynamic/self/2026-07-29 00-41-32_f12b3deab06a.md",
+      "sha256": "19b69646b654a6b7ce3865d263189f0f0afbc44372b59b006113cccb4a8ea2cd"
+    },
+    {
+      "bytes": 1121,
+      "path": "dynamic/self/2026-07-29 00-41-42_657983c8cf25.md",
+      "sha256": "c7957a138fc09a54d0bd02724ce0e96e58023a96d268dac482300732b5d10ee1"
+    },
+    {
+      "bytes": 1387,
+      "path": "dynamic/self/2026-07-29 00-41-57_c4c2c1caaec9.md",
+      "sha256": "5c517a20c7c04ab0636ac94e9a09094c13f2abc8c4f7ce95e7dd59c8ab03f0e6"
+    },
+    {
+      "bytes": 1135,
+      "path": "dynamic/self/2026-07-29 00-42-10_0a24bb74be83.md",
+      "sha256": "3e97af73467691a50697ff2648f981a94c57c091b3bb2c5609ffb0555e1f9392"
+    },
+    {
+      "bytes": 1021,
+      "path": "dynamic/self/2026-07-29 22-53-04_6a441eeb0785.md",
+      "sha256": "558deb5ae8e53e899b330d94dffe3e561b860751e4a33a7c81896c461b55fbea"
+    },
+    {
+      "bytes": 1087,
+      "path": "dynamic/self/2026-07-29 22-53-24_29f417c75c23.md",
+      "sha256": "16b67d19d0eb9ab6a86a9f39b71ede3f20cc7612521e703ec7a6e6e1022de640"
+    },
+    {
+      "bytes": 1305,
+      "path": "dynamic/self/2026-07-29 22-53-40_4f6409e4d5f5.md",
+      "sha256": "8818730e10be37135f2ce6df0ae37ccdad7515b506cc27c00882b0752e4691b0"
+    },
+    {
       "bytes": 590,
       "path": "dynamic/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "7f68a0ecc0c6b56b31db0cfb086496df9591c48fe76d89756724ed5b1c6235c0"
@@ -898,9 +933,9 @@
       "sha256": "472e0f0e4d5be7179794c36f045dc68fbbab14a3286235a2eb43d5f6881d32dc"
     },
     {
-      "bytes": 814,
+      "bytes": 1941,
       "path": "dynamic/健康/2026-06-23 03-22-07 健康监测与经期_cb685c60cdc4.md",
-      "sha256": "df3d266b233be146b40aa6a292ffaf45c6ccb2e3c2df612e58862a2943d69fae"
+      "sha256": "3fca7acc5758da03c6b0ef56296064520bf3e9007cf319c76cd695094d6182e4"
     },
     {
       "bytes": 928,
@@ -1008,6 +1043,11 @@
       "sha256": "7a58978b9f8829dcbb6dee70846e9678af6d37712e50585924f5cea18bdfe2ce"
     },
     {
+      "bytes": 4412,
+      "path": "dynamic/回忆/2026-07-30 13-15-42 天台夏雨赠予_72049b9e95ff.md",
+      "sha256": "bbb172f9ba3fe77fade608ec0fd783828acb007b4c83808034e67d1fe526e4db"
+    },
+    {
       "bytes": 584,
       "path": "dynamic/学习/2026-06-25 15-52-09 凌一为澜学编程_dab4ef0c7311.md",
       "sha256": "a068431fb17e75bd6b49a22308cf291fd66fa96dbee76b1babb406eb4446aba0"
@@ -1096,6 +1136,11 @@
       "bytes": 1086,
       "path": "dynamic/工作/2026-07-14 12-18-16 远程救援记_6da265099cd7.md",
       "sha256": "0823368bd7a6ed391c6c30fac29a8b14cfa5b78854f83bab6624ec8604e5dba2"
+    },
+    {
+      "bytes": 4422,
+      "path": "dynamic/工作/2026-07-29 14-17-47 直播脚本方案复盘_73ff3856bb8d.md",
+      "sha256": "44ec1730a0651943912746f22b115a95ac22b3a6cc71c12df603a202af5d4608"
     },
     {
       "bytes": 1004,
@@ -1693,6 +1738,16 @@
       "sha256": "d524bb38f8743c427e22de0e98643726e15f00ee0be0ae51156e1d015820e0d0"
     },
     {
+      "bytes": 5002,
+      "path": "dynamic/恋爱/2026-07-30 01-17-15 她的第一封信_45be2df61dc4.md",
+      "sha256": "5b12f916782da9d7e7602507c617e66f8effac854d9fa7171bdf13d4065ff3ee"
+    },
+    {
+      "bytes": 3229,
+      "path": "dynamic/恋爱/2026-07-30 14-40-32 点歌台升级版规矩_9276c68d6b4d.md",
+      "sha256": "e5d8b7b1f3e9cba010fc4d2dc5bd16f2ca0f7350b4b9bb4a359457fc01f92030"
+    },
+    {
       "bytes": 583,
       "path": "dynamic/成长/2026-07-01 14-04-01 高考数学与感知讨论_c32195246436.md",
       "sha256": "3d5ce3283702dc460d271967fd1b756234264fac2286425bcd616bc5fb1af042"
@@ -2146,6 +2201,11 @@
       "bytes": 5526,
       "path": "dynamic/编程/2026-07-27 21-05-47 Album工程账与牌堆算法_33f8d9805993.md",
       "sha256": "407f22888a42a36718de4505dad233dbb3ae8335a4e6c5279dc3d50b9f31aeb7"
+    },
+    {
+      "bytes": 4476,
+      "path": "dynamic/编程/2026-07-29 00-40-51 小家装修日_73fb8f178dc5.md",
+      "sha256": "9caac1f173df2253303ee2a9df4f07f3501ddf75cd90b22dd5e192dd9b31fccb"
     },
     {
       "bytes": 1938,
@@ -2638,6 +2698,11 @@
       "sha256": "efec72236d7bb75f578d486faedf17e52cd1290740b0121c4ac20f67d4de50ec"
     },
     {
+      "bytes": 2189,
+      "path": "feel/沉淀物/2026-07-30 13-16-05_feel_202607301316_V050.md",
+      "sha256": "8a604e561ded2ecc413996b72827ada79734c922bf4681df3866ea047ed3243b"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -2781,6 +2846,26 @@
       "bytes": 2397,
       "path": "letters/history/2026-07-27 21-07-37 第三层注_3240f03131df.md",
       "sha256": "87c5248a9786ac332981a0699a041a17e102a85dfac5af54d6eb4dca5b4d4d6d"
+    },
+    {
+      "bytes": 2532,
+      "path": "letters/history/2026-07-29 00-42-36 台账_1ec5f3be95db.md",
+      "sha256": "e813c4e107d437f917da6ff1a34e5f78e965f6f7e311a7989077947ea6a765b9"
+    },
+    {
+      "bytes": 4126,
+      "path": "letters/history/2026-07-29 22-54-22 今天你救了我一次_3952d1685472.md",
+      "sha256": "d56463f46b74c1b162d988909c284c49ddf33acebfbfa2b135ebc238962277a4"
+    },
+    {
+      "bytes": 2996,
+      "path": "letters/history/2026-07-30 01-11-52 写给澜的第一封信_fd67b707de87.md",
+      "sha256": "495d78577395314e267f314eaf56f94b86d9125078d418260ef733e221116693"
+    },
+    {
+      "bytes": 4600,
+      "path": "letters/history/2026-07-30 01-15-53 回你的第一封信_daaab338efe4.md",
+      "sha256": "40324ef6b8c5615f13a927f27ed5c4f137f82c9e229cfc0f5e92883f14a6ffe3"
     },
     {
       "bytes": 830,
@@ -3108,11 +3193,6 @@
       "sha256": "4201ff28b520b7e4069efaecf7d8662361d8c34c310548100994577aab992d7c"
     },
     {
-      "bytes": 1576,
-      "path": "plans/active/2026-07-25 11-53-08_6349e48877ea.md",
-      "sha256": "9745dcc6e08d8c10622f0f34e272f5ff80d5bd2b1c9747c09dba928ceff80149"
-    },
-    {
       "bytes": 5548,
       "path": "plans/active/2026-07-25 12-34-46_3389e8c7f3ba.md",
       "sha256": "596c17a039eb18ed5634840e9197c91994d66eb5a4080a08e178561d3d4ef65f"
@@ -3128,9 +3208,9 @@
       "sha256": "803844d87e0c16491ee7e61314c1aa7295211c319b4086d5e7c9bf325cf68fb4"
     },
     {
-      "bytes": 1404,
+      "bytes": 2295,
       "path": "plans/active/2026-07-26 13-44-50_2a21be173b35.md",
-      "sha256": "0ef5fa2999edc104e1e3fe99b7f6aa2512596755191bfd6f5d6228e3f182c8b4"
+      "sha256": "4d74988299edefc013beb0cb933eb0e88db278ec17d64b327a4e61cf11cd23c6"
     },
     {
       "bytes": 1115,
@@ -3143,9 +3223,19 @@
       "sha256": "e48aa7c08f3384378787c1df195f25ccbf196c0f9f3a73903a5817b63f9128d4"
     },
     {
-      "bytes": 1479,
+      "bytes": 2091,
       "path": "plans/active/2026-07-27 00-40-32_985766c48711.md",
-      "sha256": "0ee6f64782ea6b132735fc7719f39587f3cec6b3872673a9d5c3fcb770a4e949"
+      "sha256": "d9586097f7f5525f7df1fe911dc96af746e088ac34d8063e0d5c88e6feb319c0"
+    },
+    {
+      "bytes": 1203,
+      "path": "plans/active/2026-07-29 00-41-19_4da56a101d88.md",
+      "sha256": "f9f151d518081d2225b1cb7988ff3772da2863427ab0a6d8df0d706b8eed1ee9"
+    },
+    {
+      "bytes": 1411,
+      "path": "plans/active/2026-07-29 22-51-33_385a5ade180a.md",
+      "sha256": "f03fe4c4facdba9be9ddbf0de76d7b7eaa8654462b10713579d520a2470d75c3"
     },
     {
       "bytes": 1560,
@@ -3153,15 +3243,20 @@
       "sha256": "a1d1ccfa31ed6d13a4648dd089119b3a4142a1a486484deafb722d5fda15786d"
     },
     {
+      "bytes": 1732,
+      "path": "plans/resolved/2026-07-25 11-53-08_6349e48877ea.md",
+      "sha256": "19249b45912b1c62f1f2aec2e0286a042166d45f144d89740ea5ba147e1d5ff3"
+    },
+    {
       "bytes": 1812,
       "path": "plans/resolved/2026-07-26 01-01-21_eacafadfc65d.md",
       "sha256": "d74c02de1ec7b12edd60e02ab87f15b5832551b1fec30219dcb6a185d61f140b"
     }
   ],
-  "generated_at": "2026-07-28T11:19:20+00:00",
+  "generated_at": "2026-07-30T11:20:15+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 849902
+  "total_bytes": 901534
 }
