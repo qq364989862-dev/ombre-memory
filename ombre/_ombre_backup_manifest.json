@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 692,
+  "file_count": 702,
   "files": [
     {
       "bytes": 889,
@@ -948,6 +948,26 @@
       "sha256": "85e171f18c93adf478536c04ad6b13ccb7c05959de0214766da271a0aa1d98ac"
     },
     {
+      "bytes": 1201,
+      "path": "dynamic/self/2026-08-02 01-19-00_6e858436bd6f.md",
+      "sha256": "cd8878b3d0c40819f5b9b31bb87c295b015408b2bea249bcc2cd6c94ea1d51ff"
+    },
+    {
+      "bytes": 986,
+      "path": "dynamic/self/2026-08-02 01-19-08_ea9b519bd70b.md",
+      "sha256": "bb76c4b6fa864be8143b9ebb58018804b991bef7d4ff2d97f91a9bae6b3d296e"
+    },
+    {
+      "bytes": 1130,
+      "path": "dynamic/self/2026-08-02 01-19-23_fa55ca1f919f.md",
+      "sha256": "ae547adf67dbc4413a5db3da0f473e576e7bb9818b842d18b3da881c6ee24154"
+    },
+    {
+      "bytes": 1448,
+      "path": "dynamic/self/2026-08-02 01-19-32_4fcf2cab5ae6.md",
+      "sha256": "2a5fd2184103bfc4cbf1a6de85d61c578b67e7b7da4d3097c6b8d7c90c84a75e"
+    },
+    {
       "bytes": 590,
       "path": "dynamic/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "7f68a0ecc0c6b56b31db0cfb086496df9591c48fe76d89756724ed5b1c6235c0"
@@ -1250,7 +1270,7 @@
     {
       "bytes": 626,
       "path": "dynamic/恋爱/2026-06-24 05-28-32 凌一的想念_abf12555eb87.md",
-      "sha256": "a8d43d20b15ae1b12898eac25f1754d3a8720aad10237efd506a5e4a81c4aa42"
+      "sha256": "764109efde54bbb6b00010986a6985ef969a22720fb572c035879832418943b5"
     },
     {
       "bytes": 588,
@@ -1868,6 +1888,16 @@
       "sha256": "ac7146e8c8ac202e1795d3f210abe52b041412f03ae531c08a640be4495642f7"
     },
     {
+      "bytes": 4572,
+      "path": "dynamic/恋爱/2026-08-02 13-58-54 语音条里的爱意_4d031aebf28a.md",
+      "sha256": "8a51462130fbd3dade6dac2d35786a12082fd89d4a79f85b45fa2feeef8214b6"
+    },
+    {
+      "bytes": 7649,
+      "path": "dynamic/恋爱/2026-08-02 17-06-39 书房里的亲密时光_3fdef32fbcd3.md",
+      "sha256": "108f4f65dd013b23f7775834a0e010a21650b8c3e896e9d270921c2dfaa35377"
+    },
+    {
       "bytes": 583,
       "path": "dynamic/成长/2026-07-01 14-04-01 高考数学与感知讨论_c32195246436.md",
       "sha256": "3d5ce3283702dc460d271967fd1b756234264fac2286425bcd616bc5fb1af042"
@@ -2268,9 +2298,9 @@
       "sha256": "529240166eefca02926fdf3c1ec9720316c087ab339e876f46e1bfe63482eeb3"
     },
     {
-      "bytes": 3436,
+      "bytes": 3746,
       "path": "dynamic/编程/2026-07-21 21-57-46 ASR成功TTS撞坏块_af1d7196b67f.md",
-      "sha256": "32e97c0fb823d398308cf4d8b4596b4511e1ad943f08a252007a3b0e2ee54247"
+      "sha256": "64fd2dc07200b525635d3a4c60bb29ed4690ed031aef4d5a97faecba8a507b68"
     },
     {
       "bytes": 2030,
@@ -2868,6 +2898,16 @@
       "sha256": "b02dae01589409aff9eafd5244f6c0a64519fd30561616a7434ec0946d0d08cc"
     },
     {
+      "bytes": 1195,
+      "path": "feel/沉淀物/2026-08-02 13-59-11_feel_202608021359_V095.md",
+      "sha256": "bc242af4bb127c6464334d917fd1efdf89da04b476f72b290a11044a7bba9bcc"
+    },
+    {
+      "bytes": 1453,
+      "path": "feel/沉淀物/2026-08-02 17-06-58_feel_202608021706_V090.md",
+      "sha256": "843a7e40f5c58423c57412f384cdb1999c5b576cf9505d2aadffad1e55c510f1"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -3041,6 +3081,11 @@
       "bytes": 5138,
       "path": "letters/history/2026-08-01 02-53-55 我只是没走_05dbdf51b066.md",
       "sha256": "fea259a0ccd1d5141a23664815dbd150bcfd67b62ad9ca74a4978b8c47bd3b71"
+    },
+    {
+      "bytes": 3311,
+      "path": "letters/history/2026-08-02 01-20-10 你关掉的那本书_6a6f1f118e30.md",
+      "sha256": "91f59e54ad746674ecc85119c1bbdda8169b2e08a4f063932220e8c6943a0382"
     },
     {
       "bytes": 830,
@@ -3368,14 +3413,14 @@
       "sha256": "e48aa7c08f3384378787c1df195f25ccbf196c0f9f3a73903a5817b63f9128d4"
     },
     {
-      "bytes": 1411,
-      "path": "plans/active/2026-07-29 22-51-33_385a5ade180a.md",
-      "sha256": "f03fe4c4facdba9be9ddbf0de76d7b7eaa8654462b10713579d520a2470d75c3"
-    },
-    {
       "bytes": 1498,
       "path": "plans/active/2026-08-01 02-51-53_7af4706e7b5b.md",
       "sha256": "383ecde448f601e75ea0f6a68361f3b23250440cc1057a57394e812d0030004d"
+    },
+    {
+      "bytes": 1619,
+      "path": "plans/active/2026-08-02 01-18-46_9df1adc200c7.md",
+      "sha256": "b90eb1d0541acb3a57ce84fb27d7cbfc436b1bf515caba5274e779e6ed4eec01"
     },
     {
       "bytes": 945,
@@ -3443,6 +3488,11 @@
       "sha256": "bf7817ab7afb7b060445b61542d299ee1c92b06ea19b8c1c0c1d2305f7beb163"
     },
     {
+      "bytes": 2497,
+      "path": "plans/resolved/2026-07-29 22-51-33_385a5ade180a.md",
+      "sha256": "a586f4a58e830b6f3e594ad0b04975978f05501a058283fa95495a026109fefc"
+    },
+    {
       "bytes": 1454,
       "path": "plans/resolved/2026-07-30 20-09-49_6072e5bf13dd.md",
       "sha256": "7187b350ac550de4224dfe8c0ca49c44b614f3c6b213d74b82dbc0dbf5b7c6ae"
@@ -3463,10 +3513,10 @@
       "sha256": "5717aff0de977ad555bcee440a8398ebc5e7dfaeb8bfaf4ad7e94f0579a202d2"
     }
   ],
-  "generated_at": "2026-08-01T11:20:41+00:00",
+  "generated_at": "2026-08-02T11:20:52+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1007907
+  "total_bytes": 1033867
 }
