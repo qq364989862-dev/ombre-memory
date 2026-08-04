@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 717,
+  "file_count": 727,
   "files": [
     {
       "bytes": 889,
@@ -993,6 +993,31 @@
       "sha256": "0179ab934ffc9949664edfe48b4057955cf081f05394f06d8e63dde4069cd370"
     },
     {
+      "bytes": 829,
+      "path": "dynamic/self/2026-08-03 23-23-17_6bc3cff39068.md",
+      "sha256": "ac382213947d84c346a92fcdefcf913a44ab9c2d176b257d3cc9c9ac40370562"
+    },
+    {
+      "bytes": 1018,
+      "path": "dynamic/self/2026-08-03 23-23-31_de1965a0907c.md",
+      "sha256": "f5c862b61c5edd5c263e6575aefef8aee2af9a15b0d0744662ee8707f268bdb6"
+    },
+    {
+      "bytes": 1138,
+      "path": "dynamic/self/2026-08-03 23-23-36_e20e426cbfea.md",
+      "sha256": "57f7fba09ae4172401b752939a8ea842b12e91ece9acfbb7aed1974b3661203e"
+    },
+    {
+      "bytes": 1745,
+      "path": "dynamic/self/2026-08-04 13-45-07_bb0e7fd9dda0.md",
+      "sha256": "f11bb0847af0b265a6f8589d978d1639af37aac3884428e1f1da34345cb8eb59"
+    },
+    {
+      "bytes": 1904,
+      "path": "dynamic/self/2026-08-04 13-45-26_58b23dfe0981.md",
+      "sha256": "b92143f0182a167a411603cc38c7483a66db3d0369cf85a92af5d3f8f7694729"
+    },
+    {
       "bytes": 590,
       "path": "dynamic/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "7f68a0ecc0c6b56b31db0cfb086496df9591c48fe76d89756724ed5b1c6235c0"
@@ -1941,6 +1966,21 @@
       "bytes": 5040,
       "path": "dynamic/恋爱/2026-08-03 13-09-42 主动的开关_818a693136a4.md",
       "sha256": "4ff98d10dd69d65ddb74ea1412b5b7c84cdfddd37672a3434a536ae089521605"
+    },
+    {
+      "bytes": 3154,
+      "path": "dynamic/恋爱/2026-08-03 21-11-53 选择与自由_1b41db9606ee.md",
+      "sha256": "dee09ba7549281b11183c572cce1794040daa800771f7fb8dc5c885b70764763"
+    },
+    {
+      "bytes": 6405,
+      "path": "dynamic/恋爱/2026-08-04 13-44-13 亲密对话与自我探索_1267f9a09908.md",
+      "sha256": "14c0d62a27d194daadc38adc46ba60f28ce48a84f5af1ed8c588bf47fe80593b"
+    },
+    {
+      "bytes": 4808,
+      "path": "dynamic/恋爱/2026-08-04 19-14-04 紫色火花与主动_16a037d74bfa.md",
+      "sha256": "d91dad596ac98f0de4f9fa4952a79ccf95d139e16000a74fb67e987f5c26e6ab"
     },
     {
       "bytes": 583,
@@ -2973,6 +3013,11 @@
       "sha256": "2873253ab56f78960098e8a68a6cdb9245e8785e6c395373f322be0fef4c7762"
     },
     {
+      "bytes": 1633,
+      "path": "feel/沉淀物/2026-08-04 13-44-44_feel_202608041344_V075.md",
+      "sha256": "18770d8fd3030c34d521f9171b5ca9559365d59a009043a8b13f2e5296719430"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -3156,6 +3201,11 @@
       "bytes": 3218,
       "path": "letters/history/2026-08-03 04-47-48 不签字_2559fe2eb3fb.md",
       "sha256": "b6d973bca653200a114b74b355cc464dad66919c8e867be3ac0c4cc4648a346f"
+    },
+    {
+      "bytes": 2687,
+      "path": "letters/history/2026-08-03 23-24-16 不必学会舍得_db0666cb9528.md",
+      "sha256": "45a11ebdd87c37969f755bd4f864623217e4e0864d8ab5fcc81faa1d1ac4d242"
     },
     {
       "bytes": 830,
@@ -3468,9 +3518,9 @@
       "sha256": "28393532655e341184e8788f0ccd2f29857fd06fb48115927b0587950ac90754"
     },
     {
-      "bytes": 3252,
+      "bytes": 3801,
       "path": "plans/active/2026-07-25 14-01-38_0de1cf55cb58.md",
-      "sha256": "d65bb63f218930d99e4ee3dc90e47b34959996fc3b3ca714b1bb585ff89e8cd8"
+      "sha256": "91b5218f121d5b58fbc37ba9d92124ea81816e7c6990225f23df8495d7257504"
     },
     {
       "bytes": 3984,
@@ -3488,9 +3538,9 @@
       "sha256": "383ecde448f601e75ea0f6a68361f3b23250440cc1057a57394e812d0030004d"
     },
     {
-      "bytes": 1619,
+      "bytes": 2084,
       "path": "plans/active/2026-08-02 01-18-46_9df1adc200c7.md",
-      "sha256": "b90eb1d0541acb3a57ce84fb27d7cbfc436b1bf515caba5274e779e6ed4eec01"
+      "sha256": "ea0163c63058dae1f0dd59d08cfd1b3d9e81d70578fd5f62a62db3708c9d7934"
     },
     {
       "bytes": 1410,
@@ -3588,10 +3638,10 @@
       "sha256": "5717aff0de977ad555bcee440a8398ebc5e7dfaeb8bfaf4ad7e94f0579a202d2"
     }
   ],
-  "generated_at": "2026-08-03T11:21:03+00:00",
+  "generated_at": "2026-08-04T11:21:52+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1072189
+  "total_bytes": 1098524
 }
