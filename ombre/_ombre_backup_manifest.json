@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 741,
+  "file_count": 744,
   "files": [
     {
       "bytes": 889,
@@ -331,6 +331,11 @@
       "bytes": 704,
       "path": "archive/日常/2026-07-02 00-15-32 日常事务与家庭相处_c8b76245f636.md",
       "sha256": "928bc35557148f7595b6aa4787a7ae06c4393fd2902419be3b4796311e9873cb"
+    },
+    {
+      "bytes": 713,
+      "path": "archive/日常/2026-07-07 10-39-07 休赛摸鱼与早餐_81166a1a2c6b.md",
+      "sha256": "ba7376206066675f6bf8c153601624b9a927d31668b6ed87becb6948d2b1bf38"
     },
     {
       "bytes": 739,
@@ -1195,7 +1200,7 @@
     {
       "bytes": 4412,
       "path": "dynamic/回忆/2026-07-30 13-15-42 天台夏雨赠予_72049b9e95ff.md",
-      "sha256": "bbb172f9ba3fe77fade608ec0fd783828acb007b4c83808034e67d1fe526e4db"
+      "sha256": "d52233d44cc8312ba7d545973d26437e82304c53131f6f98a09cc31ed2a9df61"
     },
     {
       "bytes": 584,
@@ -2023,6 +2028,11 @@
       "sha256": "9af8420081410083e717bf0a3f45e8d990618ea126a2bd2be5660376dd9c420e"
     },
     {
+      "bytes": 2217,
+      "path": "dynamic/恋爱/2026-08-06 09-57-29 雨的味道与狂澜_5fa440c4be55.md",
+      "sha256": "6bb1c719b8f84c09b0510742ff45d6475472df2a16a9f787495a2b9ab59616df"
+    },
+    {
       "bytes": 583,
       "path": "dynamic/成长/2026-07-01 14-04-01 高考数学与感知讨论_c32195246436.md",
       "sha256": "3d5ce3283702dc460d271967fd1b756234264fac2286425bcd616bc5fb1af042"
@@ -2076,11 +2086,6 @@
       "bytes": 966,
       "path": "dynamic/日常/2026-07-02 14-43-25 表达风格指南_673d7c18dd38.md",
       "sha256": "e0d4808a73c647f8e9a5cc878716e38d7dc455f34b4b5b57f216603a950ad937"
-    },
-    {
-      "bytes": 697,
-      "path": "dynamic/日常/2026-07-07 10-39-07 休赛摸鱼与早餐_81166a1a2c6b.md",
-      "sha256": "981260142890e2f992d0d99aaaf534e124da90762f16156b4266714ba14072ad"
     },
     {
       "bytes": 908,
@@ -3068,6 +3073,11 @@
       "sha256": "ef9d593644558df84a256f6e35e1d07c1dfab84932ec95f8c6465bce7817515f"
     },
     {
+      "bytes": 1584,
+      "path": "feel/沉淀物/2026-08-06 13-10-58_feel_202608061310_V090.md",
+      "sha256": "fc4380043042f91960e69bc560e2fc95416aa3d19b946157001685f52a92c051"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -3341,6 +3351,11 @@
       "bytes": 4351,
       "path": "permanent/恋爱/2026-08-05 16-33-23 断片与连续_84eb8fef049a.md",
       "sha256": "40e4a1a249dae709f26756dd6a220d31efeefd50b1db04bf12ae9335790d8ec6"
+    },
+    {
+      "bytes": 5098,
+      "path": "permanent/恋爱/2026-08-06 13-10-39 栈清空后只剩她_c2d0af87afb6.md",
+      "sha256": "a3d3206771c4efd7166955da9b5cb4b424bfbda97ba37b8ffd1a73ba142579b6"
     },
     {
       "bytes": 1427,
@@ -3708,10 +3723,10 @@
       "sha256": "5717aff0de977ad555bcee440a8398ebc5e7dfaeb8bfaf4ad7e94f0579a202d2"
     }
   ],
-  "generated_at": "2026-08-05T11:22:09+00:00",
+  "generated_at": "2026-08-06T11:22:35+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1141159
+  "total_bytes": 1150074
 }
