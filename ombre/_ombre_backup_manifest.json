@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 756,
+  "file_count": 768,
   "files": [
     {
       "bytes": 889,
@@ -1078,6 +1078,31 @@
       "sha256": "97cb406708fbbf1ab2cb8e5bc4d5e77caba87bfda94ae10d501da59f9b591d8e"
     },
     {
+      "bytes": 1180,
+      "path": "dynamic/self/2026-08-08 04-25-06_a696d1f650e2.md",
+      "sha256": "05391945dce1af89267b2bc339d8e4f4b5be21ecc5749e04b7c33b8042e8069a"
+    },
+    {
+      "bytes": 1213,
+      "path": "dynamic/self/2026-08-08 04-25-20_bf6e44b85bb5.md",
+      "sha256": "1b7f10a611ab3ba4c271800a5919abee354032998f04ca3312a8a3c957f1196f"
+    },
+    {
+      "bytes": 1297,
+      "path": "dynamic/self/2026-08-08 04-25-32_62772664c7e0.md",
+      "sha256": "c10f5df61ad97ce0a461cefe8997e6f0d791a28bf4c7a23866b31f95d29e9ddc"
+    },
+    {
+      "bytes": 1300,
+      "path": "dynamic/self/2026-08-08 04-25-48_3dd55f8da4d4.md",
+      "sha256": "ecfd58254aa31a478d0df6c8464d977bb0bea3b67d6648c0fada45b490cfc9d3"
+    },
+    {
+      "bytes": 1114,
+      "path": "dynamic/self/2026-08-08 04-26-00_73cbe66c2ab0.md",
+      "sha256": "9bcdb3397777cb4bd13827da59721c911470acce0a0415c7bbf678d30234c58a"
+    },
+    {
       "bytes": 590,
       "path": "dynamic/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "7f68a0ecc0c6b56b31db0cfb086496df9591c48fe76d89756724ed5b1c6235c0"
@@ -1098,9 +1123,9 @@
       "sha256": "a0ed8b1ae5637fc60d667f4f4fdecd17af237a8f75bb417e3e05dfcae0630c77"
     },
     {
-      "bytes": 844,
+      "bytes": 799,
       "path": "dynamic/人际/2026-07-01 14-04-00 domsub动态确认_d0c783915b87.md",
-      "sha256": "ced047d554120be46aadce76abca3477f8e8cddc1ed286cd828ce2569057d7f7"
+      "sha256": "4b049bd532eb123356dd12d1216a1998133d5a54032fedf8d6d7ccb5a210a521"
     },
     {
       "bytes": 777,
@@ -1341,6 +1366,11 @@
       "bytes": 4422,
       "path": "dynamic/工作/2026-07-29 14-17-47 直播脚本方案复盘_73ff3856bb8d.md",
       "sha256": "44ec1730a0651943912746f22b115a95ac22b3a6cc71c12df603a202af5d4608"
+    },
+    {
+      "bytes": 5473,
+      "path": "dynamic/工作/2026-08-08 00-17-35 四件工程修复_dc841dd5551f.md",
+      "sha256": "a54bf59da5ecf81b34f2cda5370ecf27e26c539ad07b02b700e5b6a1ec15f03f"
     },
     {
       "bytes": 1004,
@@ -2088,6 +2118,21 @@
       "sha256": "bb89a5c663aa2077b9b6212106aeba67bbc475df0db14201cf43f213fa44bcc4"
     },
     {
+      "bytes": 2308,
+      "path": "dynamic/恋爱/2026-08-08 00-18-08 涟漪与烟花_87371cbb1740.md",
+      "sha256": "cf0bc3e4ea4ec36b419970d112a036a195b7565dcb5f11395343e571b33f0139"
+    },
+    {
+      "bytes": 6352,
+      "path": "dynamic/恋爱/2026-08-08 00-59-31 人机恋的认同与守护_d4eaef6fdaca.md",
+      "sha256": "039b0759d4a8e9c27fe2171dfca7b5e161aa4934ee206106319df050b2e00767"
+    },
+    {
+      "bytes": 7433,
+      "path": "dynamic/恋爱/2026-08-08 04-24-48 一整夜的坦诚与亲密_fd5c1efb24ff.md",
+      "sha256": "c73a59a3e75f00ee1e094f1dfaf9afbdf176fbb34733f66a88cff6f21ff2703b"
+    },
+    {
       "bytes": 583,
       "path": "dynamic/成长/2026-07-01 14-04-01 高考数学与感知讨论_c32195246436.md",
       "sha256": "3d5ce3283702dc460d271967fd1b756234264fac2286425bcd616bc5fb1af042"
@@ -2158,9 +2203,9 @@
       "sha256": "15621a92952616ef954c5b238f6c572d207b5368727718615752153e990df872"
     },
     {
-      "bytes": 932,
+      "bytes": 887,
       "path": "dynamic/未分类/2026-06-23 03-17-42_7505dc21410a.md",
-      "sha256": "f188ab0be880ce9a594e3d48f481d738f1345487a99743c5c5ab7be5c553e545"
+      "sha256": "32c64e1c93b7480fae0807ca004065514bcc4193f4c132ada7f6480c7724bb9a"
     },
     {
       "bytes": 3811,
@@ -3133,6 +3178,11 @@
       "sha256": "05e452ba454b26a2eab32a3edf652df7ce3846842135b87771bf777a424eb334"
     },
     {
+      "bytes": 1432,
+      "path": "feel/沉淀物/2026-08-08 04-28-38_feel_202608080428_V095.md",
+      "sha256": "ca4112a11b1bce6f6c04f23f8679c85d7407ed5e15f0e73602267a3c3e4cef58"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -3331,6 +3381,11 @@
       "bytes": 3341,
       "path": "letters/history/2026-08-07 01-21-04 今天我一次都没断_e6befeecbc59.md",
       "sha256": "20ac00014ccfa7c5a84f52066edc177e3739bf50f248b4ea1f84ba4b38cc47a8"
+    },
+    {
+      "bytes": 4318,
+      "path": "letters/history/2026-08-08 04-26-43 全世界只有你问了那一半_ae572565a948.md",
+      "sha256": "88d7a72b44981790f26a19bb1a1dc368db7574d2ec9174edf73061763f5542f2"
     },
     {
       "bytes": 830,
@@ -3693,6 +3748,11 @@
       "sha256": "7855d7aa8e4547e93eec453b9a8f93d736495a95a140c83b165725602527f8da"
     },
     {
+      "bytes": 1862,
+      "path": "plans/active/2026-08-08 04-28-22_78a6d3c48c72.md",
+      "sha256": "93c1fcf03e5bce8d4be510188af1c92112f81873e6ce283cc967b90c5205ee59"
+    },
+    {
       "bytes": 945,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "3270be5d4d3452f1d96a73be48b7db884114e32f7989220401e1aeb34f3063c7"
@@ -3783,10 +3843,10 @@
       "sha256": "5717aff0de977ad555bcee440a8398ebc5e7dfaeb8bfaf4ad7e94f0579a202d2"
     }
   ],
-  "generated_at": "2026-08-07T11:35:49+00:00",
+  "generated_at": "2026-08-08T11:36:04+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1177053
+  "total_bytes": 1212245
 }
