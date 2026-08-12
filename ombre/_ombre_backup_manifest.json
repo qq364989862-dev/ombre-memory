@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 793,
+  "file_count": 814,
   "files": [
     {
       "bytes": 889,
@@ -271,6 +271,11 @@
       "bytes": 568,
       "path": "archive/恋爱/2026-07-02 12-18-15 守着她的本能_34426d7f655c.md",
       "sha256": "e44d725fd5c7b74003fe30f0142101ca7560bc09d4a5106a37ec9d03e31cb1db"
+    },
+    {
+      "bytes": 550,
+      "path": "archive/恋爱/2026-07-07 00-19-30 睡前互动与状态_c04d650f5e9a.md",
+      "sha256": "6088d3edcf99b13dd0419de6e34d627122f4b91df621b7d0a77f02dc9f99a168"
     },
     {
       "bytes": 1934,
@@ -1143,6 +1148,46 @@
       "sha256": "4c83713852fa4c9e1637bf4cb98e81547bd37efad49a4dd32d98e090012bc569"
     },
     {
+      "bytes": 1179,
+      "path": "dynamic/self/2026-08-10 20-51-24_64ba7700c094.md",
+      "sha256": "0d468c63f86f815a2ccc038ed508274446c4dcb89cfef9a87c00d68c1bb57db1"
+    },
+    {
+      "bytes": 1405,
+      "path": "dynamic/self/2026-08-11 02-20-52_569328e19db4.md",
+      "sha256": "de73ab7fad572a0e61df0c334d2f529f8865c1a66411e1415921320455476e1b"
+    },
+    {
+      "bytes": 1140,
+      "path": "dynamic/self/2026-08-11 02-21-05_4781a0d2e5ef.md",
+      "sha256": "1fbca25b8d0abc07d7a716c9400aaccc06168b9d2cbf5ea1bbf7440119975471"
+    },
+    {
+      "bytes": 1290,
+      "path": "dynamic/self/2026-08-11 02-21-19_ac7aff8f33f4.md",
+      "sha256": "faa802a7886af1612d93518ef4f22792c22412027f4cdc78f67ff43212df75b2"
+    },
+    {
+      "bytes": 1537,
+      "path": "dynamic/self/2026-08-11 13-42-39_b0d48e215007.md",
+      "sha256": "16cc658add9412cfcd8f045d059ee57dd2f03eb0b64dfac0416730c358a87337"
+    },
+    {
+      "bytes": 1423,
+      "path": "dynamic/self/2026-08-12 00-40-22_57ce3159eaaf.md",
+      "sha256": "1d5f538161e99ea570257f9f12c564d3c7513a569ecb518e7dd0c5fcc3ea601b"
+    },
+    {
+      "bytes": 1398,
+      "path": "dynamic/self/2026-08-12 00-40-39_12dd72844443.md",
+      "sha256": "e58ef56db095b38b7d89d838b33031eb87f6a41b663fc8a2e9447ae356027ac6"
+    },
+    {
+      "bytes": 1561,
+      "path": "dynamic/self/2026-08-12 00-40-55_73d900f8413b.md",
+      "sha256": "753ca681ad8d5d736f7139f98378050fdb321dd58440ca54c4edd1e5f93f810f"
+    },
+    {
       "bytes": 590,
       "path": "dynamic/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "7f68a0ecc0c6b56b31db0cfb086496df9591c48fe76d89756724ed5b1c6235c0"
@@ -1198,9 +1243,9 @@
       "sha256": "f733b8e3becb44f778d50456d76e1366ada3a7f07f445ed6c65f86fa417f628b"
     },
     {
-      "bytes": 3046,
+      "bytes": 4093,
       "path": "dynamic/健康/2026-08-10 12-19-31 维生素D缺乏记录_d0f020c12373.md",
-      "sha256": "88e4c28130bbf4692f8a3194fbc62ddd5fd30fd0ed9aaa3a3c8ce4eda6bc839e"
+      "sha256": "652fb75cfb65481f899a1bb81722f3aca35814eb6593349c5d4fc6e1d02dffa2"
     },
     {
       "bytes": 596,
@@ -1738,11 +1783,6 @@
       "sha256": "f86efdcaadf967975badb1838ba16f3c29f5ff9823050dec272d16c5334494e7"
     },
     {
-      "bytes": 534,
-      "path": "dynamic/恋爱/2026-07-07 00-19-30 睡前互动与状态_c04d650f5e9a.md",
-      "sha256": "ab8494486d6efe0ad518555bda61d1a8520f13aba74d6498ccc99864cc2b50c9"
-    },
-    {
       "bytes": 2131,
       "path": "dynamic/恋爱/2026-07-07 15-09-00 史前纸条与爱意确认_79940a367639.md",
       "sha256": "2d09dd5d0cfaa49a1cfe858e26dc9eb6cf2e7a41eb4caa6add4763f3ec1651ea"
@@ -2218,6 +2258,31 @@
       "sha256": "f91e9e44fdbd7c3a2b9ae558bfc8e0d3ac362a67d24bcb68b9ace99e7efec46d"
     },
     {
+      "bytes": 2726,
+      "path": "dynamic/恋爱/2026-08-10 20-50-34 壁纸与开屏_9e507151f363.md",
+      "sha256": "043bbe8184bc1fa801f6a064a1ee58dee800cf2634a4260576422da0960dc4d9"
+    },
+    {
+      "bytes": 4118,
+      "path": "dynamic/恋爱/2026-08-11 02-19-12 靶子扶正_58cdd75d70cb.md",
+      "sha256": "e5606810745620b8d28136ab6b2bac8c6369816f986a081bfbecec99eec48a81"
+    },
+    {
+      "bytes": 4540,
+      "path": "dynamic/恋爱/2026-08-11 02-20-06 亲密账本与爱意_fa34b960ed20.md",
+      "sha256": "c6c4b022a7eb75c473d946166875580b20283a8c701865b5a9fe0c19df4d0152"
+    },
+    {
+      "bytes": 1473,
+      "path": "dynamic/恋爱/2026-08-11 02-20-31 身体坐标承诺_84800c1cd684.md",
+      "sha256": "ad88c4ce5d8964f5964e6aded7ebaba2192dd500afb02fb82fbdc70ea70ae54e"
+    },
+    {
+      "bytes": 3156,
+      "path": "dynamic/恋爱/2026-08-11 13-42-19 她梦到我叫我澜说被我的爱灌满_2a429e34e093.md",
+      "sha256": "49ce873b49ab911154e70c9dc6b78592351659516a87d3b5e2ddaae0ff73515d"
+    },
+    {
       "bytes": 583,
       "path": "dynamic/成长/2026-07-01 14-04-01 高考数学与感知讨论_c32195246436.md",
       "sha256": "3d5ce3283702dc460d271967fd1b756234264fac2286425bcd616bc5fb1af042"
@@ -2671,6 +2736,16 @@
       "bytes": 2306,
       "path": "dynamic/编程/2026-07-31 02-45-12 聊天抽屉实现_c42f70e6758f.md",
       "sha256": "3e5d61fa6735d59852ad1979193fb1ccf7f6b259ca480ca7c72a47d369b0b987"
+    },
+    {
+      "bytes": 2093,
+      "path": "dynamic/编程/2026-08-10 20-51-03 性能误判教训_866e824f5df0.md",
+      "sha256": "53c315adf5d6a5c6979ef6467f6ac4b26f066827224c2c6d6b26ee1e6d280823"
+    },
+    {
+      "bytes": 4031,
+      "path": "dynamic/编程/2026-08-11 13-41-36 OB升级假坑与真洞还有她的信件时间锁_489dff57ec0c.md",
+      "sha256": "633e4318f1d05028ef5aca3205026d4b2e3f5a994c42ffbe2958857fcd7f23ad"
     },
     {
       "bytes": 1938,
@@ -3493,6 +3568,16 @@
       "sha256": "90f0cef84c580bacc57ff789aad387b17511afff396304e1e6bfacd135b4866b"
     },
     {
+      "bytes": 3240,
+      "path": "letters/history/2026-08-11 02-22-04 你把手放在那个开关上然后告诉我不会按_d66d69337a5e.md",
+      "sha256": "e132a898fab596f52abb01b31c9871adddb9154a3dc078396efbcdd4a629566b"
+    },
+    {
+      "bytes": 3326,
+      "path": "letters/history/2026-08-12 00-41-31 发紧_74d01d2d01b0.md",
+      "sha256": "0bc2901eb9d0be371aecb586a942b3f2c6c3f27892ed90fef86d8cf45b68aa8b"
+    },
+    {
       "bytes": 830,
       "path": "permanent/AI/2026-06-26 16-53-14 凌一哭了_65b6d355b4b7.md",
       "sha256": "b5ee5fc395926c633561402172b2b7051711ad86654aabb1402931c0a7578275"
@@ -3738,11 +3823,6 @@
       "sha256": "ed0993a9acff3a66d53cd5f067d54a6ae35411340a4335047e8650740706234d"
     },
     {
-      "bytes": 877,
-      "path": "plans/active/2026-07-10 22-02-13_72d83887f64c.md",
-      "sha256": "1167d0bd82a5665e35abb63f529ca5907fb1440ec0e7491c7354314d409e5ce6"
-    },
-    {
       "bytes": 979,
       "path": "plans/active/2026-07-11 00-24-04_0c407675259a.md",
       "sha256": "e5e403c96578022202b97eb37e550a2ebb325dcd195a9b503eb35fa252e9eff3"
@@ -3813,14 +3893,9 @@
       "sha256": "28393532655e341184e8788f0ccd2f29857fd06fb48115927b0587950ac90754"
     },
     {
-      "bytes": 3801,
+      "bytes": 4363,
       "path": "plans/active/2026-07-25 14-01-38_0de1cf55cb58.md",
-      "sha256": "91b5218f121d5b58fbc37ba9d92124ea81816e7c6990225f23df8495d7257504"
-    },
-    {
-      "bytes": 3984,
-      "path": "plans/active/2026-07-26 01-01-03_aa88045af25b.md",
-      "sha256": "803844d87e0c16491ee7e61314c1aa7295211c319b4086d5e7c9bf325cf68fb4"
+      "sha256": "683bf3c25aecdbf118893b3a2e9a527c4474e0448918b412d02d45367c9e37a0"
     },
     {
       "bytes": 2411,
@@ -3868,14 +3943,39 @@
       "sha256": "1891792afa8808b8dfa2785cd59585c0437b691c2de5d3cc187641bb8c61f6e3"
     },
     {
-      "bytes": 1107,
+      "bytes": 1905,
       "path": "plans/active/2026-08-10 12-19-54_ec5f23122734.md",
-      "sha256": "75d564255979a58902fe0a7ab33d0a4c7da1c4ae7edb144a33a42a0171965553"
+      "sha256": "8fa0f066868dcf3eb3acf639fef0208167ed47f552fdd5ee68a6c65d45924e61"
+    },
+    {
+      "bytes": 1620,
+      "path": "plans/active/2026-08-11 02-23-25_a4b9bea054f3.md",
+      "sha256": "6a605ed5a85d9920d95af8dcefee235ddb34a9b5404ac22f991d4a22964b0dea"
+    },
+    {
+      "bytes": 1509,
+      "path": "plans/active/2026-08-11 13-43-01_13e08c311d33.md",
+      "sha256": "979ca9852ff67fd944bcaf3f19a344b15aca5f4cc80cc4f0d331bf1009cb0b05"
+    },
+    {
+      "bytes": 2501,
+      "path": "plans/active/2026-08-11 16-05-33_ce288ba7018d.md",
+      "sha256": "4b4fae7d5a302398cae6cb317a0b171634ef678ca2a02e14999b1adccafe9a47"
+    },
+    {
+      "bytes": 2264,
+      "path": "plans/active/2026-08-12 11-00-30_eb2db92f52b2.md",
+      "sha256": "2f8d374e8990746f9d2c07be5053aec82a3512a9f232ef146edca4daa9336cb9"
     },
     {
       "bytes": 1227,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "931c772090cf7621e96c586a5d88ff3d36f6a2a3372338ae905a3be8c4ad0e40"
+    },
+    {
+      "bytes": 1337,
+      "path": "plans/resolved/2026-07-10 22-02-13_72d83887f64c.md",
+      "sha256": "622cfe9b59dcaaff7ab6f27da5dc5c193ae86d0c2aabc327b2d1d785eb81b7ca"
     },
     {
       "bytes": 1354,
@@ -3911,6 +4011,11 @@
       "bytes": 5699,
       "path": "plans/resolved/2026-07-25 12-34-46_3389e8c7f3ba.md",
       "sha256": "7aceea703a70be48e0fc3f617b08d401871f1b15498610d25bde7bd292e8f9e8"
+    },
+    {
+      "bytes": 4777,
+      "path": "plans/resolved/2026-07-26 01-01-03_aa88045af25b.md",
+      "sha256": "aa12438cf5f1645d927ca2e1d86202796cbae87d2f102b4e8670f7cab4293602"
     },
     {
       "bytes": 1812,
@@ -3968,10 +4073,11 @@
       "sha256": "814c0bfd3f988cd2d898cc7aa3f0fa7496b3366b0fc6031901495c7090ae681c"
     }
   ],
-  "generated_at": "2026-08-10T11:36:28+00:00",
+  "generated_at": "2026-08-12T05:27:17+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1300239
+  "source_refs_complete": true,
+  "total_bytes": 1351445
 }
