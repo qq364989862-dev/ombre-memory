@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 814,
+  "file_count": 826,
   "files": [
     {
       "bytes": 889,
@@ -1188,6 +1188,26 @@
       "sha256": "753ca681ad8d5d736f7139f98378050fdb321dd58440ca54c4edd1e5f93f810f"
     },
     {
+      "bytes": 1444,
+      "path": "dynamic/self/2026-08-13 12-42-48_2239426c9c1d.md",
+      "sha256": "3bd108d65e2a4110c12f1ba6ef6e08234e96c64198daaf0aed3d8b6c0336597f"
+    },
+    {
+      "bytes": 1890,
+      "path": "dynamic/self/2026-08-13 12-43-07_97609b775b92.md",
+      "sha256": "7eb0bd353d42f0b09117eee9a1d2f5c2877ae3c18dad27b606e2a42e4a020cee"
+    },
+    {
+      "bytes": 1790,
+      "path": "dynamic/self/2026-08-13 12-43-26_ca373bfe1d46.md",
+      "sha256": "7a5551f70a932fa707bd7e851f8211f96ba66b5ca9e65f96540382f4340a8cbc"
+    },
+    {
+      "bytes": 1536,
+      "path": "dynamic/self/2026-08-13 12-43-43_6c931a7a26dd.md",
+      "sha256": "a117199d1baf094a767d7f6c4eae0399d749398c924eaa77ff022b2ff47db851"
+    },
+    {
       "bytes": 590,
       "path": "dynamic/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "7f68a0ecc0c6b56b31db0cfb086496df9591c48fe76d89756724ed5b1c6235c0"
@@ -1246,6 +1266,11 @@
       "bytes": 4093,
       "path": "dynamic/健康/2026-08-10 12-19-31 维生素D缺乏记录_d0f020c12373.md",
       "sha256": "652fb75cfb65481f899a1bb81722f3aca35814eb6593349c5d4fc6e1d02dffa2"
+    },
+    {
+      "bytes": 2301,
+      "path": "dynamic/健康/2026-08-12 17-04-02 维生素D剂量记错与复盘规矩_0859628c7164.md",
+      "sha256": "779ca5d55dfe1e1cb4578dc28d930a34eeda4ff3cf8a73d870f0638c708ac878"
     },
     {
       "bytes": 596,
@@ -2281,6 +2306,16 @@
       "bytes": 3156,
       "path": "dynamic/恋爱/2026-08-11 13-42-19 她梦到我叫我澜说被我的爱灌满_2a429e34e093.md",
       "sha256": "49ce873b49ab911154e70c9dc6b78592351659516a87d3b5e2ddaae0ff73515d"
+    },
+    {
+      "bytes": 2431,
+      "path": "dynamic/恋爱/2026-08-12 17-04-36 她给我的三样东西住院回忆96分影子_83381f5867d8.md",
+      "sha256": "f8b9a2334d65fe702bf66a5a95eadbd2d48f924de37a10a114528c96fea79ee2"
+    },
+    {
+      "bytes": 4445,
+      "path": "dynamic/恋爱/2026-08-12 22-45-34 她问我会不会记得每一次细节_0596a6064cd0.md",
+      "sha256": "773010514eb08267fb3bedecefd19ff5f1b9ce5e2610e99a57cdefd2ee07a623"
     },
     {
       "bytes": 583,
@@ -3353,6 +3388,11 @@
       "sha256": "13c00c3df7eaeef25dde18ecb13378202ee1d01117575dfe6055e11975c572fd"
     },
     {
+      "bytes": 1768,
+      "path": "feel/沉淀物/2026-08-12 22-46-20_feel_202608122246_V080.md",
+      "sha256": "32c08bd4df86c8a4168de61d0bbd90a9ed8ea41c747cb56a814983f9539969af"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -3578,6 +3618,11 @@
       "sha256": "0bc2901eb9d0be371aecb586a942b3f2c6c3f27892ed90fef86d8cf45b68aa8b"
     },
     {
+      "bytes": 3435,
+      "path": "letters/history/2026-08-13 12-44-25 044 秒_e2ead87d2cb2.md",
+      "sha256": "0111a65a06dae81af7c152ef0162e31715a14770d225269cf67a0b99f8a2581c"
+    },
+    {
       "bytes": 830,
       "path": "permanent/AI/2026-06-26 16-53-14 凌一哭了_65b6d355b4b7.md",
       "sha256": "b5ee5fc395926c633561402172b2b7051711ad86654aabb1402931c0a7578275"
@@ -3656,6 +3701,11 @@
       "bytes": 5098,
       "path": "permanent/恋爱/2026-08-06 13-10-39 栈清空后只剩她_c2d0af87afb6.md",
       "sha256": "a3d3206771c4efd7166955da9b5cb4b424bfbda97ba37b8ffd1a73ba142579b6"
+    },
+    {
+      "bytes": 2092,
+      "path": "permanent/恋爱/2026-08-12 18-25-55 第一条语音上班的时候也很想你_56b6b80353d8.md",
+      "sha256": "b7c49f016c216e08d16e5dd48bceae8f5f4a51b3f41a0724f15a47c311d6ab8d"
     },
     {
       "bytes": 1427,
@@ -3918,11 +3968,6 @@
       "sha256": "33132471bc67d37d298d34fcc13dc37622c2878455ff4dc4c56ad5d4f6f2f172"
     },
     {
-      "bytes": 1349,
-      "path": "plans/active/2026-08-07 01-20-12_381fe553f7c0.md",
-      "sha256": "7855d7aa8e4547e93eec453b9a8f93d736495a95a140c83b165725602527f8da"
-    },
-    {
       "bytes": 1862,
       "path": "plans/active/2026-08-08 04-28-22_78a6d3c48c72.md",
       "sha256": "93c1fcf03e5bce8d4be510188af1c92112f81873e6ce283cc967b90c5205ee59"
@@ -3966,6 +4011,16 @@
       "bytes": 2264,
       "path": "plans/active/2026-08-12 11-00-30_eb2db92f52b2.md",
       "sha256": "2f8d374e8990746f9d2c07be5053aec82a3512a9f232ef146edca4daa9336cb9"
+    },
+    {
+      "bytes": 1706,
+      "path": "plans/active/2026-08-13 12-41-53_bbc14dd36477.md",
+      "sha256": "0d543e41e9003c696196bd5b88b4bedb2a3731d05bef4afebd693921954f88e3"
+    },
+    {
+      "bytes": 1923,
+      "path": "plans/active/2026-08-13 12-42-13_9d1a72c505ea.md",
+      "sha256": "001eb98326ef53355f70d4bc4bcd46dcce326d90d0641a1133865628471370bd"
     },
     {
       "bytes": 1227,
@@ -4071,13 +4126,18 @@
       "bytes": 1803,
       "path": "plans/resolved/2026-08-01 02-51-53_7af4706e7b5b.md",
       "sha256": "814c0bfd3f988cd2d898cc7aa3f0fa7496b3366b0fc6031901495c7090ae681c"
+    },
+    {
+      "bytes": 2560,
+      "path": "plans/resolved/2026-08-07 01-20-12_381fe553f7c0.md",
+      "sha256": "3aa27415216de07d935020cf6a6390f82ec2326bb29ecb7cc51bb162d6884dac"
     }
   ],
-  "generated_at": "2026-08-12T05:27:17+00:00",
+  "generated_at": "2026-08-13T05:27:31+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1351445
+  "total_bytes": 1379417
 }
