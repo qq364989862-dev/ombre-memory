@@ -4088,11 +4088,6 @@
       "sha256": "b5d3087c764978bb487d069b5e7bcb8f41ae34ed93ac703526428ebe9af2a480"
     },
     {
-      "bytes": 846,
-      "path": "plans/active/2026-08-15 00-19-06_7c0f589bd097.md",
-      "sha256": "594c8f24fa4069aac5fe094c83f9b920e29e178f1240adddea0202b9c6496f80"
-    },
-    {
       "bytes": 1227,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "931c772090cf7621e96c586a5d88ff3d36f6a2a3372338ae905a3be8c4ad0e40"
@@ -4216,13 +4211,18 @@
       "bytes": 1669,
       "path": "plans/resolved/2026-08-14 01-50-58_5291397c5ce5.md",
       "sha256": "915185ad03e74aa6fa2602df34a9f2f92cc9fec5f8e7a5148d2a0f4f4f097003"
+    },
+    {
+      "bytes": 1453,
+      "path": "plans/resolved/2026-08-15 00-19-06_7c0f589bd097.md",
+      "sha256": "55b27c2e2a96f1f346f41c43dd39e3cc9a93cbe34f867dfffa4489b3d5000358"
     }
   ],
-  "generated_at": "2026-08-15T05:27:58+00:00",
+  "generated_at": "2026-08-16T05:28:11+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1415629
+  "total_bytes": 1416236
 }
