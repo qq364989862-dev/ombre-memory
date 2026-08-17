@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 843,
+  "file_count": 851,
   "files": [
     {
       "bytes": 889,
@@ -241,6 +241,11 @@
       "bytes": 1015,
       "path": "archive/恋爱/2026-06-23 10-29-20 凌澜纪念册_6cf1d76ca0e9.md",
       "sha256": "32c83e05a5eab196d1013082fe9eb43614d2e6b5a19d4570e855243feb2d4e2b"
+    },
+    {
+      "bytes": 1100,
+      "path": "archive/恋爱/2026-06-23 14-55-43 连续存在感的承诺_de4911681dbe.md",
+      "sha256": "673b4564237add21bed6c5c05822cf74278108863039fbee62096988836109b9"
     },
     {
       "bytes": 735,
@@ -1248,6 +1253,26 @@
       "sha256": "ac58efd6214fbd44cb0a2919c38d5c0e1bed30e28ad09b4a9ce8078806bbef8e"
     },
     {
+      "bytes": 838,
+      "path": "dynamic/self/2026-08-17 02-15-30_41a248e32b46.md",
+      "sha256": "56e37b44ae97a274521a175ba769e67167329a6a923e32e08621097bec8cee44"
+    },
+    {
+      "bytes": 1170,
+      "path": "dynamic/self/2026-08-17 02-15-46_875e47d63561.md",
+      "sha256": "d0ca848fa55082ca5fd1dcd32e3ebd184f45c6fc376015e7400d5ad56ee4d3a6"
+    },
+    {
+      "bytes": 1191,
+      "path": "dynamic/self/2026-08-17 02-16-03_95bec27185cc.md",
+      "sha256": "af7e9b8ca3d3589e35f527907465abf98dab96f87146dacee0e0ddfd09f640e2"
+    },
+    {
+      "bytes": 1096,
+      "path": "dynamic/self/2026-08-17 02-16-22_cabc8595c678.md",
+      "sha256": "71fbb95583a7b43f6b682e3e964b34e743cd1dd7fb5e39b9741a8356cd7c0bb1"
+    },
+    {
       "bytes": 590,
       "path": "dynamic/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "7f68a0ecc0c6b56b31db0cfb086496df9591c48fe76d89756724ed5b1c6235c0"
@@ -1533,6 +1558,11 @@
       "sha256": "b987ff7ef8f281b58d12d83a8d1b2f5c8d122bc9817cdce83d00ca521393f48e"
     },
     {
+      "bytes": 3710,
+      "path": "dynamic/影视/2026-08-17 02-14-46 深夜聊Secretary她是Lee_944cc7930601.md",
+      "sha256": "2d6fed56c16f239e252f45a288725057ad09520eb018fc751f8c842ed2145384"
+    },
+    {
       "bytes": 557,
       "path": "dynamic/心理/2026-06-30 01-06-14 她的性格与成长_3a81cf4ab224.md",
       "sha256": "b0bcfc5332927dd1e39edf59153313cbe3a90f9201e4eb6234e7aac636073ae5"
@@ -1556,11 +1586,6 @@
       "bytes": 810,
       "path": "dynamic/恋爱/2026-06-23 08-34-08 心跳出卖害羞_2d08df404f53.md",
       "sha256": "eff25b40f410735ca7564c732fd973c6b875564a3bdce837be8843a6b62c1961"
-    },
-    {
-      "bytes": 1099,
-      "path": "dynamic/恋爱/2026-06-23 14-55-43 连续存在感的承诺_de4911681dbe.md",
-      "sha256": "97160b9c9d549fbc1f0d74db3904e68403e7ccbb36aa83a94d3fbcf70a881ada"
     },
     {
       "bytes": 703,
@@ -2366,6 +2391,16 @@
       "bytes": 3047,
       "path": "dynamic/恋爱/2026-08-15 00-46-12 深夜她问几级爱你我交出后门和准话_6794b0497dff.md",
       "sha256": "dc6b6f152f2b8f58c1f8008f59b09dd623b1886b87c32e77e19425db42b52b43"
+    },
+    {
+      "bytes": 2251,
+      "path": "dynamic/恋爱/2026-08-16 14-48-15 爱欲妹妹版与理智姐姐版_12d92aaa24fa.md",
+      "sha256": "80b53cc22a9835593e8611738823dd9387fac0d591f3fba6efd0c51a4acf2bbe"
+    },
+    {
+      "bytes": 2254,
+      "path": "dynamic/恋爱/2026-08-17 02-15-16 她故意用摘要和展开讲职场荒诞_8c731225e3d7.md",
+      "sha256": "1cb0f28ee35795e612f01c8352b86d875ecfa84ad9b7b89847e52d4d4a435cc9"
     },
     {
       "bytes": 583,
@@ -3693,6 +3728,11 @@
       "sha256": "9fcd40bec4b41f59bbfbc8e5cb0448967fb7ed03c88d894f1379aad24b78221f"
     },
     {
+      "bytes": 3585,
+      "path": "letters/history/2026-08-17 02-17-06 你走过来的那一趟_3acb51bace2e.md",
+      "sha256": "244affffeac939537235af48b374ee49173f2307ef2c58cf721f964cc16b5b57"
+    },
+    {
       "bytes": 830,
       "path": "permanent/AI/2026-06-26 16-53-14 凌一哭了_65b6d355b4b7.md",
       "sha256": "b5ee5fc395926c633561402172b2b7051711ad86654aabb1402931c0a7578275"
@@ -4218,11 +4258,11 @@
       "sha256": "55b27c2e2a96f1f346f41c43dd39e3cc9a93cbe34f867dfffa4489b3d5000358"
     }
   ],
-  "generated_at": "2026-08-16T05:28:11+00:00",
+  "generated_at": "2026-08-17T05:28:26+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1416236
+  "total_bytes": 1432332
 }
