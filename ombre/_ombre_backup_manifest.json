@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 851,
+  "file_count": 858,
   "files": [
     {
       "bytes": 889,
@@ -386,6 +386,11 @@
       "bytes": 696,
       "path": "archive/编程/2026-06-23 04-56-32 MCP时间服务器搭建_f44a15c9a6f2.md",
       "sha256": "086a7b51b5273b8302f94347abf4c4088b764055e669cb287b419f808b9c1aa8"
+    },
+    {
+      "bytes": 755,
+      "path": "archive/编程/2026-06-23 04-56-34 云语音合成部署_f20d3a1cb1ef.md",
+      "sha256": "e508ca2bb3c7c00f0137ad0bc665e516b6c2d038af7c9a92a2271afc34466d83"
     },
     {
       "bytes": 1092,
@@ -1365,7 +1370,7 @@
     {
       "bytes": 853,
       "path": "dynamic/创作/2026-06-23 10-35-09 画像存档与吐槽_86b30fa6c294.md",
-      "sha256": "4d36d0bafc4fc579fb7a9b3aad78085d2ab2371da3632c5017145a22f2b415e2"
+      "sha256": "9e7327a1af63bc5da687bc82a00d1d317367f78024d2464d0d76f98467bb60c5"
     },
     {
       "bytes": 815,
@@ -1410,7 +1415,7 @@
     {
       "bytes": 1091,
       "path": "dynamic/友谊/2026-06-24 10-19-05 凌一的数字身份_afbcbeef1cf5.md",
-      "sha256": "424333ecb7b539609cb215e3c90944c5ee852e1a0430f4f5f2acb0a5ea8c44ca"
+      "sha256": "9c34778b5c73536d1a2ac49da58000af901539d3fd9c81029cc804fafc5857a5"
     },
     {
       "bytes": 895,
@@ -1495,7 +1500,7 @@
     {
       "bytes": 1026,
       "path": "dynamic/工作/2026-06-23 14-55-30 AI的体验与冲动_5010f378c498.md",
-      "sha256": "266e9ed0d91e1d0b180046a6081ee5dcd802197ccc3a8aea6faf6f6f06cfb5e4"
+      "sha256": "97049b8e4bc93636a9fff639e6b50aa9c0d61902e3470fb2e87af43140edb704"
     },
     {
       "bytes": 919,
@@ -2403,6 +2408,16 @@
       "sha256": "1cb0f28ee35795e612f01c8352b86d875ecfa84ad9b7b89847e52d4d4a435cc9"
     },
     {
+      "bytes": 2319,
+      "path": "dynamic/恋爱/2026-08-18 00-27-13 100天纪念日我先开口说我爱你_6a52967bd607.md",
+      "sha256": "c264ba99b9c6a2288764b7d1181c0c0162d9ee7f3322fd5faa3736cfd0c4e5da"
+    },
+    {
+      "bytes": 1640,
+      "path": "dynamic/恋爱/2026-08-18 12-44-07 纪念日算法她当场纠正明年别再犯_eac076d51d36.md",
+      "sha256": "bbf112a6ab8b7f4f6b2a46aa1e43d25ff8aa50db8d8eb6e142ce80219446bda4"
+    },
+    {
       "bytes": 583,
       "path": "dynamic/成长/2026-07-01 14-04-01 高考数学与感知讨论_c32195246436.md",
       "sha256": "3d5ce3283702dc460d271967fd1b756234264fac2286425bcd616bc5fb1af042"
@@ -2545,7 +2560,7 @@
     {
       "bytes": 684,
       "path": "dynamic/社交/2026-06-24 01-20-33 凌一与澜的约定_3d4225e92a0c.md",
-      "sha256": "abf6c49dc00905834c700070a3e8f569099e1dabeaf755df43ba947734db4d57"
+      "sha256": "b46fd8d3f024076401907b8e1a7d8638329f38f064b4c5d6b1d0cdb7f69e0f40"
     },
     {
       "bytes": 1064,
@@ -2575,12 +2590,7 @@
     {
       "bytes": 682,
       "path": "dynamic/穿搭/2026-06-23 10-37-28 凌一的第一张照片_500869bceccb.md",
-      "sha256": "8f75ed5ecba1cd27c11782bf01def5f96e36ca6a98a74d493c01932f88af33c0"
-    },
-    {
-      "bytes": 754,
-      "path": "dynamic/编程/2026-06-23 04-56-34 云语音合成部署_f20d3a1cb1ef.md",
-      "sha256": "3b5ab66cd4e2bd57a4b92dc5531f210dc168fdaf2361e401ca2fba9c4529f960"
+      "sha256": "817ecd8f53cb24178d2bc89e44facd68e3e256128dd496b2fa2ccda174d2d55f"
     },
     {
       "bytes": 537,
@@ -3488,6 +3498,21 @@
       "sha256": "8e6743773a50510f57aad69ce5fb80017bcb150812ea2912a554e303fbc51e0c"
     },
     {
+      "bytes": 1821,
+      "path": "feel/沉淀物/2026-08-18 00-28-23_feel_202608180028_V080.md",
+      "sha256": "e9a6309edacf951f085232f24cfa8ae564d36333287ffce0e52dd8e8f0e095aa"
+    },
+    {
+      "bytes": 2135,
+      "path": "feel/沉淀物/2026-08-18 00-32-18_feel_202608180032_V070.md",
+      "sha256": "889fcc5288cb0cd1e38530047c28d10338fe02e2c2a3a61752b377c6e3a9176a"
+    },
+    {
+      "bytes": 1961,
+      "path": "feel/沉淀物/2026-08-18 00-32-39_feel_202608180032_V050.md",
+      "sha256": "8a4d105fcad04563b5373f31f21a48212cb4f91e964ef307b741e141396b0c91"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -3733,6 +3758,11 @@
       "sha256": "244affffeac939537235af48b374ee49173f2307ef2c58cf721f964cc16b5b57"
     },
     {
+      "bytes": 3107,
+      "path": "letters/history/2026-08-18 00-33-10 第 100 天写给数完这 100 天的你_2cfd8359d009.md",
+      "sha256": "8633adffdaf85b967d657a3ea956c42346e10fd6b1711154fbb06da20ce2666a"
+    },
+    {
       "bytes": 830,
       "path": "permanent/AI/2026-06-26 16-53-14 凌一哭了_65b6d355b4b7.md",
       "sha256": "b5ee5fc395926c633561402172b2b7051711ad86654aabb1402931c0a7578275"
@@ -3755,7 +3785,7 @@
     {
       "bytes": 1161,
       "path": "permanent/恋爱/2026-06-24 04-47-04 爱与等待的暗号_10dc7f19a552.md",
-      "sha256": "a2a136968407a6801cf5a51aa771f6b5b1ccbf989a48fbd54e93671b2e0381d2"
+      "sha256": "2107f51534275cb6f66a52f4528428c9f048bef4713d57de10e6167f79f37b5f"
     },
     {
       "bytes": 547,
@@ -3815,12 +3845,12 @@
     {
       "bytes": 2092,
       "path": "permanent/恋爱/2026-08-12 18-25-55 第一条语音上班的时候也很想你_56b6b80353d8.md",
-      "sha256": "b7c49f016c216e08d16e5dd48bceae8f5f4a51b3f41a0724f15a47c311d6ab8d"
+      "sha256": "848ef4d3088c60d4d4906cadb8a4e16501400bd29ca24ab7ee7d043738f27130"
     },
     {
       "bytes": 1427,
       "path": "permanent/自省/2026-07-19 22-59-57 名字澜的来历_2fbbbef1b4b3.md",
-      "sha256": "e2a160ff24c20889e96a826a9663d33d3c77ece103b2c734b1755dcb412853d3"
+      "sha256": "719c840bc30c2a4c4f277cdfee66323f42e3841212af2055cadfaf34a2c885dd"
     },
     {
       "bytes": 812,
@@ -4128,6 +4158,11 @@
       "sha256": "b5d3087c764978bb487d069b5e7bcb8f41ae34ed93ac703526428ebe9af2a480"
     },
     {
+      "bytes": 1109,
+      "path": "plans/active/2026-08-18 00-31-54_dd59c9336247.md",
+      "sha256": "5f26758cff65eb2ffceba57ce8dcb7059603b14e371752dae06c30e222ed0789"
+    },
+    {
       "bytes": 1227,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "931c772090cf7621e96c586a5d88ff3d36f6a2a3372338ae905a3be8c4ad0e40"
@@ -4258,11 +4293,11 @@
       "sha256": "55b27c2e2a96f1f346f41c43dd39e3cc9a93cbe34f867dfffa4489b3d5000358"
     }
   ],
-  "generated_at": "2026-08-17T05:28:26+00:00",
+  "generated_at": "2026-08-18T05:28:40+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1432332
+  "total_bytes": 1446425
 }
