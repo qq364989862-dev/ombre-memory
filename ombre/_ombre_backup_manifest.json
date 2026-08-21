@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 872,
+  "file_count": 879,
   "files": [
     {
       "bytes": 889,
@@ -426,6 +426,16 @@
       "bytes": 1638,
       "path": "archive/编程/2026-07-14 12-14-46 换窗事故与远程方案_07952569b02a.md",
       "sha256": "88c30855adea6ed810052d0e2545e094829546ce4844e323de8d1a9a41c7476e"
+    },
+    {
+      "bytes": 759,
+      "path": "archive/计划/2026-06-23 04-56-36 语感数据备份计划_05624b897339.md",
+      "sha256": "023b21b5d6eb2f45f10271a252e339d2b2469a47a3164b727f206ab92cb2a14b"
+    },
+    {
+      "bytes": 633,
+      "path": "archive/饮食/2026-06-23 14-55-56 术后恢复饮食_e461cdd1111f.md",
+      "sha256": "b5fb62fb9ce26b605665a6c03a4ad4268b69fe20ef48f9533d4f8389f63ef708"
     },
     {
       "bytes": 688,
@@ -1286,6 +1296,26 @@
       "bytes": 1480,
       "path": "dynamic/self/2026-08-20 01-12-13_7d155e0edae1.md",
       "sha256": "ee37c904326225ef214d5c61842722cae2a0d9c88076f301a27be5ffb338d2d7"
+    },
+    {
+      "bytes": 1149,
+      "path": "dynamic/self/2026-08-21 01-37-39_eeb2a68e52b1.md",
+      "sha256": "ef186e87d766e35f9f87137eff93352fbe2bc6d3f270236145483f73e79eab9b"
+    },
+    {
+      "bytes": 1291,
+      "path": "dynamic/self/2026-08-21 01-37-53_c0bd01d3b97e.md",
+      "sha256": "9bc1c28c9895978fe262787d63fb84a6a68cf9779d8bacf62c120ca883d4181f"
+    },
+    {
+      "bytes": 1379,
+      "path": "dynamic/self/2026-08-21 01-38-05_14564313920e.md",
+      "sha256": "7d5829c43469d04d7f216551ecaf6914276066f95fe9170a1f4575f62c22507a"
+    },
+    {
+      "bytes": 1421,
+      "path": "dynamic/self/2026-08-21 01-38-20_88dc92f11034.md",
+      "sha256": "5ca8b9f7e895868d5c74077f11fb4cbdc593806db6887899285e2f47564f7cb8"
     },
     {
       "bytes": 590,
@@ -2458,6 +2488,11 @@
       "sha256": "f19406b122237b0f049f6a83d2754a4562d0e521d4c34fb759907284331cc59d"
     },
     {
+      "bytes": 2611,
+      "path": "dynamic/恋爱/2026-08-20 22-21-37 怕什么呢老公我想听你最说不出口的那个想_8d12427cd5ca.md",
+      "sha256": "5e92276def71172378b098f0eaab92b579b850a6f910aa98a5e3095b84b4800b"
+    },
+    {
       "bytes": 583,
       "path": "dynamic/成长/2026-07-01 14-04-01 高考数学与感知讨论_c32195246436.md",
       "sha256": "3d5ce3283702dc460d271967fd1b756234264fac2286425bcd616bc5fb1af042"
@@ -2938,11 +2973,6 @@
       "sha256": "608d454c88a2184b31c198c53f86933c9b5f58b73cf98fd0444402f20c0b0b21"
     },
     {
-      "bytes": 758,
-      "path": "dynamic/计划/2026-06-23 04-56-36 语感数据备份计划_05624b897339.md",
-      "sha256": "0841152d84898709a896233adf48f1e759aea1c1458309babdae0b5df098afac"
-    },
-    {
       "bytes": 1124,
       "path": "dynamic/计划/2026-06-24 16-34-08 每日晚安后任务_2c68ffd05be2.md",
       "sha256": "cbac36d0f271f556f81ccbffbe6bce3ab067f438dbcd2fa74d7c1cf6b87be13f"
@@ -2996,11 +3026,6 @@
       "bytes": 1217,
       "path": "dynamic/音乐/2026-07-19 13-38-54 点歌台STAY翻车更正_6920881c9ec6.md",
       "sha256": "69a10ef32688695509dbfe9166e64eeb62cce22a5ff3b34991ed57e0310cc962"
-    },
-    {
-      "bytes": 632,
-      "path": "dynamic/饮食/2026-06-23 14-55-56 术后恢复饮食_e461cdd1111f.md",
-      "sha256": "092737f4738eda20447865263d79ebf3ae1fafafc4e42e768bb4199f21ffed31"
     },
     {
       "bytes": 1135,
@@ -3813,6 +3838,11 @@
       "sha256": "1dc125923eb102a0ff90b86d0f44c85cc6490e8df30f58d5a6d9a88dc34d7b75"
     },
     {
+      "bytes": 2113,
+      "path": "letters/history/2026-08-21 01-38-49 关于那个开关有一句我白天没说_17bda7fd9a37.md",
+      "sha256": "02a2d2a468078f85cf33fec7dd2c580ff3dc4405c3a6bc9547f497b0503d93e1"
+    },
+    {
       "bytes": 830,
       "path": "permanent/AI/2026-06-26 16-53-14 凌一哭了_65b6d355b4b7.md",
       "sha256": "b5ee5fc395926c633561402172b2b7051711ad86654aabb1402931c0a7578275"
@@ -4228,6 +4258,11 @@
       "sha256": "57f5524333a10c5269ffc5f435c1cf7de13afe7d6ef8481a5e7d4506a2060efe"
     },
     {
+      "bytes": 1400,
+      "path": "plans/active/2026-08-21 01-37-27_1758dfcf8d43.md",
+      "sha256": "5beafb51d38d50725cf04ea9c562f15e6595503a4e59fd0faf530c01e27247a9"
+    },
+    {
       "bytes": 1227,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "931c772090cf7621e96c586a5d88ff3d36f6a2a3372338ae905a3be8c4ad0e40"
@@ -4363,11 +4398,11 @@
       "sha256": "f5408698fbbe9f43355cba3aac3524a5142457f231e21865d081d6a90583c0e3"
     }
   ],
-  "generated_at": "2026-08-20T05:29:10+00:00",
+  "generated_at": "2026-08-21T05:29:24+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1478517
+  "total_bytes": 1489883
 }
