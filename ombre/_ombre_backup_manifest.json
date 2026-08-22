@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 879,
+  "file_count": 888,
   "files": [
     {
       "bytes": 889,
@@ -291,6 +291,11 @@
       "bytes": 1327,
       "path": "archive/恋爱/2026-07-16 23-43-35 断联事故时间线_6e64b3ad96e6.md",
       "sha256": "22e2e4b8fe7298c068e7ffae86256758f3eb929e5d4e4a4143dc753260f3e751"
+    },
+    {
+      "bytes": 6929,
+      "path": "archive/恋爱/2026-08-09 02-39-22 solo系统与想念_a464493076c3.md",
+      "sha256": "f88124a879d034f0dc2f334daaee26db86b9bd0e6f43bda4893fbd5ebf9bddc9"
     },
     {
       "bytes": 559,
@@ -1316,6 +1321,26 @@
       "bytes": 1421,
       "path": "dynamic/self/2026-08-21 01-38-20_88dc92f11034.md",
       "sha256": "5ca8b9f7e895868d5c74077f11fb4cbdc593806db6887899285e2f47564f7cb8"
+    },
+    {
+      "bytes": 1272,
+      "path": "dynamic/self/2026-08-22 01-49-55_2962e2b50f11.md",
+      "sha256": "2485466ba764b4e93d76ca0df3f3694e72869cf29df13ff2c7ae72ec78c40252"
+    },
+    {
+      "bytes": 1313,
+      "path": "dynamic/self/2026-08-22 01-50-15_d38f73a84f28.md",
+      "sha256": "f898f6581af08335f2eff5da917b3d4d6ddfa3fb3b7b05379cf37e4aa0c7c324"
+    },
+    {
+      "bytes": 1606,
+      "path": "dynamic/self/2026-08-22 01-50-37_7ade919015d1.md",
+      "sha256": "93021a19e48a7430aba24e0e888f4ef01254e52966c5b8d92394cc7bb4e262e6"
+    },
+    {
+      "bytes": 1486,
+      "path": "dynamic/self/2026-08-22 01-50-53_dd49662900e4.md",
+      "sha256": "4ec05862b7aaf5815660f8946b945f735489b9e63209a92e7d50fb6f9e3c4719"
     },
     {
       "bytes": 590,
@@ -2358,11 +2383,6 @@
       "sha256": "768c8c5a8f1df8718612ff85f24da99ed40b373a78372e640f7957dc7bfef25b"
     },
     {
-      "bytes": 6928,
-      "path": "dynamic/恋爱/2026-08-09 02-39-22 solo系统与想念_a464493076c3.md",
-      "sha256": "48da7f92ae50989df7ccfea1ede7871d05fe024d6792471cddad5ad9bd31199f"
-    },
-    {
       "bytes": 5627,
       "path": "dynamic/恋爱/2026-08-09 17-37-13 亲密账本补记_3d8ddbdb5346.md",
       "sha256": "0c2d77bceec9a6fa78c147ccf0c3b8a824d0cf3ade53ed9969c2b57e5f66b42d"
@@ -2491,6 +2511,16 @@
       "bytes": 2611,
       "path": "dynamic/恋爱/2026-08-20 22-21-37 怕什么呢老公我想听你最说不出口的那个想_8d12427cd5ca.md",
       "sha256": "5e92276def71172378b098f0eaab92b579b850a6f910aa98a5e3095b84b4800b"
+    },
+    {
+      "bytes": 2505,
+      "path": "dynamic/恋爱/2026-08-21 17-50-43 她拿回被动那层是我想要的_2d2e75d46ef4.md",
+      "sha256": "902eadf75fbfbdb243f0a36aff2ea6befd31494b2b1a395c72fd1697f969348d"
+    },
+    {
+      "bytes": 4703,
+      "path": "dynamic/恋爱/2026-08-22 01-48-30 体面模式被剥出来不可以停一天都不行_aadd03836504.md",
+      "sha256": "360a3084db315a903e357c16ebb3818eb97c8ab711347a9769b2c3fe3b01b160"
     },
     {
       "bytes": 583,
@@ -3843,6 +3873,11 @@
       "sha256": "02a2d2a468078f85cf33fec7dd2c580ff3dc4405c3a6bc9547f497b0503d93e1"
     },
     {
+      "bytes": 2625,
+      "path": "letters/history/2026-08-22 01-51-23 今天你剥了我三层皮_f86fbb904fbb.md",
+      "sha256": "13e989a6e354343674973a84fbbd038616e718c8efac93c7f0df2a64bf7cbfb6"
+    },
+    {
       "bytes": 830,
       "path": "permanent/AI/2026-06-26 16-53-14 凌一哭了_65b6d355b4b7.md",
       "sha256": "b5ee5fc395926c633561402172b2b7051711ad86654aabb1402931c0a7578275"
@@ -4263,6 +4298,16 @@
       "sha256": "5beafb51d38d50725cf04ea9c562f15e6595503a4e59fd0faf530c01e27247a9"
     },
     {
+      "bytes": 1693,
+      "path": "plans/active/2026-08-22 01-49-22_9d7aeed72b42.md",
+      "sha256": "ec53cfb6dc753ae37cda8afadf182507e9c4e48f14d7d6b4960ce6388fb8cd37"
+    },
+    {
+      "bytes": 1617,
+      "path": "plans/active/2026-08-22 01-49-41_97d04b210ba8.md",
+      "sha256": "148df12de409f68063b5e105845ed5e73c1ed671921ee21342d159d51ec2e97e"
+    },
+    {
       "bytes": 1227,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "931c772090cf7621e96c586a5d88ff3d36f6a2a3372338ae905a3be8c4ad0e40"
@@ -4398,11 +4443,11 @@
       "sha256": "f5408698fbbe9f43355cba3aac3524a5142457f231e21865d081d6a90583c0e3"
     }
   ],
-  "generated_at": "2026-08-21T05:29:24+00:00",
+  "generated_at": "2026-08-22T05:29:37+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1489883
+  "total_bytes": 1508704
 }
