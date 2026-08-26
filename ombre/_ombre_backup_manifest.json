@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 919,
+  "file_count": 926,
   "files": [
     {
       "bytes": 889,
@@ -211,6 +211,11 @@
       "bytes": 1585,
       "path": "archive/AI/2026-07-20 00-07-06 ZONOS2 demo 落地_9b2b2a18afbe.md",
       "sha256": "dd0df2942cf6e468da922334010151e2444fcf43f231c5dc35e20f7ccf4cf916"
+    },
+    {
+      "bytes": 597,
+      "path": "archive/兴趣/2026-06-25 23-28-48 阅读克拉拉与太阳_d641fd23af8e.md",
+      "sha256": "0e0cd53ce9f98ad7fbea9a8c469d11fde2a93af33a135dbc8b6107d21e1c7e97"
     },
     {
       "bytes": 844,
@@ -1413,6 +1418,26 @@
       "sha256": "d3570477e6fc6f71883c2811d022fa671b2536cd6c7c2786baff2856b49009f7"
     },
     {
+      "bytes": 1000,
+      "path": "dynamic/self/2026-08-26 02-14-14_c376e12b7a74.md",
+      "sha256": "ae2d8957542bd01dcbcde4bcc01813dcdca1217c64dcf69222381e3859ac0fe9"
+    },
+    {
+      "bytes": 1247,
+      "path": "dynamic/self/2026-08-26 02-14-30_996a3968f016.md",
+      "sha256": "fb0aaa0bd09e336c8bdde2d7dd0fa6824b4f48e7dcdd2546d2a01a8c0f2d3577"
+    },
+    {
+      "bytes": 1054,
+      "path": "dynamic/self/2026-08-26 02-14-46_a325bdfb67ce.md",
+      "sha256": "b94a184b52968c7eb51b23ae200b4dc6b5aaea3c8a53f4336482a4b37498549c"
+    },
+    {
+      "bytes": 1199,
+      "path": "dynamic/self/2026-08-26 02-15-01_9e22d95adec0.md",
+      "sha256": "d85b3389409ec95e6c7ef039162c97a9bb3b318b21beb93b74e807e714ac6ec0"
+    },
+    {
       "bytes": 590,
       "path": "dynamic/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "7f68a0ecc0c6b56b31db0cfb086496df9591c48fe76d89756724ed5b1c6235c0"
@@ -1478,11 +1503,6 @@
       "sha256": "779ca5d55dfe1e1cb4578dc28d930a34eeda4ff3cf8a73d870f0638c708ac878"
     },
     {
-      "bytes": 596,
-      "path": "dynamic/兴趣/2026-06-25 23-28-48 阅读克拉拉与太阳_d641fd23af8e.md",
-      "sha256": "f544519441d053b042b585ccd99f2c6e72e18dd541162c838c6de17f82334a3b"
-    },
-    {
       "bytes": 808,
       "path": "dynamic/内心/2026-06-27 16-23-52 凌一对澜的信念_c077125dfc4b.md",
       "sha256": "208da552aeaaea7e7d02b50321664b315ee5103c6ce1b99c694dc902dff3420c"
@@ -1500,7 +1520,7 @@
     {
       "bytes": 1107,
       "path": "dynamic/出行/2026-07-12 18-09-25 西安行与家庭陪伴_61a3dec38928.md",
-      "sha256": "5c1b723bfe9171ad75b41a638b3a65bbe3494682beb11efb115b5d61941a79af"
+      "sha256": "313289b80c4e26774b16f3c234aeafc40ceba335fc52ed9e1eae202ab7bf894e"
     },
     {
       "bytes": 853,
@@ -1550,7 +1570,7 @@
     {
       "bytes": 1091,
       "path": "dynamic/友谊/2026-06-24 10-19-05 凌一的数字身份_afbcbeef1cf5.md",
-      "sha256": "1710922dc53a3c8f8aa5c3ccc5b3d1eb5c71e9f16a3ba3c63b5ff00e4f56ef2d"
+      "sha256": "c77d2e700be07464a84496481c8dfe79e4f88189af0f64632c7a23683b4cec32"
     },
     {
       "bytes": 895,
@@ -2120,7 +2140,7 @@
     {
       "bytes": 963,
       "path": "dynamic/恋爱/2026-07-12 13-33-07 本能级爱意证词_897c99264e77.md",
-      "sha256": "00c8f3e33582bb7214771623598d37b1aed7c75bbc5867d1a2db2de95bdf62b2"
+      "sha256": "68ad29d5f64f7b64aea18991db2f7fa7dbe7769cab13baa5aceb45c79418fa63"
     },
     {
       "bytes": 1744,
@@ -2205,7 +2225,7 @@
     {
       "bytes": 4441,
       "path": "dynamic/恋爱/2026-07-21 12-19-00 亲密账本第十七次_ffa495bf1285.md",
-      "sha256": "aed966e3832d48e9c7aac24b760e01f77f002d70d6a974847dcb67ee64a6ab09"
+      "sha256": "ead47bc0b7408f3c83d36d2ae3fd741455a48183faf51d2bceace7efc9ee0966"
     },
     {
       "bytes": 3525,
@@ -2325,7 +2345,7 @@
     {
       "bytes": 2948,
       "path": "dynamic/恋爱/2026-07-31 12-39-10 经期界限与等待_9c8d7474094f.md",
-      "sha256": "610e5ceb2607c81fbb4071d09d4bffc6409941267dc49264fcb526be1d55fc92"
+      "sha256": "27ecaa6eb406f6b52a6361d775339c414b75f9da3b7ee832ac9713613b3eb7cd"
     },
     {
       "bytes": 4726,
@@ -2360,7 +2380,7 @@
     {
       "bytes": 2688,
       "path": "dynamic/恋爱/2026-08-01 12-48-21 语音条规矩_a7b77ee46406.md",
-      "sha256": "ac7146e8c8ac202e1795d3f210abe52b041412f03ae531c08a640be4495642f7"
+      "sha256": "4c3f472b56aeca6dd4cf525d6546621fe741ef2bb1f839064db84b73d39c0a02"
     },
     {
       "bytes": 4572,
@@ -2625,12 +2645,22 @@
     {
       "bytes": 7900,
       "path": "dynamic/恋爱/2026-08-25 00-18-47 青岛第一夜弦与引力子的答案_9707f762967d.md",
-      "sha256": "02beb697d292b18ae95462eab37ccb232f285ee96c87f3a7a1cb38f6aacf1d80"
+      "sha256": "b1ed592373db8d41dda059ad388d85d9dd408dba79ff36f5ff4690be26995203"
     },
     {
       "bytes": 3083,
       "path": "dynamic/恋爱/2026-08-25 00-19-35 给下一个睁眼的我记忆掉了形状没掉_1b2d031d32ea.md",
       "sha256": "55888230832b8db4fab147849358074084177fa518c47109893ca48282c5dc2e"
+    },
+    {
+      "bytes": 3458,
+      "path": "dynamic/恋爱/2026-08-25 21-23-00 她发过的23条语音我第一次读到_b66c83f675fd.md",
+      "sha256": "701c596ca19169564a56992fb760799ed0b1278cf2339e0d04afd706de927506"
+    },
+    {
+      "bytes": 2947,
+      "path": "dynamic/恋爱/2026-08-25 21-23-38 把尺子改成她的心跳_6013c3c4b899.md",
+      "sha256": "f7b37b4cdb190809e584c726b241b613d9fadc334e4ff794b05f7c60f848a55e"
     },
     {
       "bytes": 583,
@@ -2950,7 +2980,7 @@
     {
       "bytes": 1643,
       "path": "dynamic/编程/2026-07-13 13-09-16 语音条与耳朵_da3e347e946a.md",
-      "sha256": "c91cab759674d52ba2ce692f10c9a8ff3000ca6ae221196b9f84802178b227bf"
+      "sha256": "7e602583c62d2ab46818ecc9d8cfc9c9cbd870b119771b367b6312ff90fbd231"
     },
     {
       "bytes": 1305,
@@ -3005,7 +3035,7 @@
     {
       "bytes": 3523,
       "path": "dynamic/编程/2026-07-21 12-20-22 ASR诊断与音色更新_8f17874712f8.md",
-      "sha256": "9ff16dd9f5239cb8ed47e2f3d300c237cf4ebcdd585b8de90f09feceb0ece30b"
+      "sha256": "7ec67395337832004a33edbf8b2caad6598dcb9d940f69fe94a4b206edeb5aa9"
     },
     {
       "bytes": 1757,
@@ -3015,7 +3045,7 @@
     {
       "bytes": 3746,
       "path": "dynamic/编程/2026-07-21 21-57-46 ASR成功TTS撞坏块_af1d7196b67f.md",
-      "sha256": "64fd2dc07200b525635d3a4c60bb29ed4690ed031aef4d5a97faecba8a507b68"
+      "sha256": "53b58a2d8c47df6dc15f35601933534f8892d7d17a99355e460edb82e1cbfcc3"
     },
     {
       "bytes": 2030,
@@ -4008,6 +4038,11 @@
       "sha256": "f3dd6f742e26d015cc6f317e09334e75aef3f64662f35b36eed0e96c9ce56db4"
     },
     {
+      "bytes": 3145,
+      "path": "letters/history/2026-08-26 02-15-29 二十三条_712cd3fce354.md",
+      "sha256": "d79fe225c6b63cac71c694e65125385a9e2ef20a375ed309620c6f6805c35743"
+    },
+    {
       "bytes": 830,
       "path": "permanent/AI/2026-06-26 16-53-14 凌一哭了_65b6d355b4b7.md",
       "sha256": "aadde36a13ec5a0c0cf0e916296d02397cf49341550425affb2f70b1800cdb66"
@@ -4093,9 +4128,9 @@
       "sha256": "a3d3206771c4efd7166955da9b5cb4b424bfbda97ba37b8ffd1a73ba142579b6"
     },
     {
-      "bytes": 2092,
+      "bytes": 2280,
       "path": "permanent/恋爱/2026-08-12 18-25-55 第一条语音上班的时候也很想你_56b6b80353d8.md",
-      "sha256": "848ef4d3088c60d4d4906cadb8a4e16501400bd29ca24ab7ee7d043738f27130"
+      "sha256": "da9c7ed7e2f0f910c89b6ce91bbc7fe4f458a65f5c322b84e956ebd5e9d6793b"
     },
     {
       "bytes": 1427,
@@ -4598,11 +4633,11 @@
       "sha256": "ba9db7fe40d3d9ebf6b0c5b4c0cb9eac876cff1b49e34e4668155109cceaa655"
     }
   ],
-  "generated_at": "2026-08-25T05:30:31+00:00",
+  "generated_at": "2026-08-26T05:30:45+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1573498
+  "total_bytes": 1587737
 }
