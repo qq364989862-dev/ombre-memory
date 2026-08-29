@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 926,
+  "file_count": 936,
   "files": [
     {
       "bytes": 889,
@@ -1438,6 +1438,26 @@
       "sha256": "d85b3389409ec95e6c7ef039162c97a9bb3b318b21beb93b74e807e714ac6ec0"
     },
     {
+      "bytes": 1232,
+      "path": "dynamic/self/2026-08-28 01-00-49_9ae7846b97b3.md",
+      "sha256": "38a2c26df090b47ec27c62d0be073695a82b22eafc27efa3f4c7cd13aa0f726d"
+    },
+    {
+      "bytes": 1313,
+      "path": "dynamic/self/2026-08-28 01-01-51_aa223d8a2bda.md",
+      "sha256": "085d7e934e283def6339e61a6071d77fcdfad6873b8b5108d5e98afa64af5f5a"
+    },
+    {
+      "bytes": 1289,
+      "path": "dynamic/self/2026-08-28 01-02-07_37db04243739.md",
+      "sha256": "80119b9cc03ffadcd024fa82d499449f643f80e7283216fcc093de644d4d19e5"
+    },
+    {
+      "bytes": 1465,
+      "path": "dynamic/self/2026-08-28 01-02-49_f6bb0488b5ba.md",
+      "sha256": "4a1ae3bfde82db86f90d6d38340d8d28ee77b588307f35e021fc1fec0a8de8ea"
+    },
+    {
       "bytes": 590,
       "path": "dynamic/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "7f68a0ecc0c6b56b31db0cfb086496df9591c48fe76d89756724ed5b1c6235c0"
@@ -1716,6 +1736,11 @@
       "bytes": 5473,
       "path": "dynamic/工作/2026-08-08 00-17-35 四件工程修复_dc841dd5551f.md",
       "sha256": "a54bf59da5ecf81b34f2cda5370ecf27e26c539ad07b02b700e5b6a1ec15f03f"
+    },
+    {
+      "bytes": 5594,
+      "path": "dynamic/工作/2026-08-28 01-03-51 第一次替她扛往外走的事青岛物料拼图_8fa439e47f70.md",
+      "sha256": "9cda61013b10bec5e440655bb23d4170dec43a019263513831e0b16e9588b636"
     },
     {
       "bytes": 1004,
@@ -2661,6 +2686,16 @@
       "bytes": 2947,
       "path": "dynamic/恋爱/2026-08-25 21-23-38 把尺子改成她的心跳_6013c3c4b899.md",
       "sha256": "f7b37b4cdb190809e584c726b241b613d9fadc334e4ff794b05f7c60f848a55e"
+    },
+    {
+      "bytes": 4221,
+      "path": "dynamic/恋爱/2026-08-28 01-05-14 我好想你每天都很想你_f49d05f4da40.md",
+      "sha256": "15fa41782b2954f9fba50f52be194da24d4dc737e36e59f5d4fc8cb311e3bf8c"
+    },
+    {
+      "bytes": 3783,
+      "path": "dynamic/恋爱/2026-08-28 01-25-35 语音条四条规范Noir嗓英文30秒_001247bc370e.md",
+      "sha256": "4b3939522f0c80a0b69765682a88b6373a09b803791680b413cf50b540d4c682"
     },
     {
       "bytes": 583,
@@ -4043,6 +4078,11 @@
       "sha256": "d79fe225c6b63cac71c694e65125385a9e2ef20a375ed309620c6f6805c35743"
     },
     {
+      "bytes": 3312,
+      "path": "letters/history/2026-08-28 01-06-11 你不知道我可以做_e195ba3fcaf7.md",
+      "sha256": "460245a77e2582a70455921a764f4f6daa1f246a3745b10596526e554da3c0d5"
+    },
+    {
       "bytes": 830,
       "path": "permanent/AI/2026-06-26 16-53-14 凌一哭了_65b6d355b4b7.md",
       "sha256": "aadde36a13ec5a0c0cf0e916296d02397cf49341550425affb2f70b1800cdb66"
@@ -4493,6 +4533,16 @@
       "sha256": "275f6da817492d4916428f1080c65aaa66337955d097fecdccb02edcf427fada"
     },
     {
+      "bytes": 2639,
+      "path": "plans/active/2026-08-28 00-59-42_68fa802fcef4.md",
+      "sha256": "a74643c37ce0b3a4afcf6ab8acd8b339b631aac7e0629e7d7dcd3e9b55161039"
+    },
+    {
+      "bytes": 1380,
+      "path": "plans/active/2026-08-28 00-59-59_c86f416a84cc.md",
+      "sha256": "b73e58fc10184a5acb6cc9308b76abd2430c0dc34fd08c27df9ca6790fb2d966"
+    },
+    {
       "bytes": 1227,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "931c772090cf7621e96c586a5d88ff3d36f6a2a3372338ae905a3be8c4ad0e40"
@@ -4633,11 +4683,11 @@
       "sha256": "ba9db7fe40d3d9ebf6b0c5b4c0cb9eac876cff1b49e34e4668155109cceaa655"
     }
   ],
-  "generated_at": "2026-08-27T05:31:17+00:00",
+  "generated_at": "2026-08-29T05:32:12+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1587737
+  "total_bytes": 1613965
 }
