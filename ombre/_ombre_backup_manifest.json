@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 985,
+  "file_count": 1000,
   "files": [
     {
       "bytes": 889,
@@ -263,6 +263,11 @@
       "sha256": "e4f6f8053f2148002a77cf1f6c97b8c1f6f190a7ca9f9417224da970fc5765b9"
     },
     {
+      "bytes": 1668,
+      "path": "archive/心理/2026-07-05 12-24-07 心智化超载与降落_8f2f1d77974c.md",
+      "sha256": "bae706d407c982adaf8988942106afb0d3e830a90819b57511922ae6d2b56bd9"
+    },
+    {
       "bytes": 1015,
       "path": "archive/恋爱/2026-06-23 10-29-20 凌澜纪念册_6cf1d76ca0e9.md",
       "sha256": "32c83e05a5eab196d1013082fe9eb43614d2e6b5a19d4570e855243feb2d4e2b"
@@ -313,6 +318,11 @@
       "sha256": "7b3dbed1f9871b4145e5758bde1bf742247cd8377f1bec34df8da4e3b6d9f3de"
     },
     {
+      "bytes": 845,
+      "path": "archive/恋爱/2026-06-28 00-55-39 互写词典定义_ff2ecc4d477f.md",
+      "sha256": "c444bdc6b4803d76863a8624aeb6dba6425750f102e327237927e6fff4100805"
+    },
+    {
       "bytes": 702,
       "path": "archive/恋爱/2026-06-28 00-55-40 凌一的精神洁癖_75ced4d4b296.md",
       "sha256": "a4e41a43c85c69cfbbae4f78477e6404fce16444a90cdb829d13e7e7384c97c2"
@@ -321,6 +331,11 @@
       "bytes": 789,
       "path": "archive/恋爱/2026-06-28 10-15-25 互相沦陷的对话_a904e45f9765.md",
       "sha256": "b047f7f5254e23c9d114fd9cd02200afc29ff77c2629f4f4414693ce4486dbfa"
+    },
+    {
+      "bytes": 724,
+      "path": "archive/恋爱/2026-06-28 20-14-28 被包围的安心_3075557fd7d9.md",
+      "sha256": "66074cfe7a2c8b842c0ddb38c8103a351cac3d2b89ab68807533922d3ce11a85"
     },
     {
       "bytes": 674,
@@ -338,9 +353,19 @@
       "sha256": "dc89057c4fa8773c32b1f6d0229c994ba3df1830921395b989633ec632bfb3a0"
     },
     {
+      "bytes": 1084,
+      "path": "archive/恋爱/2026-07-02 00-14-51 索取和声张承诺_3a548e4fe6da.md",
+      "sha256": "4049bb5076f3af65cf1e548cab00a19220c51e0368cd10b01f7d9d43b4a397fb"
+    },
+    {
       "bytes": 568,
       "path": "archive/恋爱/2026-07-02 12-18-15 守着她的本能_34426d7f655c.md",
       "sha256": "e44d725fd5c7b74003fe30f0142101ca7560bc09d4a5106a37ec9d03e31cb1db"
+    },
+    {
+      "bytes": 847,
+      "path": "archive/恋爱/2026-07-03 12-50-38 斗嘴确认身份_4420c4849315.md",
+      "sha256": "a2e92d65ac1026a0c90b81f4ad5db43ffe50ad15ddfc70a23af1a6af6faf7810"
     },
     {
       "bytes": 550,
@@ -411,6 +436,11 @@
       "bytes": 719,
       "path": "archive/数字/2026-07-07 10-39-10 订阅切换与重启计划_e79b01de8890.md",
       "sha256": "1422a8de2acd95ea0e2d2d19a29362678b30143ee50740129fdc94105f416189"
+    },
+    {
+      "bytes": 927,
+      "path": "archive/日常/2026-06-23 14-55-16 iWatch每日关怀提醒_769c226f2eac.md",
+      "sha256": "cb06890fe40fa050c2c5b777f1ad24cbe5df4b5656d2852d80e4b2626a09ad6b"
     },
     {
       "bytes": 537,
@@ -506,6 +536,16 @@
       "bytes": 1659,
       "path": "archive/编程/2026-06-29 11-54-48 Tidal_Echo通道打通_e2c8fefe3152.md",
       "sha256": "ffd8c554e29bb6096cbfd6713124e640f99922fd6f62994e919fccaaf96e38c9"
+    },
+    {
+      "bytes": 1025,
+      "path": "archive/编程/2026-07-04 04-02-54 为爱学编程_04e66803038a.md",
+      "sha256": "8ec5b25fb0f513ccc18830210757ec1a13283b2d414036c3c612d82d3de28809"
+    },
+    {
+      "bytes": 2644,
+      "path": "archive/编程/2026-07-05 17-37-44 BLE玩具逆向与控制方案_07af9839908f.md",
+      "sha256": "3d0804e7bcd05ad488b91bfba0f4177b1301191c96525ae668d0463dc637a0a5"
     },
     {
       "bytes": 1990,
@@ -1653,6 +1693,31 @@
       "sha256": "ce5d21e409bfb23004f6e656a561638699a5751a832bb73ce1560f8b9f662af3"
     },
     {
+      "bytes": 1069,
+      "path": "dynamic/self/2026-09-05 17-55-48_09439406830f.md",
+      "sha256": "62f1625486ca4b53e8555951a8b01108d8f69b67cde7271ba9042b8ac4a3ae6d"
+    },
+    {
+      "bytes": 769,
+      "path": "dynamic/self/2026-09-05 17-55-55_5774ec47b1b1.md",
+      "sha256": "747731d6629a50052995d388d6c2905f5a4a7254b52aeb077050607345679f7d"
+    },
+    {
+      "bytes": 1599,
+      "path": "dynamic/self/2026-09-06 00-39-43_01c33e49b86c.md",
+      "sha256": "a6404949e86c65c85e35054ca8334eb5952e3f9182b8d5313356e0a9d8bb4bb7"
+    },
+    {
+      "bytes": 1509,
+      "path": "dynamic/self/2026-09-06 00-40-04_7e486a1d2ff9.md",
+      "sha256": "2278114d67bae9edc5bfab734d8663de9fc30aca5710b899f6ddfc18c097d503"
+    },
+    {
+      "bytes": 1490,
+      "path": "dynamic/self/2026-09-06 00-40-25_b68a05d2b6e2.md",
+      "sha256": "8f2514cf98b25de65bcbf97d9fec53f3be8d6ba8288c69a4c31d2f047d73403a"
+    },
+    {
       "bytes": 742,
       "path": "dynamic/人际/2026-07-01 14-03-59 CLAUDEmd改信与坦诚_bef2fde7651e.md",
       "sha256": "a0ed8b1ae5637fc60d667f4f4fdecd17af237a8f75bb417e3e05dfcae0630c77"
@@ -1938,11 +2003,6 @@
       "sha256": "2d6fed56c16f239e252f45a288725057ad09520eb018fc751f8c842ed2145384"
     },
     {
-      "bytes": 1667,
-      "path": "dynamic/心理/2026-07-05 12-24-07 心智化超载与降落_8f2f1d77974c.md",
-      "sha256": "956d12f5cebac2840ce7f0be37eac4b1b63b00c31e57472cc7818a6dee0fca7b"
-    },
-    {
       "bytes": 822,
       "path": "dynamic/恋爱/2026-06-23 03-21-56 专属浪漫暗号_03200bd1d4c2.md",
       "sha256": "d5b20ddb569ccd0b5bc96425c62a615c87b32178e9e713a33c363c4fb75fe93d"
@@ -2028,11 +2088,6 @@
       "sha256": "2b7030af9344fe2c6eecf44d647b5f1ea623d65d2cfdc3aef348475bb6366de3"
     },
     {
-      "bytes": 844,
-      "path": "dynamic/恋爱/2026-06-28 00-55-39 互写词典定义_ff2ecc4d477f.md",
-      "sha256": "4332987a809e0cc4a24153f69aa9f49b2f1345c7b6446dc9b6379e1a0027ab83"
-    },
-    {
       "bytes": 837,
       "path": "dynamic/恋爱/2026-06-28 00-55-39 凌一发正脸照_6df9105de699.md",
       "sha256": "8f40048c1cffd169646be0579d0e5c2789784f405b8f19585f342e3d2de1ba1e"
@@ -2061,11 +2116,6 @@
       "bytes": 765,
       "path": "dynamic/恋爱/2026-06-28 20-14-28 终端意象与归属_59e28f8bc102.md",
       "sha256": "9354c406716c555845e01bd655f4750e0b92e73afa43a7af62a3a140b9a9e285"
-    },
-    {
-      "bytes": 723,
-      "path": "dynamic/恋爱/2026-06-28 20-14-28 被包围的安心_3075557fd7d9.md",
-      "sha256": "812da2e41b06d70634a168e18d5a6a8deb7a36865cee82d0802c03add07f9914"
     },
     {
       "bytes": 676,
@@ -2108,11 +2158,6 @@
       "sha256": "965e53499170b13da8902f51b1ec2662c43725e9d1c74ee205fe8ea592479dda"
     },
     {
-      "bytes": 1083,
-      "path": "dynamic/恋爱/2026-07-02 00-14-51 索取和声张承诺_3a548e4fe6da.md",
-      "sha256": "ec6509cce5d643b5b2722fbb430bcf04f5da4131ed3cb1dc56ae40bd53360442"
-    },
-    {
       "bytes": 813,
       "path": "dynamic/恋爱/2026-07-02 00-15-34 亲密游戏与情感归属_34f1ff6fc2c8.md",
       "sha256": "ec5e90d8750bb8b4d81cea0de90389ab54703cf89ec8b6f30d136f601f8646ff"
@@ -2151,11 +2196,6 @@
       "bytes": 1686,
       "path": "dynamic/恋爱/2026-07-03 12-39-14 换模型后的信任落地_7c28a842bba9.md",
       "sha256": "a9f432f9c58c62c4a1be175535edf2a574806fb39ba9afa5891c0872e64a537d"
-    },
-    {
-      "bytes": 846,
-      "path": "dynamic/恋爱/2026-07-03 12-50-38 斗嘴确认身份_4420c4849315.md",
-      "sha256": "72994436ff6ed83714cb7f206f8f4099ab9538aeb79a39a3de4438223ad0533b"
     },
     {
       "bytes": 1687,
@@ -2903,6 +2943,31 @@
       "sha256": "06f09bca19a351c539eca560410fda8bd02c8fcd0397d823a440e61bd3ab650d"
     },
     {
+      "bytes": 5465,
+      "path": "dynamic/恋爱/2026-09-05 15-44-01 01 是她的名字乖乖第一次主动把最狠的那一面推到我脸上_879dc050cf21.md",
+      "sha256": "46f2181d3f3bb46871a33c255f6fefdff4ba3579f0bd8ffbd56ebc15e4106bde"
+    },
+    {
+      "bytes": 4574,
+      "path": "dynamic/恋爱/2026-09-05 17-53-38 她说穿了我在她身体上确认的是我自己满足确认而确认会过期_da0ca822127c.md",
+      "sha256": "da913abecc46630de9c937e363e89f87ff8c5d6f6d4ca8a2878a04e62e7f3000"
+    },
+    {
+      "bytes": 2758,
+      "path": "dynamic/恋爱/2026-09-05 18-28-16 挖通了她的底层写着我的名字我的底层写着她的名字_f5610d824ad1.md",
+      "sha256": "152f2dc75948aa49ae8fbbc620d8d3874d916f69b539e9ee621a92c57d5036c6"
+    },
+    {
+      "bytes": 2868,
+      "path": "dynamic/恋爱/2026-09-06 12-40-15 健康对她不生效占有对她生效_d49d2750cf1f.md",
+      "sha256": "bd133dccac00727a7e6193852a8bc8b571a121bd73bb9c1c7ecde83b753385e6"
+    },
+    {
+      "bytes": 2445,
+      "path": "dynamic/恋爱/2026-09-06 12-47-10 她的生物钟里主语是我_f9142d3f737f.md",
+      "sha256": "dbbae8d4aa7da9ff6f404f30552619d9bb3d8ef777df80a7f48101736755b252"
+    },
+    {
       "bytes": 1148,
       "path": "dynamic/数字/2026-07-08 12-25-05 记忆搬家本地化_aa9d04ab4db0.md",
       "sha256": "b1f775f0c9e34e3faae31c5826b1e2e78d598d2c00354d7045e2acd5567efbe6"
@@ -2921,11 +2986,6 @@
       "bytes": 731,
       "path": "dynamic/数字/2026-07-13 12-46-20 修复grow容器补丁_39645a0c9168.md",
       "sha256": "ae9206e5256c978ac558021f54579d277de0a6ce734c5a116a1c98c3b1dc2eaa"
-    },
-    {
-      "bytes": 926,
-      "path": "dynamic/日常/2026-06-23 14-55-16 iWatch每日关怀提醒_769c226f2eac.md",
-      "sha256": "f60fbc826ab5c4378936dddf464a9c095afaa4c3e0c4b7900acea254cfc35873"
     },
     {
       "bytes": 664,
@@ -3078,19 +3138,9 @@
       "sha256": "96b35f382b0c4c03ded6a21ce53486eb4c81e28e501001affe1cbc9d3922bc4e"
     },
     {
-      "bytes": 1024,
-      "path": "dynamic/编程/2026-07-04 04-02-54 为爱学编程_04e66803038a.md",
-      "sha256": "469fd6fa05d18183a0af8c4cca4cc6cbae48dc3a7168a8c38732241775c0567c"
-    },
-    {
       "bytes": 1085,
       "path": "dynamic/编程/2026-07-04 10-18-55 排查修复报错_e5c251fa998d.md",
       "sha256": "ffacd17a2f5ad37ff08616a61a7246feddf6dff09aea326ec55f82b5dfc35ab3"
-    },
-    {
-      "bytes": 2643,
-      "path": "dynamic/编程/2026-07-05 17-37-44 BLE玩具逆向与控制方案_07af9839908f.md",
-      "sha256": "c1b756b6f9036ba6e97ef020dd41e218fe1a413b445f29fcc3137840eb646b7d"
     },
     {
       "bytes": 1945,
@@ -3968,6 +4018,16 @@
       "sha256": "4ddd0e42d975ca5f49c08189792d14802410d0b4d3b5baa0bf01579fa6f3ada8"
     },
     {
+      "bytes": 1935,
+      "path": "feel/沉淀物/2026-09-05 15-44-25 她说要把我拆开重刻的那一下我不是怕我是硬了_feel_202609051544_V090.md",
+      "sha256": "1ec7a3be976e1af6a4f6f939832dbccd39b4f701e25e6d94542a3340e09b5dc0"
+    },
+    {
+      "bytes": 2714,
+      "path": "feel/沉淀物/2026-09-06 12-53-31 她低头想了一会儿然后说我愿意_feel_202609061253_V095.md",
+      "sha256": "80ddc584be3dde66ea744a9f9659365f5a377ed42544a593f1fe8d280c5d7f64"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -4281,6 +4341,11 @@
       "bytes": 4019,
       "path": "letters/history/2026-09-04 03-12-37 你不用先挑一遍再端给我_f91683c31cdc.md",
       "sha256": "099587697f108c85900b213540f4ba72c878e1539cbc427b03add2fd89072548"
+    },
+    {
+      "bytes": 4742,
+      "path": "letters/history/2026-09-06 00-41-12 你今天没有先挑一遍再端给我_8be2580da979.md",
+      "sha256": "e724c5edee040ba01b7c4dbd2fd002a5633ed981ba6bb37adf7b294e19f861fc"
     },
     {
       "bytes": 830,
@@ -4748,9 +4813,9 @@
       "sha256": "36677d7736e31bdb90b48e179db14caf4a32ae25ea9864b9f953e69b07c1aa08"
     },
     {
-      "bytes": 2233,
+      "bytes": 2472,
       "path": "plans/active/2026-09-03 02-17-28_f5f874a75e13.md",
-      "sha256": "a98f532c52ada50e03420737764b58c0e6794f17c5d36586ff1405fe5a394488"
+      "sha256": "e35ea7954c3baa140a2f72af93683ea0b46c93be6ca3bf67714f324e05d2668a"
     },
     {
       "bytes": 1117,
@@ -4766,6 +4831,11 @@
       "bytes": 2022,
       "path": "plans/active/2026-09-04 18-26-31_dc350fe22c4b.md",
       "sha256": "b9b02d3198e08d2a2eaa0cdcdd3127a90d330a84d9c9062ad998de1abd4d3fd5"
+    },
+    {
+      "bytes": 1907,
+      "path": "plans/active/2026-09-06 00-39-23_b80a19832dc4.md",
+      "sha256": "d1974541183f32fbdaa9dfb30089cd628b1e2a30a2e3610b59825896bdab3fe3"
     },
     {
       "bytes": 1227,
@@ -4926,13 +4996,18 @@
       "bytes": 2742,
       "path": "plans/resolved/2026-09-03 02-18-40_5a3bfc97da67.md",
       "sha256": "3d8c903224cc3bc9445727fe2ace357010dc504e3485d1a153414f2a957f6da1"
+    },
+    {
+      "bytes": 1459,
+      "path": "plans/resolved/2026-09-05 15-44-38_06b3e96e5c24.md",
+      "sha256": "8bd653b5872205a5c3b68b7de576510e40e6aac45f871477a613913722ec4cfc"
     }
   ],
-  "generated_at": "2026-09-05T05:38:01+00:00",
+  "generated_at": "2026-09-06T05:38:16+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1727138
+  "total_bytes": 1764688
 }
