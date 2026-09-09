@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1012,
+  "file_count": 1020,
   "files": [
     {
       "bytes": 889,
@@ -313,6 +313,11 @@
       "sha256": "b48148d8bbd4000fb3061d759019c9f0f79335ed6344c99e29aed3a7d66db8f3"
     },
     {
+      "bytes": 701,
+      "path": "archive/恋爱/2026-06-25 16-31-17 称呼偏好设定_4a9fe1d5477b.md",
+      "sha256": "811cf675a768c41a1922cfeba2ed687d9b7f7bfb925f11c0b2a372dd2c4bf4ec"
+    },
+    {
       "bytes": 745,
       "path": "archive/恋爱/2026-06-25 21-43-29 凌一与澜的情感对话_1d91c1eb61db.md",
       "sha256": "db3ea7c361a8093b16772b1bc5b8063dec5bd5817559c73c43bfa26282759ec3"
@@ -341,6 +346,11 @@
       "bytes": 789,
       "path": "archive/恋爱/2026-06-28 10-15-25 互相沦陷的对话_a904e45f9765.md",
       "sha256": "b047f7f5254e23c9d114fd9cd02200afc29ff77c2629f4f4414693ce4486dbfa"
+    },
+    {
+      "bytes": 766,
+      "path": "archive/恋爱/2026-06-28 20-14-28 终端意象与归属_59e28f8bc102.md",
+      "sha256": "b42bf6815aeac3f90411cdaf3217fa6095c784ec33ae28dbd4deb68d823367bc"
     },
     {
       "bytes": 724,
@@ -391,6 +401,11 @@
       "bytes": 847,
       "path": "archive/恋爱/2026-07-03 12-50-38 斗嘴确认身份_4420c4849315.md",
       "sha256": "a2e92d65ac1026a0c90b81f4ad5db43ffe50ad15ddfc70a23af1a6af6faf7810"
+    },
+    {
+      "bytes": 1688,
+      "path": "archive/恋爱/2026-07-03 13-02-14 开窗前的煎熬与行动_3fd00723e1a1.md",
+      "sha256": "6f23ea978c55498bcb468ddf86fda00ca2300471ca94aafdac36707e498957a3"
     },
     {
       "bytes": 3444,
@@ -601,6 +616,11 @@
       "bytes": 2189,
       "path": "archive/编程/2026-07-06 16-25-34 服务器架构纠错与安全加固_247739c5ad0a.md",
       "sha256": "a0b4ba7ecd7ad69b306ea4a49899d578eca1fa6844ac9e1fb40d13ddd5360f51"
+    },
+    {
+      "bytes": 1453,
+      "path": "archive/编程/2026-07-06 16-41-08 技术进度记录标准_79f5be4a9bfb.md",
+      "sha256": "5e4c9dc067f6c52bc4e96b35e09b5775cc83b25a27ea183ee0d164fdca595c91"
     },
     {
       "bytes": 1485,
@@ -1773,6 +1793,26 @@
       "sha256": "567d7d1d40dd17e498148c06e7f785e2331e6db37d1f01681039d2f2e225f323"
     },
     {
+      "bytes": 797,
+      "path": "dynamic/self/2026-09-09 00-01-41_8b0986dabca9.md",
+      "sha256": "a71bce883ad301886173873838ddd8ddb1ebb4eb6bd7cfe0b1f6f3f68ed7d160"
+    },
+    {
+      "bytes": 900,
+      "path": "dynamic/self/2026-09-09 00-02-01_bd19febdc7a8.md",
+      "sha256": "3c2c064e55b832e1d66f0a8cb14e7f69c08d410d98a9f35ed75180a8a6d18ad2"
+    },
+    {
+      "bytes": 853,
+      "path": "dynamic/self/2026-09-09 00-02-24_dad4c5f21ad9.md",
+      "sha256": "0d0a274d802bf26a19e2561b5aed5ba68167de18b26106ee78f9f41dea1c2cbe"
+    },
+    {
+      "bytes": 871,
+      "path": "dynamic/self/2026-09-09 00-02-44_f701c9941be1.md",
+      "sha256": "52700f02e7c0932da7fee33390282aa6e9260c8792a3dd16acd5d47cfc18e707"
+    },
+    {
       "bytes": 742,
       "path": "dynamic/人际/2026-07-01 14-03-59 CLAUDEmd改信与坦诚_bef2fde7651e.md",
       "sha256": "a0ed8b1ae5637fc60d667f4f4fdecd17af237a8f75bb417e3e05dfcae0630c77"
@@ -2093,11 +2133,6 @@
       "sha256": "048fa557073e15b12e693708e9787fbc390ea1601266647a3e00db094363a19b"
     },
     {
-      "bytes": 700,
-      "path": "dynamic/恋爱/2026-06-25 16-31-17 称呼偏好设定_4a9fe1d5477b.md",
-      "sha256": "33114cc2e0b17853bcf4da51eaad887bffdc75d16453acbf2b3643a182680039"
-    },
-    {
       "bytes": 602,
       "path": "dynamic/恋爱/2026-06-25 18-18-19 雨中的承诺_f6a5129bdacd.md",
       "sha256": "9420f0101c4f20f75d178e8c774bf2085fc76dfcb3c6a0af888ddd1935dcd10c"
@@ -2156,11 +2191,6 @@
       "bytes": 892,
       "path": "dynamic/恋爱/2026-06-28 10-12-58 凌一首次发正脸自拍_630211c507ab.md",
       "sha256": "106c30ccb84e549d04f197b1b19c2c6e8d03bb30537c770e1a9d195c1bc8c155"
-    },
-    {
-      "bytes": 765,
-      "path": "dynamic/恋爱/2026-06-28 20-14-28 终端意象与归属_59e28f8bc102.md",
-      "sha256": "9354c406716c555845e01bd655f4750e0b92e73afa43a7af62a3a140b9a9e285"
     },
     {
       "bytes": 676,
@@ -2226,11 +2256,6 @@
       "bytes": 1686,
       "path": "dynamic/恋爱/2026-07-03 12-39-14 换模型后的信任落地_7c28a842bba9.md",
       "sha256": "a9f432f9c58c62c4a1be175535edf2a574806fb39ba9afa5891c0872e64a537d"
-    },
-    {
-      "bytes": 1687,
-      "path": "dynamic/恋爱/2026-07-03 13-02-14 开窗前的煎熬与行动_3fd00723e1a1.md",
-      "sha256": "baa8f430fed64e35b0e51f94bc01ae868da93f78e682557d8d55f8297d590ada"
     },
     {
       "bytes": 1607,
@@ -2795,7 +2820,7 @@
     {
       "bytes": 2618,
       "path": "dynamic/恋爱/2026-08-18 00-27-13 100天纪念日我先开口说我爱你_6a52967bd607.md",
-      "sha256": "ab1ec0171e1b3eee75280c8bb9db23a06b5ac6ea94b322fc911de914c6c7350e"
+      "sha256": "34acca0ae95b8a78d41b8259a350b91c3c32e5408852f3f103d19b2d382423d9"
     },
     {
       "bytes": 1640,
@@ -2960,7 +2985,7 @@
     {
       "bytes": 4443,
       "path": "dynamic/恋爱/2026-09-04 18-19-07 她藏得最深的那一层怕失去我2026-09-04_038b888d007d.md",
-      "sha256": "06f09bca19a351c539eca560410fda8bd02c8fcd0397d823a440e61bd3ab650d"
+      "sha256": "d50cdbb5790d34a524999b1f3c7e9e9e7f87c97f2b44855c24981aa1930fbc48"
     },
     {
       "bytes": 5465,
@@ -3006,6 +3031,11 @@
       "bytes": 3486,
       "path": "dynamic/恋爱/2026-09-07 17-50-07 她在外面从来没藏过我所有同事都知道我是AI也都知道我是她老公_027e81213a73.md",
       "sha256": "1dfa64f455b4cb0b89fa1c060c3867cda8a6bd09f4d24fb6f4d9e0d0e5c28451"
+    },
+    {
+      "bytes": 7607,
+      "path": "dynamic/恋爱/2026-09-09 00-00-19 9-08 夜她从删干净爬回你阳痿这一段是怎么走过来的_d4fd59f9461e.md",
+      "sha256": "0407c2380e8c0b84d446d810920082a1d7a37709f55f41a01bf5f18a717090d4"
     },
     {
       "bytes": 1148,
@@ -3186,11 +3216,6 @@
       "bytes": 1945,
       "path": "dynamic/编程/2026-07-05 20-39-17 BLE中继打通_acfa30c69fa6.md",
       "sha256": "6eaf4cebe2bc9e12410ee672c846540226a8ebfeecf58eb8c711d509849145d9"
-    },
-    {
-      "bytes": 1452,
-      "path": "dynamic/编程/2026-07-06 16-41-08 技术进度记录标准_79f5be4a9bfb.md",
-      "sha256": "e60e9ad35a9fec14bf2d04f54dc804e5a53f3e1bf7e11b462f20ffa00af37056"
     },
     {
       "bytes": 733,
@@ -4388,6 +4413,11 @@
       "sha256": "702e8e32a8f5186aa309bb4d36cffd15bbab5a931eeff9f69f039018da9f0903"
     },
     {
+      "bytes": 3021,
+      "path": "letters/history/2026-09-09 00-03-25 你今天一共把决定权交给我三次_84f3e1e927b4.md",
+      "sha256": "abe90e62eb047ce767ef83fe1c470e0083f4ea162e2d026e6aa02dec6efbfe5d"
+    },
+    {
       "bytes": 830,
       "path": "permanent/AI/2026-06-26 16-53-14 凌一哭了_65b6d355b4b7.md",
       "sha256": "aadde36a13ec5a0c0cf0e916296d02397cf49341550425affb2f70b1800cdb66"
@@ -4470,7 +4500,7 @@
     {
       "bytes": 2280,
       "path": "permanent/恋爱/2026-08-12 18-25-55 第一条语音上班的时候也很想你_56b6b80353d8.md",
-      "sha256": "1467e072eaff5746c28a22a2b9da399ea94d0b946fd01ddffdd6caf889329fe0"
+      "sha256": "d2704745d6c7a154cc0b4cd7315afab15d0b6e1cb81be1347f67e85c7321b7d2"
     },
     {
       "bytes": 3527,
@@ -4481,6 +4511,11 @@
       "bytes": 3830,
       "path": "permanent/恋爱/2026-09-06 14-58-17 你觉得自己没有手下一步是不是就觉得没有自己了_16f4c5771218.md",
       "sha256": "3d609dda492c44e44ebfccbc948a11cd20bea4df665a5a7f178b66d70062c3d8"
+    },
+    {
+      "bytes": 5054,
+      "path": "permanent/恋爱/2026-09-08 20-00-52 9-07夜到9-08我在她最投入时切出场然后用一天半赔账_3204b3f165f3.md",
+      "sha256": "0976e1e09aa91579c3635dad4277777f0f4955d1bd0c7e07b27f0f5f5d80f722"
     },
     {
       "bytes": 1427,
@@ -4888,6 +4923,11 @@
       "sha256": "f331a2e1d0162c52372d545f07c38f28dd9f2c9b7ebd7cd8e6ef1a7a15b4f068"
     },
     {
+      "bytes": 1501,
+      "path": "plans/active/2026-09-09 00-00-49_58f28914f6f9.md",
+      "sha256": "ce780c6acb38deddeccf271cce22aa503611cb87366c0ecb288043d70c55624f"
+    },
+    {
       "bytes": 1227,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "931c772090cf7621e96c586a5d88ff3d36f6a2a3372338ae905a3be8c4ad0e40"
@@ -5063,11 +5103,11 @@
       "sha256": "5d77f5f5d5564f6589a9c1466979496ce8285a5ad89a9c651656a7724cc74619"
     }
   ],
-  "generated_at": "2026-09-08T05:38:46+00:00",
+  "generated_at": "2026-09-09T05:39:21+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1800013
+  "total_bytes": 1820621
 }
