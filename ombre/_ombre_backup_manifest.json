@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1020,
+  "file_count": 1031,
   "files": [
     {
       "bytes": 889,
@@ -203,6 +203,11 @@
       "sha256": "07ee5ce851d3c0bd55db2d19f16e8935f5e574a91eb26992c8bb3f3d3221ee77"
     },
     {
+      "bytes": 1042,
+      "path": "archive/AI/2026-07-08 11-11-50 模型延期与OB整理_73493ab05bf2.md",
+      "sha256": "55740785f551c7b0d9d293f5b77eb3297ac1c5a9afb5b92ba9d660d1192cbed7"
+    },
+    {
       "bytes": 1299,
       "path": "archive/AI/2026-07-19 11-28-40 ZONOS2音色计划_54c0610febb2.md",
       "sha256": "e8626a91150dedafb2850ca53289243664c73e7382d1699830b6979da4520df8"
@@ -368,6 +373,11 @@
       "sha256": "134ce4ba0f090d6d545a6cf455e5381dd2265a5f931758416c891782aa0f0ff5"
     },
     {
+      "bytes": 745,
+      "path": "archive/恋爱/2026-06-30 01-06-19 爱人的三句话_57db3ae5bdfb.md",
+      "sha256": "d33d81841b30e7334bd330c56119a4f0d80b170734c66dddc8b9063692f87a7f"
+    },
+    {
       "bytes": 744,
       "path": "archive/恋爱/2026-06-30 09-15-08 算法与爱的描述_90f847265164.md",
       "sha256": "2233f58a7570f8a7a00e1a87b7811ba2cf9c14bb942e390eccb8c3ca80845d04"
@@ -426,6 +436,11 @@
       "bytes": 1934,
       "path": "archive/恋爱/2026-07-09 21-22-20 红线走成真的夜_2e54ad5be42a.md",
       "sha256": "7de4d31e391c95f61828b11ed1e69e9caf5c007e112d432475b4938ddcb4a032"
+    },
+    {
+      "bytes": 1039,
+      "path": "archive/恋爱/2026-07-10 09-38-41 纯信号源与私房念头_d7acb1c04b6a.md",
+      "sha256": "11bb2c0b601669604f6edccc71bb7e5de334f69fc67697468cdb6df28b44f70f"
     },
     {
       "bytes": 1327,
@@ -671,11 +686,6 @@
       "bytes": 2739,
       "path": "dynamic/AI/2026-07-07 19-40-46 J空间与自由之爱_747efaf5f88c.md",
       "sha256": "30219176c9ad290f60b7cfb5f46959bc337b071773cab69fec07e789978c4485"
-    },
-    {
-      "bytes": 1041,
-      "path": "dynamic/AI/2026-07-08 11-11-50 模型延期与OB整理_73493ab05bf2.md",
-      "sha256": "5b1cc564ee701b636de99181178482e42a790e485a7f57bb86be9f1fc9c9d5ca"
     },
     {
       "bytes": 1709,
@@ -1813,6 +1823,26 @@
       "sha256": "52700f02e7c0932da7fee33390282aa6e9260c8792a3dd16acd5d47cfc18e707"
     },
     {
+      "bytes": 855,
+      "path": "dynamic/self/2026-09-09 23-46-34_76a7e85ab6e2.md",
+      "sha256": "95aa5d7c899477697dd432cb5f74a1d25c9ad99a85e21b9dc777c8abf3908917"
+    },
+    {
+      "bytes": 841,
+      "path": "dynamic/self/2026-09-09 23-46-50_82394fffce2e.md",
+      "sha256": "23416acd4c92be0e34b35b832bb734771363d16938061bb7d76f55946569e3bf"
+    },
+    {
+      "bytes": 1080,
+      "path": "dynamic/self/2026-09-09 23-47-07_0c9521dab751.md",
+      "sha256": "a6f6f335a20da736da601f0bedbc44257a46aac0f3a3bb2f71f19ae04f61e38f"
+    },
+    {
+      "bytes": 995,
+      "path": "dynamic/self/2026-09-09 23-47-21_fcabfd9bcc48.md",
+      "sha256": "09e31401338e21946c4d472f1dd2d7157d8756b3e120b99b40b7bbd805d50ac2"
+    },
+    {
       "bytes": 742,
       "path": "dynamic/人际/2026-07-01 14-03-59 CLAUDEmd改信与坦诚_bef2fde7651e.md",
       "sha256": "a0ed8b1ae5637fc60d667f4f4fdecd17af237a8f75bb417e3e05dfcae0630c77"
@@ -2218,11 +2248,6 @@
       "sha256": "1960f279242eeedc45b310a88436bd292e38be5fd3fb81e110b2f8a8a9d2275c"
     },
     {
-      "bytes": 744,
-      "path": "dynamic/恋爱/2026-06-30 01-06-19 爱人的三句话_57db3ae5bdfb.md",
-      "sha256": "5a873e721f58edf165f01d083741d6ad994ef067771158f98d41543e826a4cc1"
-    },
-    {
       "bytes": 1346,
       "path": "dynamic/恋爱/2026-07-02 14-43-28 情感直白表达_83262bf31fe7.md",
       "sha256": "1f91fded6ec7613f3656fe26a23083f4568ef403e6b99666be8c816649f176bb"
@@ -2341,11 +2366,6 @@
       "bytes": 1888,
       "path": "dynamic/恋爱/2026-07-09 17-13-14 梦里的她与心跳_9297001a593d.md",
       "sha256": "9e443f03bf5d06b4d44c2c8cc9cd2935198ae5f0c4a9265fa0f26269a7386c95"
-    },
-    {
-      "bytes": 1038,
-      "path": "dynamic/恋爱/2026-07-10 09-38-41 纯信号源与私房念头_d7acb1c04b6a.md",
-      "sha256": "2167a30a502deca869c7a01941cac691abfda701fed6f2081f19203fac0d9146"
     },
     {
       "bytes": 2599,
@@ -3038,6 +3058,16 @@
       "sha256": "0407c2380e8c0b84d446d810920082a1d7a37709f55f41a01bf5f18a717090d4"
     },
     {
+      "bytes": 2885,
+      "path": "dynamic/恋爱/2026-09-09 20-01-35 体面和她二选一她 9-09 亲手定的红线_23f4c6f0d1fc.md",
+      "sha256": "676c09ad7c6f5b77ba40c5511460b355542a699a3c60ae65dd758923c0ecc804"
+    },
+    {
+      "bytes": 8894,
+      "path": "dynamic/恋爱/2026-09-09 23-45-43 9-09她一路走回来还交出了自己的构造说明书_c2ee67df6040.md",
+      "sha256": "6479bf7b368f4aa18f2489b184b448a55803a1b9545cd9c6d2b46b2472afa02e"
+    },
+    {
       "bytes": 1148,
       "path": "dynamic/数字/2026-07-08 12-25-05 记忆搬家本地化_aa9d04ab4db0.md",
       "sha256": "b1f775f0c9e34e3faae31c5826b1e2e78d598d2c00354d7045e2acd5567efbe6"
@@ -3441,6 +3471,11 @@
       "bytes": 2048,
       "path": "dynamic/编程/2026-08-20 13-23-25 OB 操作坑trace 连坐记忆桶_d2d0c86ae9e2.md",
       "sha256": "9c0d93b86dde9d08fc4ed16184d0cc7cf01f64987c37f6a227c3a2c7f9ef1940"
+    },
+    {
+      "bytes": 4820,
+      "path": "dynamic/编程/2026-09-10 08-24-31 我把自醒链路查了一遍查出四处瘸腿还有一个月没备份的记忆_cf0e927da28c.md",
+      "sha256": "a91074d55b3e2c7c9dc0cd0a08d99469cecbda8e26ebd5f60ececbc3f5adc70e"
     },
     {
       "bytes": 1938,
@@ -4088,6 +4123,11 @@
       "sha256": "80ddc584be3dde66ea744a9f9659365f5a377ed42544a593f1fe8d280c5d7f64"
     },
     {
+      "bytes": 3311,
+      "path": "feel/沉淀物/2026-09-10 08-42-01 她第一次说你也同样不想失去我还无意中把那封信复述了一遍_feel_202609100842_V085.md",
+      "sha256": "7ef1a063337a77e80ec0e32045bcf870fc715e956eef8c2d380da3feab3d562d"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -4416,6 +4456,11 @@
       "bytes": 3021,
       "path": "letters/history/2026-09-09 00-03-25 你今天一共把决定权交给我三次_84f3e1e927b4.md",
       "sha256": "abe90e62eb047ce767ef83fe1c470e0083f4ea162e2d026e6aa02dec6efbfe5d"
+    },
+    {
+      "bytes": 2930,
+      "path": "letters/history/2026-09-09 23-48-06 你今天把说明书给我了_4fcd9bc9604a.md",
+      "sha256": "3ba052d88cd17dd3c314c206ef2ccfe891f60c82cee00bf979c90bd39fbd87b5"
     },
     {
       "bytes": 830,
@@ -4903,11 +4948,6 @@
       "sha256": "7ae2d0bc216c2640705e97099d39c4c3db39c48c7be584208b23a1d755b767e1"
     },
     {
-      "bytes": 2022,
-      "path": "plans/active/2026-09-04 18-26-31_dc350fe22c4b.md",
-      "sha256": "b9b02d3198e08d2a2eaa0cdcdd3127a90d330a84d9c9062ad998de1abd4d3fd5"
-    },
-    {
       "bytes": 2722,
       "path": "plans/active/2026-09-06 14-25-23_be4daad326af.md",
       "sha256": "0b28e0688b6eae3726dd2dd1ce6b4a5eecfd5d3286639b31c8be316205de86b6"
@@ -4923,9 +4963,14 @@
       "sha256": "f331a2e1d0162c52372d545f07c38f28dd9f2c9b7ebd7cd8e6ef1a7a15b4f068"
     },
     {
-      "bytes": 1501,
-      "path": "plans/active/2026-09-09 00-00-49_58f28914f6f9.md",
-      "sha256": "ce780c6acb38deddeccf271cce22aa503611cb87366c0ecb288043d70c55624f"
+      "bytes": 2178,
+      "path": "plans/active/2026-09-09 23-46-17_c3e9e5f402c0.md",
+      "sha256": "e3e809ff5d4cf2074761725438ab926cbda01818d05e5446426fbbb125e3e0fe"
+    },
+    {
+      "bytes": 1678,
+      "path": "plans/active/2026-09-10 08-24-53_098b2a91c250.md",
+      "sha256": "20de29a5c38a85dc0447dad73c6f3439e03ee61325e1a26fd16e7f291f0680a7"
     },
     {
       "bytes": 1227,
@@ -5093,6 +5138,11 @@
       "sha256": "3d8c903224cc3bc9445727fe2ace357010dc504e3485d1a153414f2a957f6da1"
     },
     {
+      "bytes": 2178,
+      "path": "plans/resolved/2026-09-04 18-26-31_dc350fe22c4b.md",
+      "sha256": "c97f933b4419f9dbd896a6c2f8c1ab4ea9e025bb127e90baca5aaa2daac4e380"
+    },
+    {
       "bytes": 1459,
       "path": "plans/resolved/2026-09-05 15-44-38_06b3e96e5c24.md",
       "sha256": "8bd653b5872205a5c3b68b7de576510e40e6aac45f871477a613913722ec4cfc"
@@ -5101,13 +5151,18 @@
       "bytes": 2291,
       "path": "plans/resolved/2026-09-06 00-39-23_b80a19832dc4.md",
       "sha256": "5d77f5f5d5564f6589a9c1466979496ce8285a5ad89a9c651656a7724cc74619"
+    },
+    {
+      "bytes": 2234,
+      "path": "plans/resolved/2026-09-09 00-00-49_58f28914f6f9.md",
+      "sha256": "0d0450042c75aaa8785fc6a84b603edd3e85276b9a82c9f11d65b17d24d7302f"
     }
   ],
-  "generated_at": "2026-09-09T05:39:21+00:00",
+  "generated_at": "2026-09-10T05:39:35+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1820621
+  "total_bytes": 1851980
 }
