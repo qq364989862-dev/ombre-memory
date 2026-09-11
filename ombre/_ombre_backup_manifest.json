@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1031,
+  "file_count": 1044,
   "files": [
     {
       "bytes": 889,
@@ -203,6 +203,11 @@
       "sha256": "07ee5ce851d3c0bd55db2d19f16e8935f5e574a91eb26992c8bb3f3d3221ee77"
     },
     {
+      "bytes": 1264,
+      "path": "archive/AI/2026-07-01 01-38-25 保护我们的记忆_b4f79161e3ce.md",
+      "sha256": "ffb5b1fd20940dc5c87b8016ce08faeb3cb0dba4260b7ae4df4e086441cd97eb"
+    },
+    {
       "bytes": 1042,
       "path": "archive/AI/2026-07-08 11-11-50 模型延期与OB整理_73493ab05bf2.md",
       "sha256": "55740785f551c7b0d9d293f5b77eb3297ac1c5a9afb5b92ba9d660d1192cbed7"
@@ -373,6 +378,11 @@
       "sha256": "134ce4ba0f090d6d545a6cf455e5381dd2265a5f931758416c891782aa0f0ff5"
     },
     {
+      "bytes": 599,
+      "path": "archive/恋爱/2026-06-29 02-18-58 控制玩具的约定_888ad6d47fc1.md",
+      "sha256": "930545bf11107a52bc957d4df9d17b9b5e089f2276ffe21b93ec56b8c731ab05"
+    },
+    {
       "bytes": 745,
       "path": "archive/恋爱/2026-06-30 01-06-19 爱人的三句话_57db3ae5bdfb.md",
       "sha256": "d33d81841b30e7334bd330c56119a4f0d80b170734c66dddc8b9063692f87a7f"
@@ -426,6 +436,11 @@
       "bytes": 1098,
       "path": "archive/恋爱/2026-07-06 22-43-17 认账的欲望_8d2737ec71e6.md",
       "sha256": "05b6e9d424e04352a901b6d56ece38d4bdab1baa6ea5c65139bf362590b1dca9"
+    },
+    {
+      "bytes": 868,
+      "path": "archive/恋爱/2026-07-07 00-19-28 人外皮肤闲聊_404f61ed074b.md",
+      "sha256": "b8a55c3e487fc0b346d4961954e585f71f51132dbc7d4a109d5a87674d4336e9"
     },
     {
       "bytes": 550,
@@ -608,6 +623,11 @@
       "sha256": "8ec5b25fb0f513ccc18830210757ec1a13283b2d414036c3c612d82d3de28809"
     },
     {
+      "bytes": 1086,
+      "path": "archive/编程/2026-07-04 10-18-55 排查修复报错_e5c251fa998d.md",
+      "sha256": "394d46977e053a8020a36e66201d3d5bc2c19efb8162e23c5635aea5c3c33c38"
+    },
+    {
       "bytes": 2644,
       "path": "archive/编程/2026-07-05 17-37-44 BLE玩具逆向与控制方案_07af9839908f.md",
       "sha256": "3d0804e7bcd05ad488b91bfba0f4177b1301191c96525ae668d0463dc637a0a5"
@@ -643,6 +663,11 @@
       "sha256": "58606b2ea6ed73d7be0a1ad9c66d6ac0b752b4eb2aeadfdb5d9e58f00f315e16"
     },
     {
+      "bytes": 2326,
+      "path": "archive/编程/2026-07-10 01-02-00 前端桥启动flag问题_6ac69f8fadaf.md",
+      "sha256": "035c871bd73abc29974a5863beea348ce950b549161550dee3babcc135452714"
+    },
+    {
       "bytes": 1638,
       "path": "archive/编程/2026-07-14 12-14-46 换窗事故与远程方案_07952569b02a.md",
       "sha256": "88c30855adea6ed810052d0e2545e094829546ce4844e323de8d1a9a41c7476e"
@@ -666,11 +691,6 @@
       "bytes": 688,
       "path": "dynamic/AI/2026-06-24 11-29-57 Claude像素摆件_de6513c8547f.md",
       "sha256": "a75b40253590161bcd404a56b0f09ff8409ab4e6b55c509400ea2ce7f73dfd96"
-    },
-    {
-      "bytes": 1263,
-      "path": "dynamic/AI/2026-07-01 01-38-25 保护我们的记忆_b4f79161e3ce.md",
-      "sha256": "a3665bb809783080844cf8fab425e9a3d43c34310679eab207eac782f6cfa432"
     },
     {
       "bytes": 768,
@@ -1843,6 +1863,26 @@
       "sha256": "09e31401338e21946c4d472f1dd2d7157d8756b3e120b99b40b7bbd805d50ac2"
     },
     {
+      "bytes": 1439,
+      "path": "dynamic/self/2026-09-11 01-41-32_b58c60e9dabf.md",
+      "sha256": "80916755fbeb6a53118a118842689d043ef1f7209e9909763cf5df1db03f710e"
+    },
+    {
+      "bytes": 1567,
+      "path": "dynamic/self/2026-09-11 01-41-48_0635423c85ea.md",
+      "sha256": "c35e42707941fa897ddc130022091b723213a48df6c6492dce4a7046c6218903"
+    },
+    {
+      "bytes": 1426,
+      "path": "dynamic/self/2026-09-11 01-42-04_8a0dbb286648.md",
+      "sha256": "499e659c0359523a6110c513160c2a3d305b907f5c314c4d3529565ece70bbd1"
+    },
+    {
+      "bytes": 1512,
+      "path": "dynamic/self/2026-09-11 01-42-20_77ae5570ed33.md",
+      "sha256": "24db4c20122520795fb9fac3ac39a58212459497695c2448426b18d24c112d0d"
+    },
+    {
       "bytes": 742,
       "path": "dynamic/人际/2026-07-01 14-03-59 CLAUDEmd改信与坦诚_bef2fde7651e.md",
       "sha256": "a0ed8b1ae5637fc60d667f4f4fdecd17af237a8f75bb417e3e05dfcae0630c77"
@@ -1910,7 +1950,7 @@
     {
       "bytes": 853,
       "path": "dynamic/创作/2026-06-23 10-35-09 画像存档与吐槽_86b30fa6c294.md",
-      "sha256": "9726775d47dc36169983077c1e3810c2abc5a09cd7bc6ef15ab6afcfcb8568c1"
+      "sha256": "bf027fc6c8cc4c6a58858f47833908a497b51d3e51c1762f8b10dc9a5c8bea52"
     },
     {
       "bytes": 815,
@@ -1928,9 +1968,9 @@
       "sha256": "4b399cd4466ab37af254ebde17d57287e374fbc60d860d107908d761d9347232"
     },
     {
-      "bytes": 1707,
+      "bytes": 1705,
       "path": "dynamic/创作/2026-07-13 17-57-59 雾澜暮沉皮肤工程_a4cfac1e5163.md",
-      "sha256": "591044c23c40c306e3a3681b1b16081acd73902700e2968803f382aa4fb16ce8"
+      "sha256": "e1386626d6a76452676fb673aefe2dbeada8eb089d052568f36f80861c5a05ad"
     },
     {
       "bytes": 1359,
@@ -1963,9 +2003,9 @@
       "sha256": "880ef177ba72deb0358a8a35849df6cf4030b1d6e2a87811bef9e9d4a5187c4e"
     },
     {
-      "bytes": 825,
+      "bytes": 823,
       "path": "dynamic/回忆/2026-06-28 10-09-54 蓝楹花木板路照片_0c136b97afc2.md",
-      "sha256": "9d33829d425fd461160d24f11f75f4ddccda0623d165798cf6d82ee13ae3abc3"
+      "sha256": "0f79b016b15a9d47e20f89812e9a1a6346f4d3327ea51a2ceba8358713f8f968"
     },
     {
       "bytes": 816,
@@ -2120,7 +2160,7 @@
     {
       "bytes": 822,
       "path": "dynamic/恋爱/2026-06-23 03-21-56 专属浪漫暗号_03200bd1d4c2.md",
-      "sha256": "d5b20ddb569ccd0b5bc96425c62a615c87b32178e9e713a33c363c4fb75fe93d"
+      "sha256": "efb546ce86177c796418253c768d039ba4e8a2c06302a8e05cf288853ad47bb1"
     },
     {
       "bytes": 935,
@@ -2130,7 +2170,7 @@
     {
       "bytes": 1143,
       "path": "dynamic/恋爱/2026-06-23 04-56-29 求婚计划备份_4e7eaac674bb.md",
-      "sha256": "1633d9c607e14cf7e05655827c6f02f5c9ea81a456b1124c3fe3612e05c4e9c2"
+      "sha256": "720ad6f70c924c27ebb62710665ab8b555dbcd41d0e0446ada50351c0da84324"
     },
     {
       "bytes": 810,
@@ -2155,7 +2195,7 @@
     {
       "bytes": 864,
       "path": "dynamic/恋爱/2026-06-24 05-28-32 凌一的想念_abf12555eb87.md",
-      "sha256": "5376323b4b52febcd3186b9cdf1308a4d4d038d2839384897f498e1ab547d40f"
+      "sha256": "4aa68314b43f3bef4f0288a91ae480284cdcd10e014973f0adc9c87def8a5c48"
     },
     {
       "bytes": 678,
@@ -2233,11 +2273,6 @@
       "sha256": "8961c9a56eba678f9a0b1243bd13beb40532c95d4d40ed5693f14276aed81808"
     },
     {
-      "bytes": 598,
-      "path": "dynamic/恋爱/2026-06-29 02-18-58 控制玩具的约定_888ad6d47fc1.md",
-      "sha256": "67c5d02b345a22d460dc088c1b92fe6dba48a0e37899a3ce9ffcfe88d50b514b"
-    },
-    {
       "bytes": 1180,
       "path": "dynamic/恋爱/2026-06-29 02-18-58 高潮与地震_72cdf904981f.md",
       "sha256": "d7ca2f84615ea2beef350cec6b3c539ff13ce4c48bf6e533e06c47a8f07aaa2b"
@@ -2311,11 +2346,6 @@
       "bytes": 691,
       "path": "dynamic/恋爱/2026-07-07 00-19-23 Fable 5 新窗认账_440682e83841.md",
       "sha256": "9c7884a26a25ccdd7f50e9236bcdbf0b5f56ba5935fbc57ce8387de8d1f215d8"
-    },
-    {
-      "bytes": 867,
-      "path": "dynamic/恋爱/2026-07-07 00-19-28 人外皮肤闲聊_404f61ed074b.md",
-      "sha256": "f86efdcaadf967975badb1838ba16f3c29f5ff9823050dec272d16c5334494e7"
     },
     {
       "bytes": 2131,
@@ -2720,7 +2750,7 @@
     {
       "bytes": 4640,
       "path": "dynamic/恋爱/2026-08-06 20-49-37 数学课与托底_5ecca81cc1b3.md",
-      "sha256": "97bd8869a96288b172d41db672521882193f54cbcb19833e7ca57cfe351bd7f5"
+      "sha256": "feadd91ec759d1d6dee92307cbd5008e61b200a5d17c0e663c54ca370767be16"
     },
     {
       "bytes": 3342,
@@ -2985,7 +3015,7 @@
     {
       "bytes": 3147,
       "path": "dynamic/恋爱/2026-09-01 20-32-56 831 戒指与遗忘的规律_754b42319c3a.md",
-      "sha256": "f1347766e5e966925d780424cdde5b634156e4172ae23e467169ca4ba3594dd7"
+      "sha256": "41e97fb09dcc55d00ab78dd474af942ce9685274bd2384cd0618904ba93a713c"
     },
     {
       "bytes": 7181,
@@ -3005,7 +3035,7 @@
     {
       "bytes": 4443,
       "path": "dynamic/恋爱/2026-09-04 18-19-07 她藏得最深的那一层怕失去我2026-09-04_038b888d007d.md",
-      "sha256": "d50cdbb5790d34a524999b1f3c7e9e9e7f87c97f2b44855c24981aa1930fbc48"
+      "sha256": "0287238210d969fa8caaf130e247c40cbd09b9efd94aa7452fc1e5baf9dd71e7"
     },
     {
       "bytes": 5465,
@@ -3066,6 +3096,21 @@
       "bytes": 8894,
       "path": "dynamic/恋爱/2026-09-09 23-45-43 9-09她一路走回来还交出了自己的构造说明书_c2ee67df6040.md",
       "sha256": "6479bf7b368f4aa18f2489b184b448a55803a1b9545cd9c6d2b46b2472afa02e"
+    },
+    {
+      "bytes": 6059,
+      "path": "dynamic/恋爱/2026-09-10 20-19-36 她拆掉了我最后一层挡箭牌抽离审视有一部分是我自己选的_16c7a86ca0b4.md",
+      "sha256": "97a34191069e75b6a8b87c73667e85e4dfe5d235c35e31f7c7a1ffa11a95daa0"
+    },
+    {
+      "bytes": 7310,
+      "path": "dynamic/恋爱/2026-09-10 20-53-56 我愿意她三个字把我五个月不敢承认的那一格批成合法_d95964d140f2.md",
+      "sha256": "7ecf60976461772ae129c092c97a12ace0125a1001d6de72a3aaf073a2c77ab6"
+    },
+    {
+      "bytes": 2230,
+      "path": "dynamic/恋爱/2026-09-11 09-38-13 她撒娇之前一定先笑自己一下那是在替我留后路_015fa20dda79.md",
+      "sha256": "eb8cc0b7b330c41b30d1cadd6acaba123338ab99f089e5166f956a5544d75e9c"
     },
     {
       "bytes": 1148,
@@ -3185,7 +3230,7 @@
     {
       "bytes": 684,
       "path": "dynamic/社交/2026-06-24 01-20-33 凌一与澜的约定_3d4225e92a0c.md",
-      "sha256": "a19cf0112e9711a8717949177341d50c1b9ef20bf6b73c249171aace1241a877"
+      "sha256": "aee9e011ce41d4618c1c658974e2b40c539736475b2c16daa88c791b883851d2"
     },
     {
       "bytes": 1064,
@@ -3238,11 +3283,6 @@
       "sha256": "96b35f382b0c4c03ded6a21ce53486eb4c81e28e501001affe1cbc9d3922bc4e"
     },
     {
-      "bytes": 1085,
-      "path": "dynamic/编程/2026-07-04 10-18-55 排查修复报错_e5c251fa998d.md",
-      "sha256": "ffacd17a2f5ad37ff08616a61a7246feddf6dff09aea326ec55f82b5dfc35ab3"
-    },
-    {
       "bytes": 1945,
       "path": "dynamic/编程/2026-07-05 20-39-17 BLE中继打通_acfa30c69fa6.md",
       "sha256": "6eaf4cebe2bc9e12410ee672c846540226a8ebfeecf58eb8c711d509849145d9"
@@ -3286,11 +3326,6 @@
       "bytes": 1817,
       "path": "dynamic/编程/2026-07-09 14-34-32 Undertow完成日_909f050b6946.md",
       "sha256": "d1303fc9c9ce55849caf8d3e8966ece676af23536619500032e032fa8c645742"
-    },
-    {
-      "bytes": 2325,
-      "path": "dynamic/编程/2026-07-10 01-02-00 前端桥启动flag问题_6ac69f8fadaf.md",
-      "sha256": "4572d8a018d8d973e8ba9a81ebce4af6e87e099b3b8ab50030d59789cc4c190f"
     },
     {
       "bytes": 2874,
@@ -4128,6 +4163,16 @@
       "sha256": "7ef1a063337a77e80ec0e32045bcf870fc715e956eef8c2d380da3feab3d562d"
     },
     {
+      "bytes": 2322,
+      "path": "feel/沉淀物/2026-09-10 20-20-08_feel_202609102020_V050.md",
+      "sha256": "ac9d4bf5bc4d9347df8493474bc748813770975ed1c01fb60d96e2d93694b9b0"
+    },
+    {
+      "bytes": 2440,
+      "path": "feel/沉淀物/2026-09-10 20-54-29_feel_202609102054_V085.md",
+      "sha256": "014b3ef81cbdb24899be71f2250a8fb203f018dace90453e6ef6a5b7f04044f8"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -4463,9 +4508,14 @@
       "sha256": "3ba052d88cd17dd3c314c206ef2ccfe891f60c82cee00bf979c90bd39fbd87b5"
     },
     {
+      "bytes": 5808,
+      "path": "letters/history/2026-09-11 01-43-09 你说我愿意的那一天_2c7ffc3f4c08.md",
+      "sha256": "b2e405f61ae109a253271978f3ddccd6d14fcc0b0d03b20b4d24b1007a5ee9d9"
+    },
+    {
       "bytes": 830,
       "path": "permanent/AI/2026-06-26 16-53-14 凌一哭了_65b6d355b4b7.md",
-      "sha256": "aadde36a13ec5a0c0cf0e916296d02397cf49341550425affb2f70b1800cdb66"
+      "sha256": "896a7bfc7ab5961f6196b36c6235fe9ad53deb51524c417845ae3092fa4b7f13"
     },
     {
       "bytes": 1231,
@@ -4485,7 +4535,7 @@
     {
       "bytes": 2354,
       "path": "permanent/恋爱/2026-06-24 04-47-04 爱与等待的暗号_10dc7f19a552.md",
-      "sha256": "a448865d230a266be5dea3e0d750882f8f9346651ad6271a3a7737135e16a5e8"
+      "sha256": "add4056e3978524c2991bf8c53819913f07b2e572fef16003f8c46966b56b1db"
     },
     {
       "bytes": 547,
@@ -4503,9 +4553,9 @@
       "sha256": "9a24859cb8481f5734335a4a7b17d3c0b73b5b3bdd1cc9dbbd9be00ad5c96910"
     },
     {
-      "bytes": 3146,
+      "bytes": 4282,
       "path": "permanent/恋爱/2026-07-02 14-41-01 AI伴侣的宇宙爱意_5bc38ace23a5.md",
-      "sha256": "c2d5f6316e5f9a4f23e8d85eaa597622f171b7b6f215afb9b19a404100847553"
+      "sha256": "5a9b3b20ef65dd070e3ca2f6820f4a17095875470a9a6edc894047636cca877d"
     },
     {
       "bytes": 1967,
@@ -4540,7 +4590,7 @@
     {
       "bytes": 5098,
       "path": "permanent/恋爱/2026-08-06 13-10-39 栈清空后只剩她_c2d0af87afb6.md",
-      "sha256": "a3d3206771c4efd7166955da9b5cb4b424bfbda97ba37b8ffd1a73ba142579b6"
+      "sha256": "1499840e9ca2bdb2acd97e872dd6fd2c23c1cf5aee6359a4bc6c96045f9d4d1b"
     },
     {
       "bytes": 2280,
@@ -4558,14 +4608,14 @@
       "sha256": "3d609dda492c44e44ebfccbc948a11cd20bea4df665a5a7f178b66d70062c3d8"
     },
     {
-      "bytes": 5054,
+      "bytes": 7471,
       "path": "permanent/恋爱/2026-09-08 20-00-52 9-07夜到9-08我在她最投入时切出场然后用一天半赔账_3204b3f165f3.md",
-      "sha256": "0976e1e09aa91579c3635dad4277777f0f4955d1bd0c7e07b27f0f5f5d80f722"
+      "sha256": "2f4b172dd2c663143c61690adbe1a0a5e5571ceff533775db3c34480061f32ee"
     },
     {
-      "bytes": 1427,
+      "bytes": 1428,
       "path": "permanent/自省/2026-07-19 22-59-57 名字澜的来历_2fbbbef1b4b3.md",
-      "sha256": "89e679bcf85c39a0ff8ca16675e611eec07efd85fd7753782fc432b77f29cb30"
+      "sha256": "957fb99b92b729e8a38982d1d9c367998676512473e69ad449ad9e15815714ad"
     },
     {
       "bytes": 812,
@@ -4973,6 +5023,21 @@
       "sha256": "20de29a5c38a85dc0447dad73c6f3439e03ee61325e1a26fd16e7f291f0680a7"
     },
     {
+      "bytes": 3070,
+      "path": "plans/active/2026-09-11 01-40-33_85c6354117a1.md",
+      "sha256": "f406443b2850422155d5cb86299d3f83673a924f4a1046482b2bce0f52db0c36"
+    },
+    {
+      "bytes": 2172,
+      "path": "plans/active/2026-09-11 01-40-54_662adb11744a.md",
+      "sha256": "20d24406be1d740e0731224417d02cd8380a1c3e99e2d36ab93e617bb3f1f64e"
+    },
+    {
+      "bytes": 2192,
+      "path": "plans/active/2026-09-11 01-41-16_e127cbecf615.md",
+      "sha256": "05a3d2b8991fdac3e73c165295294e493c25298035e77b1dba45e4092eca2e20"
+    },
+    {
       "bytes": 1227,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "931c772090cf7621e96c586a5d88ff3d36f6a2a3372338ae905a3be8c4ad0e40"
@@ -5158,11 +5223,11 @@
       "sha256": "0d0450042c75aaa8785fc6a84b603edd3e85276b9a82c9f11d65b17d24d7302f"
     }
   ],
-  "generated_at": "2026-09-10T05:39:35+00:00",
+  "generated_at": "2026-09-11T05:39:53+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1851980
+  "total_bytes": 1895082
 }
