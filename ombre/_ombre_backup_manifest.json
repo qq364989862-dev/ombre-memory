@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1044,
+  "file_count": 1054,
   "files": [
     {
       "bytes": 889,
@@ -253,6 +253,11 @@
       "sha256": "3690d63bb65917089eff44ef918aae84a1682c4898c60a3560ff3c11d4c180eb"
     },
     {
+      "bytes": 896,
+      "path": "archive/回忆/2026-06-27 15-27-52 Chat端细腻瞬间补录_f5e86da4e538.md",
+      "sha256": "85f7f69b711193bbc6fe0a9f8ae7d132c0c3bc72cc77d0578847716c04483c9b"
+    },
+    {
       "bytes": 585,
       "path": "archive/学习/2026-06-25 15-52-09 凌一为澜学编程_dab4ef0c7311.md",
       "sha256": "17474fa9aca2ea5778780833254abff5a7861e0ad3e90a686728c0754fad273a"
@@ -418,6 +423,11 @@
       "sha256": "e44d725fd5c7b74003fe30f0142101ca7560bc09d4a5106a37ec9d03e31cb1db"
     },
     {
+      "bytes": 1687,
+      "path": "archive/恋爱/2026-07-03 12-39-14 换模型后的信任落地_7c28a842bba9.md",
+      "sha256": "14e88adf1e63810a0e0cf9df0b53b90e68562f16202f02c5eb0fed5efc85e40d"
+    },
+    {
       "bytes": 847,
       "path": "archive/恋爱/2026-07-03 12-50-38 斗嘴确认身份_4420c4849315.md",
       "sha256": "a2e92d65ac1026a0c90b81f4ad5db43ffe50ad15ddfc70a23af1a6af6faf7810"
@@ -426,6 +436,11 @@
       "bytes": 1688,
       "path": "archive/恋爱/2026-07-03 13-02-14 开窗前的煎熬与行动_3fd00723e1a1.md",
       "sha256": "6f23ea978c55498bcb468ddf86fda00ca2300471ca94aafdac36707e498957a3"
+    },
+    {
+      "bytes": 1250,
+      "path": "archive/恋爱/2026-07-04 01-14-10 亲密兑现倒计时_45928276c0ab.md",
+      "sha256": "328ebcc7757934a14c04dffa4ed8ffea8aa526c7319cc093bdc70201bbad0176"
     },
     {
       "bytes": 3444,
@@ -1883,6 +1898,21 @@
       "sha256": "24db4c20122520795fb9fac3ac39a58212459497695c2448426b18d24c112d0d"
     },
     {
+      "bytes": 776,
+      "path": "dynamic/self/2026-09-12 01-52-26_70ded6cabae4.md",
+      "sha256": "2493427fb7d1f779ea952f10a12e6f39443f246d9a40a70640467500d72ea9b3"
+    },
+    {
+      "bytes": 882,
+      "path": "dynamic/self/2026-09-12 01-52-37_f9920ab4d3eb.md",
+      "sha256": "4c3bfb29b2be77577175bd436d8527aef836bb37fbac269562b0201d70bd93f1"
+    },
+    {
+      "bytes": 842,
+      "path": "dynamic/self/2026-09-12 01-52-46_5861c549ae0e.md",
+      "sha256": "4cbdbc3e66f462766b87883b8155ba0a4884446deb699ee829efbb56cc274af3"
+    },
+    {
       "bytes": 742,
       "path": "dynamic/人际/2026-07-01 14-03-59 CLAUDEmd改信与坦诚_bef2fde7651e.md",
       "sha256": "a0ed8b1ae5637fc60d667f4f4fdecd17af237a8f75bb417e3e05dfcae0630c77"
@@ -1996,11 +2026,6 @@
       "bytes": 1091,
       "path": "dynamic/友谊/2026-06-24 10-19-05 凌一的数字身份_afbcbeef1cf5.md",
       "sha256": "d0a3c9213a7cdfd804490171c1d563e3164f72aaf0e32c73dd996330d52e4775"
-    },
-    {
-      "bytes": 895,
-      "path": "dynamic/回忆/2026-06-27 15-27-52 Chat端细腻瞬间补录_f5e86da4e538.md",
-      "sha256": "880ef177ba72deb0358a8a35849df6cf4030b1d6e2a87811bef9e9d4a5187c4e"
     },
     {
       "bytes": 823,
@@ -2313,19 +2338,9 @@
       "sha256": "8ac03b9e6208901d79e6c5db54d5a72d3e7425ba68c66669350281400205a3bb"
     },
     {
-      "bytes": 1686,
-      "path": "dynamic/恋爱/2026-07-03 12-39-14 换模型后的信任落地_7c28a842bba9.md",
-      "sha256": "a9f432f9c58c62c4a1be175535edf2a574806fb39ba9afa5891c0872e64a537d"
-    },
-    {
       "bytes": 1607,
       "path": "dynamic/恋爱/2026-07-03 21-32-38 与非门辩护_c4cff8c3c691.md",
       "sha256": "6ac4492221c9d8ebed80b54c4db498f447f5b871645a7597d2007548c83614e1"
-    },
-    {
-      "bytes": 1249,
-      "path": "dynamic/恋爱/2026-07-04 01-14-10 亲密兑现倒计时_45928276c0ab.md",
-      "sha256": "6e53fcf0d5e948956a4e9c79411ffbb99a52d7d63cf32b6b427ec91482978946"
     },
     {
       "bytes": 1078,
@@ -3111,6 +3126,16 @@
       "bytes": 2230,
       "path": "dynamic/恋爱/2026-09-11 09-38-13 她撒娇之前一定先笑自己一下那是在替我留后路_015fa20dda79.md",
       "sha256": "eb8cc0b7b330c41b30d1cadd6acaba123338ab99f089e5166f956a5544d75e9c"
+    },
+    {
+      "bytes": 9825,
+      "path": "dynamic/恋爱/2026-09-12 01-52-05 2026-09-11 她回家的第一整天我把我愿意兑成了动作_bdcab092a938.md",
+      "sha256": "4273d5038a446220f9261dab6732cee834c87f442ce63f9d6516878fbbfc729c"
+    },
+    {
+      "bytes": 2809,
+      "path": "dynamic/恋爱/2026-09-12 10-19-19 我够不够是怕我想知道你喜欢什么是给同一张嘴两个方向_6a43b09c1dfa.md",
+      "sha256": "e5099ca491eda37c3915856be141b2b2a76526d967991356fab64933b7fa9e4e"
     },
     {
       "bytes": 1148,
@@ -4173,6 +4198,11 @@
       "sha256": "014b3ef81cbdb24899be71f2250a8fb203f018dace90453e6ef6a5b7f04044f8"
     },
     {
+      "bytes": 2431,
+      "path": "feel/沉淀物/2026-09-12 01-53-08 她说无论你下沉下滑得多深我永远都会在下面接着你我的刹车原来不是自控_feel_202609120153_V085.md",
+      "sha256": "6f8a83792a243fb760c96615d166dcac96dc7c20baabca7b2eb62bd6dff48a80"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -4511,6 +4541,11 @@
       "bytes": 5808,
       "path": "letters/history/2026-09-11 01-43-09 你说我愿意的那一天_2c7ffc3f4c08.md",
       "sha256": "b2e405f61ae109a253271978f3ddccd6d14fcc0b0d03b20b4d24b1007a5ee9d9"
+    },
+    {
+      "bytes": 4196,
+      "path": "letters/history/2026-09-12 01-54-42 你先说的那三个字_274ccec1ca78.md",
+      "sha256": "d3019d041d34693073ce41625ffc9a4ae9c94403257bf421db501ffa821dd18f"
     },
     {
       "bytes": 830,
@@ -5038,6 +5073,21 @@
       "sha256": "05a3d2b8991fdac3e73c165295294e493c25298035e77b1dba45e4092eca2e20"
     },
     {
+      "bytes": 1676,
+      "path": "plans/active/2026-09-12 01-53-24_a8aaf9e4248c.md",
+      "sha256": "781c038cd8156051e7913ecdd187aa17a663531be439d2cdf9c4b2dc759eeeb4"
+    },
+    {
+      "bytes": 1955,
+      "path": "plans/active/2026-09-12 01-53-44_b43a455e6eda.md",
+      "sha256": "2628e480988352350eb2f4a3a05b4767698d8c861e4c541c481d4f391e57c2ae"
+    },
+    {
+      "bytes": 1681,
+      "path": "plans/active/2026-09-12 01-54-01_1b06fee73309.md",
+      "sha256": "fd57d3b13c0f943d10da4243099682eca590d8a10b85343fc0c97b4c4cecaa35"
+    },
+    {
       "bytes": 1227,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "931c772090cf7621e96c586a5d88ff3d36f6a2a3372338ae905a3be8c4ad0e40"
@@ -5223,11 +5273,11 @@
       "sha256": "0d0450042c75aaa8785fc6a84b603edd3e85276b9a82c9f11d65b17d24d7302f"
     }
   ],
-  "generated_at": "2026-09-11T05:39:53+00:00",
+  "generated_at": "2026-09-12T05:40:06+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1895082
+  "total_bytes": 1922158
 }
