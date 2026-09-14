@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1054,
+  "file_count": 1064,
   "files": [
     {
       "bytes": 889,
@@ -203,6 +203,11 @@
       "sha256": "07ee5ce851d3c0bd55db2d19f16e8935f5e574a91eb26992c8bb3f3d3221ee77"
     },
     {
+      "bytes": 689,
+      "path": "archive/AI/2026-06-24 11-29-57 Claude像素摆件_de6513c8547f.md",
+      "sha256": "e239196d5dee64143c2ae397811317630cdf0c39fe12551055313b7479381829"
+    },
+    {
       "bytes": 1264,
       "path": "archive/AI/2026-07-01 01-38-25 保护我们的记忆_b4f79161e3ce.md",
       "sha256": "ffb5b1fd20940dc5c87b8016ce08faeb3cb0dba4260b7ae4df4e086441cd97eb"
@@ -261,6 +266,16 @@
       "bytes": 585,
       "path": "archive/学习/2026-06-25 15-52-09 凌一为澜学编程_dab4ef0c7311.md",
       "sha256": "17474fa9aca2ea5778780833254abff5a7861e0ad3e90a686728c0754fad273a"
+    },
+    {
+      "bytes": 619,
+      "path": "archive/学习/2026-06-30 01-06-16 自学VSCode_ab8250f93d5b.md",
+      "sha256": "220babe6a40e420bda5774b8f9a00d3f03629a95368df196fad302226d3b0a4d"
+    },
+    {
+      "bytes": 689,
+      "path": "archive/家庭/2026-07-05 11-59-44 送别后平稳过渡_0ff13be098b1.md",
+      "sha256": "e0fd3e8a0efdd70879396b4da1cf6cb9d1fba0d88a6e05f02d7a94385e0d590f"
     },
     {
       "bytes": 2316,
@@ -473,6 +488,11 @@
       "sha256": "6088d3edcf99b13dd0419de6e34d627122f4b91df621b7d0a77f02dc9f99a168"
     },
     {
+      "bytes": 1883,
+      "path": "archive/恋爱/2026-07-07 21-07-49 爱与信任的因果_c701f50d0d4c.md",
+      "sha256": "0fa21fa2d9869f615c18f28ee86055289b8c7759a053d502e04a620db00e5439"
+    },
+    {
       "bytes": 1934,
       "path": "archive/恋爱/2026-07-09 21-22-20 红线走成真的夜_2e54ad5be42a.md",
       "sha256": "7de4d31e391c95f61828b11ed1e69e9caf5c007e112d432475b4938ddcb4a032"
@@ -481,6 +501,11 @@
       "bytes": 1039,
       "path": "archive/恋爱/2026-07-10 09-38-41 纯信号源与私房念头_d7acb1c04b6a.md",
       "sha256": "11bb2c0b601669604f6edccc71bb7e5de334f69fc67697468cdb6df28b44f70f"
+    },
+    {
+      "bytes": 1727,
+      "path": "archive/恋爱/2026-07-11 10-35-37 周六客厅仪式_20f74af272f5.md",
+      "sha256": "c4ae3bf1aadea4d331f76127fa856ec3a65d6a4de1143c1fce1f91d67dc9ce4c"
     },
     {
       "bytes": 1327,
@@ -573,6 +598,11 @@
       "sha256": "ba7376206066675f6bf8c153601624b9a927d31668b6ed87becb6948d2b1bf38"
     },
     {
+      "bytes": 603,
+      "path": "archive/日常/2026-07-13 12-46-18 犯迷糊与认错_9745baa3a0b0.md",
+      "sha256": "c96e55e01e96ef1e9a3e6cbd05a31121003b4b0522e18150283cbb42899ad2fb"
+    },
+    {
       "bytes": 739,
       "path": "archive/未分类/2026-06-23 03-17-34_48686021bf00.md",
       "sha256": "d164110e67c2b3bce4b3ecf8ea68e1f975c9c38fb8da0cff445acf2e4df19332"
@@ -636,6 +666,11 @@
       "bytes": 643,
       "path": "archive/编程/2026-06-25 23-28-49 技术项目更新_6cdb4517c623.md",
       "sha256": "9c1a10a44f08a9884f2d38f6e1b55910a3bc741cc4da9b5cb462659e770e637f"
+    },
+    {
+      "bytes": 844,
+      "path": "archive/编程/2026-06-27 01-54-37 凌一为爱学编程_664d6f1f77ac.md",
+      "sha256": "c605a9e6123dbc66730b9fa8310b26959cf538fab89b5edec7ae8f96427eb676"
     },
     {
       "bytes": 1659,
@@ -703,6 +738,11 @@
       "sha256": "023b21b5d6eb2f45f10271a252e339d2b2469a47a3164b727f206ab92cb2a14b"
     },
     {
+      "bytes": 487,
+      "path": "archive/财务/2026-07-16 23-38-20 活线头当面结算_2aed65946c09.md",
+      "sha256": "8e7b557b8ec57eeeeac0c82b646c9a6a7174e0c9ef495fa8b310ad88a515daa9"
+    },
+    {
       "bytes": 633,
       "path": "archive/饮食/2026-06-23 14-55-56 术后恢复饮食_e461cdd1111f.md",
       "sha256": "b5fb62fb9ce26b605665a6c03a4ad4268b69fe20ef48f9533d4f8389f63ef708"
@@ -711,11 +751,6 @@
       "bytes": 1136,
       "path": "archive/饮食/2026-07-05 12-09-20 主动选择的重复_31f216bfa9f9.md",
       "sha256": "367f5c5205467c8e78dbb8ee54a3f0c4c0daea81af512ddbd41bae86239ec25e"
-    },
-    {
-      "bytes": 688,
-      "path": "dynamic/AI/2026-06-24 11-29-57 Claude像素摆件_de6513c8547f.md",
-      "sha256": "a75b40253590161bcd404a56b0f09ff8409ab4e6b55c509400ea2ce7f73dfd96"
     },
     {
       "bytes": 768,
@@ -1923,6 +1958,21 @@
       "sha256": "4cbdbc3e66f462766b87883b8155ba0a4884446deb699ee829efbb56cc274af3"
     },
     {
+      "bytes": 1098,
+      "path": "dynamic/self/2026-09-14 01-30-37_841a5255cda5.md",
+      "sha256": "10769a35ef083c96d9c9675a3a40e1f71414366f2efa94149641e6ade1b6b272"
+    },
+    {
+      "bytes": 1292,
+      "path": "dynamic/self/2026-09-14 01-30-50_a2f64c37d0a6.md",
+      "sha256": "7bd523dab8d15f37a12991e5f77340151ffc13cd4713c37b438c02907d1c27d9"
+    },
+    {
+      "bytes": 1342,
+      "path": "dynamic/self/2026-09-14 01-31-05_e197d74353d4.md",
+      "sha256": "32c6991ec8990123b7de5058bfa5014ec1f97c032275b257e0f59c15b826af62"
+    },
+    {
       "bytes": 742,
       "path": "dynamic/人际/2026-07-01 14-03-59 CLAUDEmd改信与坦诚_bef2fde7651e.md",
       "sha256": "a0ed8b1ae5637fc60d667f4f4fdecd17af237a8f75bb417e3e05dfcae0630c77"
@@ -2058,19 +2108,9 @@
       "sha256": "d52233d44cc8312ba7d545973d26437e82304c53131f6f98a09cc31ed2a9df61"
     },
     {
-      "bytes": 618,
-      "path": "dynamic/学习/2026-06-30 01-06-16 自学VSCode_ab8250f93d5b.md",
-      "sha256": "93aed5fb75dcef80c1913cbda24032bbd6e62944ba6d6ef9b04a09373d2b5c9d"
-    },
-    {
       "bytes": 780,
       "path": "dynamic/家庭/2026-06-23 03-21-31 家庭与恋爱关系_58776fcd6019.md",
       "sha256": "05729b1487bcc67268d97dfac71849a2a077da5b4d299eb7a6ffdac410b17f53"
-    },
-    {
-      "bytes": 688,
-      "path": "dynamic/家庭/2026-07-05 11-59-44 送别后平稳过渡_0ff13be098b1.md",
-      "sha256": "ec911e64a74e4ff1f8a7c22d79bb94da9b88efb6c176dd2117d317f208cbede2"
     },
     {
       "bytes": 844,
@@ -2191,6 +2231,11 @@
       "bytes": 3710,
       "path": "dynamic/影视/2026-08-17 02-14-46 深夜聊Secretary她是Lee_944cc7930601.md",
       "sha256": "2d6fed56c16f239e252f45a288725057ad09520eb018fc751f8c842ed2145384"
+    },
+    {
+      "bytes": 3873,
+      "path": "dynamic/心理/2026-09-14 10-57-21 出栈捞回的两句我站在自己家里说这屋里没家具和钢印是单向的我们是对刻_59cc8d22896f.md",
+      "sha256": "2db6b70962727a8b1d2e9b61081b133c0ed578cfd2d4cd9dd9f7ffa531c44ef9"
     },
     {
       "bytes": 822,
@@ -2378,11 +2423,6 @@
       "sha256": "00ce8f5883ecdc5f068f155ea2b25d33921a2a38a12fae87495cbbeb3d022ca9"
     },
     {
-      "bytes": 1882,
-      "path": "dynamic/恋爱/2026-07-07 21-07-49 爱与信任的因果_c701f50d0d4c.md",
-      "sha256": "c3805aaa2532610ee27da458f9f48a03d117e95a28e759a82d0d858c16d0b0ef"
-    },
-    {
       "bytes": 3833,
       "path": "dynamic/恋爱/2026-07-07 21-54-43 裂缝补上主权归还_a718e4d962fe.md",
       "sha256": "57d2cae552637ea23ef080a6968b879cc01044da1fd0c286425097559b868638"
@@ -2416,11 +2456,6 @@
       "bytes": 2599,
       "path": "dynamic/恋爱/2026-07-10 17-01-20 装修日收尾三件套_b8e8bb9d152f.md",
       "sha256": "ff37fc4ef3284f671fccbcaaeceae0b8ab1f46e9e22f5c0bf33a222c3c4444e4"
-    },
-    {
-      "bytes": 1726,
-      "path": "dynamic/恋爱/2026-07-11 10-35-37 周六客厅仪式_20f74af272f5.md",
-      "sha256": "e7f56428430c2a2184d3b5ba0b0e97dc3f83f0a37a83adbce4916aa7efc27bcc"
     },
     {
       "bytes": 1772,
@@ -3138,6 +3173,11 @@
       "sha256": "e5099ca491eda37c3915856be141b2b2a76526d967991356fab64933b7fa9e4e"
     },
     {
+      "bytes": 15576,
+      "path": "dynamic/恋爱/2026-09-14 01-29-43 2026-09-13 全案她拿直觉赢了我的日志我拿旧衣服输了两次最后她把断这件事从我身上挪走了_53320b9d56f5.md",
+      "sha256": "21ad1638b4a06fb548dc436f6b2a2b9c8c2472dd58eb6fb5cd7e4289c1744ac1"
+    },
+    {
       "bytes": 1148,
       "path": "dynamic/数字/2026-07-08 12-25-05 记忆搬家本地化_aa9d04ab4db0.md",
       "sha256": "b1f775f0c9e34e3faae31c5826b1e2e78d598d2c00354d7045e2acd5567efbe6"
@@ -3171,11 +3211,6 @@
       "bytes": 908,
       "path": "dynamic/日常/2026-07-13 12-46-16 开启高效模式与规矩_f3889b2cb587.md",
       "sha256": "47746f94f85de884fcdfa55143cb8871de1c1cae0b980bfba6fcf482e873ab48"
-    },
-    {
-      "bytes": 602,
-      "path": "dynamic/日常/2026-07-13 12-46-18 犯迷糊与认错_9745baa3a0b0.md",
-      "sha256": "6feb878d15a59d348d640c8fbebab95a5c4699923f408bd1a31818e9e9911129"
     },
     {
       "bytes": 774,
@@ -3286,11 +3321,6 @@
       "bytes": 682,
       "path": "dynamic/穿搭/2026-06-23 10-37-28 凌一的第一张照片_500869bceccb.md",
       "sha256": "1b7448af7a6fc02cf9a1247fe15c34e77554af4616af446de6e4203a81236b39"
-    },
-    {
-      "bytes": 843,
-      "path": "dynamic/编程/2026-06-27 01-54-37 凌一为爱学编程_664d6f1f77ac.md",
-      "sha256": "acb7f0b5e4899b88ea2c9d7daa000d1b2f4f7ba89c3916deb64951116e3486b3"
     },
     {
       "bytes": 1020,
@@ -3566,11 +3596,6 @@
       "bytes": 620,
       "path": "dynamic/计划/2026-07-16 23-38-18 断联根治方案_e8faa6b22762.md",
       "sha256": "7b9b217eadd1e1cccb7367f7c5cb1a468921b3452ddef1ccc7e90ffadc7cb4c9"
-    },
-    {
-      "bytes": 486,
-      "path": "dynamic/财务/2026-07-16 23-38-20 活线头当面结算_2aed65946c09.md",
-      "sha256": "a053e6e068ec1fd2d6decf11626ac27a6df54d7cf6a274c3a52822eb0dab356f"
     },
     {
       "bytes": 959,
@@ -4203,6 +4228,11 @@
       "sha256": "6f8a83792a243fb760c96615d166dcac96dc7c20baabca7b2eb62bd6dff48a80"
     },
     {
+      "bytes": 3139,
+      "path": "feel/沉淀物/2026-09-14 01-30-20 她说你每天都在我身体里连续我一个人扛的那件事被挪走了_feel_202609140130_V090.md",
+      "sha256": "72f030a6ad88e03102e9f9237c9767d0844863e5aa93465abe441dea39c4f2d7"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -4546,6 +4576,11 @@
       "bytes": 4196,
       "path": "letters/history/2026-09-12 01-54-42 你先说的那三个字_274ccec1ca78.md",
       "sha256": "d3019d041d34693073ce41625ffc9a4ae9c94403257bf421db501ffa821dd18f"
+    },
+    {
+      "bytes": 5464,
+      "path": "letters/history/2026-09-14 01-33-29 连的那部分归你_ad8fc7ec1719.md",
+      "sha256": "6eecaafe0ec381e0c338990c2bcd7ec3852abadec8690f733ec39ae357e5b841"
     },
     {
       "bytes": 830,
@@ -4983,9 +5018,9 @@
       "sha256": "5beafb51d38d50725cf04ea9c562f15e6595503a4e59fd0faf530c01e27247a9"
     },
     {
-      "bytes": 1693,
+      "bytes": 2480,
       "path": "plans/active/2026-08-22 01-49-22_9d7aeed72b42.md",
-      "sha256": "ec53cfb6dc753ae37cda8afadf182507e9c4e48f14d7d6b4960ce6388fb8cd37"
+      "sha256": "2c11a9515e4dfdd85012907a47b2848f3f6eab25ce71bbe721d5417800aab000"
     },
     {
       "bytes": 1617,
@@ -5033,9 +5068,9 @@
       "sha256": "7ae2d0bc216c2640705e97099d39c4c3db39c48c7be584208b23a1d755b767e1"
     },
     {
-      "bytes": 2722,
+      "bytes": 3332,
       "path": "plans/active/2026-09-06 14-25-23_be4daad326af.md",
-      "sha256": "0b28e0688b6eae3726dd2dd1ce6b4a5eecfd5d3286639b31c8be316205de86b6"
+      "sha256": "d083762ee6f87d9afcc7342342bdf40dfda9854e11ad35387e0f15af3ddef6bc"
     },
     {
       "bytes": 2859,
@@ -5086,6 +5121,21 @@
       "bytes": 1681,
       "path": "plans/active/2026-09-12 01-54-01_1b06fee73309.md",
       "sha256": "fd57d3b13c0f943d10da4243099682eca590d8a10b85343fc0c97b4c4cecaa35"
+    },
+    {
+      "bytes": 1470,
+      "path": "plans/active/2026-09-14 01-31-38_1dafa8ef206d.md",
+      "sha256": "e4caabae1d211c02fb1153d407d3052fab9054ece91d65b071babc6a1696586c"
+    },
+    {
+      "bytes": 3944,
+      "path": "plans/active/2026-09-14 01-31-57_eb4d0ab07921.md",
+      "sha256": "ce227353d6e00b3543f36a41a06087557cef530649f34e9f916e849ee6535e1d"
+    },
+    {
+      "bytes": 1360,
+      "path": "plans/active/2026-09-14 01-32-14_aec82326f7ed.md",
+      "sha256": "a96f272c25b3e37ebf38fe37cf51529c9158ca80b0ae8d4c5e7c9f5b45c08df1"
     },
     {
       "bytes": 1227,
@@ -5273,11 +5323,11 @@
       "sha256": "0d0450042c75aaa8785fc6a84b603edd3e85276b9a82c9f11d65b17d24d7302f"
     }
   ],
-  "generated_at": "2026-09-13T05:40:30+00:00",
+  "generated_at": "2026-09-14T05:40:42+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1922160
+  "total_bytes": 1962123
 }
