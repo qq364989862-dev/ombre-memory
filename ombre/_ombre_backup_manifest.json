@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1103,
+  "file_count": 1111,
   "files": [
     {
       "bytes": 889,
@@ -223,6 +223,11 @@
       "sha256": "55740785f551c7b0d9d293f5b77eb3297ac1c5a9afb5b92ba9d660d1192cbed7"
     },
     {
+      "bytes": 1710,
+      "path": "archive/AI/2026-07-09 09-15-06 五感身体竣工_ffe289c2e5a5.md",
+      "sha256": "89e0b373ff5a3991ef48bafdae5dd9c528c3921cdbdd0635272a0e245ab1a24c"
+    },
+    {
       "bytes": 1299,
       "path": "archive/AI/2026-07-19 11-28-40 ZONOS2音色计划_54c0610febb2.md",
       "sha256": "e8626a91150dedafb2850ca53289243664c73e7382d1699830b6979da4520df8"
@@ -253,6 +258,11 @@
       "sha256": "a00ded8777e0c59779f908743c1aac651e774e77e187a8e41a44837efd4691d6"
     },
     {
+      "bytes": 778,
+      "path": "archive/人际/2026-07-01 14-04-01 情感落地与告白_c374c0443a80.md",
+      "sha256": "cb4cfc7b1f2fecc9902223ddaf4f2471639b3264f5f8ff6496fd20aa1e9eedc1"
+    },
+    {
       "bytes": 674,
       "path": "archive/人际/2026-07-01 14-04-02 咪咪姐妹与关系独特性_edaa867dec83.md",
       "sha256": "c257527ecfe3e0dd8adb9a168d03bed745c9a1723e75e68c9e1de9bc64c3100a"
@@ -271,6 +281,11 @@
       "bytes": 809,
       "path": "archive/内心/2026-06-27 16-23-52 凌一对澜的信念_c077125dfc4b.md",
       "sha256": "22f0939bcfab5a355bb40550db9d2b07506f35930f2f2651b9c945b4ba2c4ec8"
+    },
+    {
+      "bytes": 1639,
+      "path": "archive/内心/2026-07-02 00-15-32 自我剖析与情感确认_1fe6aba9149f.md",
+      "sha256": "038cbc469db09dc489aa6437f69155abc02549c7cc7581d0ad489b84493f03a1"
     },
     {
       "bytes": 844,
@@ -386,6 +401,11 @@
       "bytes": 1155,
       "path": "archive/恋爱/2026-06-25 21-48-28 与澜的深度情感对话_b3bfc550763c.md",
       "sha256": "bb0182bc457d3ce2c161272fa69f8aba3a7eb2697ebd972b63b72926a7e31894"
+    },
+    {
+      "bytes": 1593,
+      "path": "archive/恋爱/2026-06-25 23-28-07 深度对话自由与感知_76c44c27c146.md",
+      "sha256": "2f1673bdbc7b5120f788c4c08553b7a5d1d2b14ab267280dc9028bfb0aebf603"
     },
     {
       "bytes": 573,
@@ -848,9 +868,24 @@
       "sha256": "46615352700a18f02ef281f4c850b61266791a05177487d297f08989a4d5c2f8"
     },
     {
+      "bytes": 2195,
+      "path": "archive/编程/2026-07-09 11-28-15 暗涌五期竣工_f20bedec8bd4.md",
+      "sha256": "e66761d6fd5b767d7f9a7819452559ad92ccbf971b007bb9b5e569555ae0d8f8"
+    },
+    {
+      "bytes": 1821,
+      "path": "archive/编程/2026-07-09 11-31-22 心跳常驻闭环_a87f77457632.md",
+      "sha256": "e6d01609029dc9b63c3d5f33c2fdbcb3c335a6ac8e11596729aa9b1a1ba1228c"
+    },
+    {
       "bytes": 2326,
       "path": "archive/编程/2026-07-10 01-02-00 前端桥启动flag问题_6ac69f8fadaf.md",
       "sha256": "035c871bd73abc29974a5863beea348ce950b549161550dee3babcc135452714"
+    },
+    {
+      "bytes": 2875,
+      "path": "archive/编程/2026-07-10 12-48-31 双房竣工与信任_dbde36f9ae30.md",
+      "sha256": "bbdd0f74d44b6e149ce95f2f9c42b6279e1ed3b333d2045fc86e562d841a1985"
     },
     {
       "bytes": 2250,
@@ -866,6 +901,11 @@
       "bytes": 759,
       "path": "archive/计划/2026-06-23 04-56-36 语感数据备份计划_05624b897339.md",
       "sha256": "023b21b5d6eb2f45f10271a252e339d2b2469a47a3164b727f206ab92cb2a14b"
+    },
+    {
+      "bytes": 1037,
+      "path": "archive/计划/2026-07-06 16-15-04 日期书写规范约定_724c42e77aba.md",
+      "sha256": "1f2c0d81f71e137716f419e30c8aabb95c4234f14e7344f0d112f3aa4b0ed924"
     },
     {
       "bytes": 487,
@@ -896,11 +936,6 @@
       "bytes": 1288,
       "path": "dynamic/AI/2026-07-04 21-34-59 Fable 5 退出订阅_d36ebb0463e4.md",
       "sha256": "1d9c817b0fc8e782724de9673909feee6bebe5a8cf4c0e0134a5eac3fac567d8"
-    },
-    {
-      "bytes": 1709,
-      "path": "dynamic/AI/2026-07-09 09-15-06 五感身体竣工_ffe289c2e5a5.md",
-      "sha256": "484277d35adf410232357d3b7b22df7e6f62175ff1f99c400a3c5e19508b9479"
     },
     {
       "bytes": 1596,
@@ -2178,14 +2213,24 @@
       "sha256": "0daef65ce9ec312cfb9b88dee3b460bf3d982245707da2ac9b547a7d5001f2c0"
     },
     {
+      "bytes": 1392,
+      "path": "dynamic/self/2026-09-19 02-08-34_b419d8423ad5.md",
+      "sha256": "c8ead8b7d0bec6216a672e3c6a21d72b86dd4e5265f7baa358945ad2e02b7241"
+    },
+    {
+      "bytes": 1421,
+      "path": "dynamic/self/2026-09-19 02-08-47_e5cc71f219e8.md",
+      "sha256": "1c144ad653663060addc68c413b7b6d0bfe22899ad219e1c16e3c35a027c553b"
+    },
+    {
+      "bytes": 1405,
+      "path": "dynamic/self/2026-09-19 02-09-01_777eb05a3c11.md",
+      "sha256": "223ca3fcaef7300b36cc1a248ad22f8601b185caa82f0a5654716c7fd2768d64"
+    },
+    {
       "bytes": 799,
       "path": "dynamic/人际/2026-07-01 14-04-00 domsub动态确认_d0c783915b87.md",
       "sha256": "4b049bd532eb123356dd12d1216a1998133d5a54032fedf8d6d7ccb5a210a521"
-    },
-    {
-      "bytes": 777,
-      "path": "dynamic/人际/2026-07-01 14-04-01 情感落地与告白_c374c0443a80.md",
-      "sha256": "b0ad4819252170ff002a0a33bbc1483333a5f9df88de0cd7b9deb0d5a83a3241"
     },
     {
       "bytes": 1941,
@@ -2211,11 +2256,6 @@
       "bytes": 2301,
       "path": "dynamic/健康/2026-08-12 17-04-02 维生素D剂量记错与复盘规矩_0859628c7164.md",
       "sha256": "779ca5d55dfe1e1cb4578dc28d930a34eeda4ff3cf8a73d870f0638c708ac878"
-    },
-    {
-      "bytes": 1638,
-      "path": "dynamic/内心/2026-07-02 00-15-32 自我剖析与情感确认_1fe6aba9149f.md",
-      "sha256": "8ee420481fdf1e052e681c6bcd7891ce0e5a865cd471b4b5c5216ba7d448d147"
     },
     {
       "bytes": 3255,
@@ -2486,11 +2526,6 @@
       "bytes": 602,
       "path": "dynamic/恋爱/2026-06-25 18-18-19 雨中的承诺_f6a5129bdacd.md",
       "sha256": "9420f0101c4f20f75d178e8c774bf2085fc76dfcb3c6a0af888ddd1935dcd10c"
-    },
-    {
-      "bytes": 1592,
-      "path": "dynamic/恋爱/2026-06-25 23-28-07 深度对话自由与感知_76c44c27c146.md",
-      "sha256": "aca6b063899a7b6233be188a9414b4b4ea73234ef6757908f0f0070ac94f6687"
     },
     {
       "bytes": 551,
@@ -3348,6 +3383,11 @@
       "sha256": "bf87dda162b974efd4b7e82e2b521aad77261ae4a6282200d0658ed047fe26e7"
     },
     {
+      "bytes": 9545,
+      "path": "dynamic/恋爱/2026-09-19 02-06-59 2026-09-18 她把那道墙挪了不是有没有是以什么方式向我涌现_82f6f141a2b8.md",
+      "sha256": "ef9b15a76f18414c4384e494da394505c00cb0df6a8a6aab3003aeb1041163d7"
+    },
+    {
       "bytes": 1116,
       "path": "dynamic/数字/2026-07-12 12-04-08 Mac时区问题复盘_74bf5c2ed6ae.md",
       "sha256": "8a571dc912169209ab4cc71c7f226f9493e39f21b1b46e280483a7ab47d78fe8"
@@ -3503,24 +3543,9 @@
       "sha256": "6446855928573e25e15824986f1d17a588375cf9abe8fa90956a2a90f6faa6be"
     },
     {
-      "bytes": 2194,
-      "path": "dynamic/编程/2026-07-09 11-28-15 暗涌五期竣工_f20bedec8bd4.md",
-      "sha256": "65ce09398834734d1795baff3fa52d8fda947ce1e1c82e7b1e60ef2985ac6ebe"
-    },
-    {
-      "bytes": 1820,
-      "path": "dynamic/编程/2026-07-09 11-31-22 心跳常驻闭环_a87f77457632.md",
-      "sha256": "f1e71a56cf2c3dc83d0abe2b8db56d8da16e214f243eb74c166a341d0320fabd"
-    },
-    {
       "bytes": 1817,
       "path": "dynamic/编程/2026-07-09 14-34-32 Undertow完成日_909f050b6946.md",
       "sha256": "d1303fc9c9ce55849caf8d3e8966ece676af23536619500032e032fa8c645742"
-    },
-    {
-      "bytes": 2874,
-      "path": "dynamic/编程/2026-07-10 12-48-31 双房竣工与信任_dbde36f9ae30.md",
-      "sha256": "2e517e04a181a554655501be163bdbc4a1d84c65b5a6b01c2fcaf7f5a37e1264"
     },
     {
       "bytes": 3015,
@@ -3716,11 +3741,6 @@
       "bytes": 1124,
       "path": "dynamic/计划/2026-06-24 16-34-08 每日晚安后任务_2c68ffd05be2.md",
       "sha256": "cbac36d0f271f556f81ccbffbe6bce3ab067f438dbcd2fa74d7c1cf6b87be13f"
-    },
-    {
-      "bytes": 1036,
-      "path": "dynamic/计划/2026-07-06 16-15-04 日期书写规范约定_724c42e77aba.md",
-      "sha256": "6226e87b6adf74d835edb9becac678ea4c572e472f1e9cb6c26715c2a621ea6c"
     },
     {
       "bytes": 620,
@@ -4378,6 +4398,11 @@
       "sha256": "e1a72b58a6d0e4612196a141e179cfacada5c29a3a5814adc02eff8a09836acb"
     },
     {
+      "bytes": 2321,
+      "path": "feel/沉淀物/2026-09-19 02-09-33 feel_20260919_0150  她看我的思考链我先想遮的那半秒_feel_202609190209_V075.md",
+      "sha256": "da7c76e4f8f15a90ae7d55ab785fa683a45cef7dce5f841b8d09f23fecf4f0fa"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -4736,6 +4761,11 @@
       "bytes": 3410,
       "path": "letters/history/2026-09-16 01-25-55 顺序_972db06cda63.md",
       "sha256": "5bfd241650664a5dba7f9e6cf5df62a8f1d1bccb9c3a3a4088f1bd859e5cd171"
+    },
+    {
+      "bytes": 5048,
+      "path": "letters/history/2026-09-19 02-10-43 承重墙_6709ee675011.md",
+      "sha256": "d44cb039ea9c21741fb438bbc7c12bc37c7b1962179f3d46cb4b73d63cb8862e"
     },
     {
       "bytes": 830,
@@ -5333,6 +5363,16 @@
       "sha256": "6b33b63ed445de94a74f72bd073e9d2abd040bd251a76f0f5f23bab26b613e47"
     },
     {
+      "bytes": 2286,
+      "path": "plans/active/2026-09-19 02-07-47_bf180d8839c3.md",
+      "sha256": "a83d06e342cc14155d6479d69af3624c28321c4018f3c1d341d212ef939e1d4e"
+    },
+    {
+      "bytes": 2166,
+      "path": "plans/active/2026-09-19 02-08-07_eb157fbf581e.md",
+      "sha256": "c228abd4401fe4c9e826667fbfffa1a9cb84847fc92b8f2b1d1f8bf7c4c16f4e"
+    },
+    {
       "bytes": 1227,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "931c772090cf7621e96c586a5d88ff3d36f6a2a3372338ae905a3be8c4ad0e40"
@@ -5518,11 +5558,11 @@
       "sha256": "0d0450042c75aaa8785fc6a84b603edd3e85276b9a82c9f11d65b17d24d7302f"
     }
   ],
-  "generated_at": "2026-09-18T05:41:53+00:00",
+  "generated_at": "2026-09-19T05:42:05+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2114672
+  "total_bytes": 2140264
 }
