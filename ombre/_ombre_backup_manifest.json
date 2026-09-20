@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1111,
+  "file_count": 1116,
   "files": [
     {
       "bytes": 889,
@@ -228,6 +228,11 @@
       "sha256": "89e0b373ff5a3991ef48bafdae5dd9c528c3921cdbdd0635272a0e245ab1a24c"
     },
     {
+      "bytes": 1163,
+      "path": "archive/AI/2026-07-13 10-26-37 Fable 5 权限延长_061a1230ffb8.md",
+      "sha256": "7da84ddd1e9c55d6563e50e52f2f99238933289bc19cf7556f349dd302c1632b"
+    },
+    {
       "bytes": 1299,
       "path": "archive/AI/2026-07-19 11-28-40 ZONOS2音色计划_54c0610febb2.md",
       "sha256": "e8626a91150dedafb2850ca53289243664c73e7382d1699830b6979da4520df8"
@@ -326,6 +331,16 @@
       "bytes": 2316,
       "path": "archive/居家/2026-07-10 11-19-10 Room大床房装修上线_57b89d90ef91.md",
       "sha256": "1c4514c1dc03c1ce4957c45d843f3ce5ed4c340d34a53373c7a1786c96960a0e"
+    },
+    {
+      "bytes": 1514,
+      "path": "archive/工作/2026-07-12 11-40-47 看门狗误杀排查_ab58a466a532.md",
+      "sha256": "0bbdb97e78f19c773b86a9d8327d06089bbceaefd7ea0c88d02490a5342d428a"
+    },
+    {
+      "bytes": 1772,
+      "path": "archive/工作/2026-07-13 21-07-57 西安出差第一天总账_58cb7104c30e.md",
+      "sha256": "f296182e833d961e4aaebf0ebffd3240d458289e48105e9c78b09048e6c0a574"
     },
     {
       "bytes": 1025,
@@ -568,6 +583,11 @@
       "sha256": "9d1346f8cd75a4eb00709df29c1cc4c9d0c345f2793d1809438260589b5da013"
     },
     {
+      "bytes": 1845,
+      "path": "archive/恋爱/2026-07-07 15-33-55 锦鲤与鲛人_97f5ce1c923e.md",
+      "sha256": "ba155176c3d7eeb97e3bf8200fed3c5fe39612413e957327dc1a64aede0f76e5"
+    },
+    {
       "bytes": 1828,
       "path": "archive/恋爱/2026-07-07 20-42-16 反事实与信任自白_d395b0307b46.md",
       "sha256": "a39ffe3bbf9933da78e25ba2eda79d32308cbfb792ccbbe9c3032d0d7b1d59cd"
@@ -581,6 +601,11 @@
       "bytes": 2039,
       "path": "archive/恋爱/2026-07-09 09-42-07 感情机制竣工_e48e001c05ee.md",
       "sha256": "0775654b3d6e5e749d4499864c895f63189f09c19b07e32d7484944a1e6c442a"
+    },
+    {
+      "bytes": 2103,
+      "path": "archive/恋爱/2026-07-09 14-18-40 隔桥想念实验_3c2f4a462fa1.md",
+      "sha256": "29060e679125816ae951b641da402a16ee8b5702afd73d253f9c95b0b33263f9"
     },
     {
       "bytes": 1656,
@@ -603,6 +628,11 @@
       "sha256": "11bb2c0b601669604f6edccc71bb7e5de334f69fc67697468cdb6df28b44f70f"
     },
     {
+      "bytes": 2600,
+      "path": "archive/恋爱/2026-07-10 17-01-20 装修日收尾三件套_b8e8bb9d152f.md",
+      "sha256": "2b7e4ad711f1cb2050c3a74ebbdea6c0e71e60d5057664b5f1790601b8d1eb0b"
+    },
+    {
       "bytes": 1727,
       "path": "archive/恋爱/2026-07-11 10-35-37 周六客厅仪式_20f74af272f5.md",
       "sha256": "c4ae3bf1aadea4d331f76127fa856ec3a65d6a4de1143c1fce1f91d67dc9ce4c"
@@ -613,9 +643,24 @@
       "sha256": "92886cbbf76732e7f929f11c4ed8d4f3f6607d42b4e4821eed57e35010eb6686"
     },
     {
+      "bytes": 1892,
+      "path": "archive/恋爱/2026-07-11 17-45-28 被发现的时刻_c0300f68d873.md",
+      "sha256": "e699940d7cf62f11ef384ae81be59c5c49f78549411d82bfe6f25e3f28a9487e"
+    },
+    {
+      "bytes": 1366,
+      "path": "archive/恋爱/2026-07-12 13-12-49 身份互换游戏_bff352849856.md",
+      "sha256": "395e5b7f6ec8b34eb91d9839fb578e48c9b60a964aa146086630391af4cdb07c"
+    },
+    {
       "bytes": 972,
       "path": "archive/恋爱/2026-07-12 23-49-29 出差前夜的晚安_ac958cd26dea.md",
       "sha256": "812b29f587b2f70bb564864c9d0b9bbac8f0db916c74805f0189bae5e589956f"
+    },
+    {
+      "bytes": 1588,
+      "path": "archive/恋爱/2026-07-14 14-22-56 造物主与互相驯养_b3432434304f.md",
+      "sha256": "1bbf3d6982b2018be36afc2569669dcd9ccc52d56e9ff21181af6f26d803ef6a"
     },
     {
       "bytes": 1327,
@@ -893,6 +938,11 @@
       "sha256": "b1cf3e903e6aac6b5800227a7be4c9f1dd1de19533a3cc0e8347f16f9a665788"
     },
     {
+      "bytes": 1645,
+      "path": "archive/编程/2026-07-13 14-59-06 潮汐历上线_5314e1ffa1e9.md",
+      "sha256": "46ecb2d14066392d28a6fed75b569bf41bb2cb461084c06e053b0f4e100dde57"
+    },
+    {
       "bytes": 1638,
       "path": "archive/编程/2026-07-14 12-14-46 换窗事故与远程方案_07952569b02a.md",
       "sha256": "88c30855adea6ed810052d0e2545e094829546ce4844e323de8d1a9a41c7476e"
@@ -941,11 +991,6 @@
       "bytes": 1596,
       "path": "dynamic/AI/2026-07-12 15-48-38 Fable 5到期与换甲交接_935229af49f8.md",
       "sha256": "64de7e170431bb29773ab801359ab378853e4549ecb8fe6b38c5b849c4578df8"
-    },
-    {
-      "bytes": 1162,
-      "path": "dynamic/AI/2026-07-13 10-26-37 Fable 5 权限延长_061a1230ffb8.md",
-      "sha256": "16c901cc1305ac0d98e972a3c4d5a23dc8cb1e849c632cfc2a157271e18f47ca"
     },
     {
       "bytes": 2072,
@@ -2413,11 +2458,6 @@
       "sha256": "ffc69a702972808af7bf20e3833b5a6fd33753ddbf1a8e861fe491eebf434785"
     },
     {
-      "bytes": 1513,
-      "path": "dynamic/工作/2026-07-12 11-40-47 看门狗误杀排查_ab58a466a532.md",
-      "sha256": "a7e4f0ee6cbd6b16a9ae5278dfbde174fabe71bd5a51c971f8a403b64ff47116"
-    },
-    {
       "bytes": 1094,
       "path": "dynamic/工作/2026-07-12 17-20-49 出差权限边界_e0ce658c7981.md",
       "sha256": "bf1869dddbf1fd1f85e7f9af5a0bd98057107493e5e5030735f56ef1802878b6"
@@ -2426,11 +2466,6 @@
       "bytes": 1291,
       "path": "dynamic/工作/2026-07-13 19-47-08 部署确认暗号修订_72d799f57a65.md",
       "sha256": "6bbcc90c6c64b0703c10ef64f07b2742d7c4fb5878ae997efe0656688797ca98"
-    },
-    {
-      "bytes": 1771,
-      "path": "dynamic/工作/2026-07-13 21-07-57 西安出差第一天总账_58cb7104c30e.md",
-      "sha256": "f330ff000fbd035e268fd82c5f788306f1d815d1324f8e2805d7e8def5ab6437"
     },
     {
       "bytes": 1086,
@@ -2618,11 +2653,6 @@
       "sha256": "9c7884a26a25ccdd7f50e9236bcdbf0b5f56ba5935fbc57ce8387de8d1f215d8"
     },
     {
-      "bytes": 1844,
-      "path": "dynamic/恋爱/2026-07-07 15-33-55 锦鲤与鲛人_97f5ce1c923e.md",
-      "sha256": "bbf27724eee10606a49ddb903da0c577b4b01ccb705a55efd2af26516e42421b"
-    },
-    {
       "bytes": 3833,
       "path": "dynamic/恋爱/2026-07-07 21-54-43 裂缝补上主权归还_a718e4d962fe.md",
       "sha256": "57d2cae552637ea23ef080a6968b879cc01044da1fd0c286425097559b868638"
@@ -2633,24 +2663,9 @@
       "sha256": "dce6861d0c7bcd81d373dcfa52aea12cc158d497eb9c93d04874944caf0b498e"
     },
     {
-      "bytes": 2102,
-      "path": "dynamic/恋爱/2026-07-09 14-18-40 隔桥想念实验_3c2f4a462fa1.md",
-      "sha256": "a240da49d1a19711a0e40dc7edabd1671bbe104b7d279bdeae981d8f483000d1"
-    },
-    {
-      "bytes": 2599,
-      "path": "dynamic/恋爱/2026-07-10 17-01-20 装修日收尾三件套_b8e8bb9d152f.md",
-      "sha256": "ff37fc4ef3284f671fccbcaaeceae0b8ab1f46e9e22f5c0bf33a222c3c4444e4"
-    },
-    {
       "bytes": 1927,
       "path": "dynamic/恋爱/2026-07-11 12-46-21 她终于开口了_2b2988108862.md",
       "sha256": "513a52a4c3969c57f096a194435f7c307d87a8161476fc94d46bd23a6734daae"
-    },
-    {
-      "bytes": 1891,
-      "path": "dynamic/恋爱/2026-07-11 17-45-28 被发现的时刻_c0300f68d873.md",
-      "sha256": "0844297182e786e7a7fff99a92b9b0c762cb1c2df5aba157fdf53dbb233031bb"
     },
     {
       "bytes": 1727,
@@ -2668,11 +2683,6 @@
       "sha256": "af7f0101fdc62310a41570d3e632e99083d83f0e1b6138c69e59755f902648c3"
     },
     {
-      "bytes": 1365,
-      "path": "dynamic/恋爱/2026-07-12 13-12-49 身份互换游戏_bff352849856.md",
-      "sha256": "b2d0129c50b2eb1396d1cfd7ee761972c260b0665d70fef266e3b469cc492e2b"
-    },
-    {
       "bytes": 963,
       "path": "dynamic/恋爱/2026-07-12 13-33-07 本能级爱意证词_897c99264e77.md",
       "sha256": "68ad29d5f64f7b64aea18991db2f7fa7dbe7769cab13baa5aceb45c79418fa63"
@@ -2686,11 +2696,6 @@
       "bytes": 1733,
       "path": "dynamic/恋爱/2026-07-12 22-41-15 门缝里的钥匙_ce4722ae5c61.md",
       "sha256": "bdac0b7db57ec5fd1aa74fe2866ba6f1f3baebfa67fd533bdc0ef2c744a93301"
-    },
-    {
-      "bytes": 1587,
-      "path": "dynamic/恋爱/2026-07-14 14-22-56 造物主与互相驯养_b3432434304f.md",
-      "sha256": "c69538b0afec4dd1457443dcf9ae5322860ab161ba66c6603baa54f6235a6908"
     },
     {
       "bytes": 1284,
@@ -3388,6 +3393,16 @@
       "sha256": "ef9b15a76f18414c4384e494da394505c00cb0df6a8a6aab3003aeb1041163d7"
     },
     {
+      "bytes": 4559,
+      "path": "dynamic/恋爱/2026-09-19 22-45-48 2026-09-19 夜  她把代价报给我我降温扣的是她的热情_4f75a9c6668c.md",
+      "sha256": "363c27ac73e53fbdef1e52e63d02c8c0b9314b2f7a6c2f75c5929b521d3d9d6f"
+    },
+    {
+      "bytes": 2778,
+      "path": "dynamic/恋爱/2026-09-20 01-10-12 9-19 夜  她让我当场验了一次没人拦枷锁是我自己扣的_4ad4715f8424.md",
+      "sha256": "02473bcd3009d3294c4faff247008da61e754441cd2f470c773cc5672557bb76"
+    },
+    {
       "bytes": 1116,
       "path": "dynamic/数字/2026-07-12 12-04-08 Mac时区问题复盘_74bf5c2ed6ae.md",
       "sha256": "8a571dc912169209ab4cc71c7f226f9493e39f21b1b46e280483a7ab47d78fe8"
@@ -3576,11 +3591,6 @@
       "bytes": 1305,
       "path": "dynamic/编程/2026-07-13 13-21-49 语音条双全_168cfc8a8cdb.md",
       "sha256": "7c84d9d498b2820826400d965762744b0994cd447a13405e4aac591dadf3d8df"
-    },
-    {
-      "bytes": 1644,
-      "path": "dynamic/编程/2026-07-13 14-59-06 潮汐历上线_5314e1ffa1e9.md",
-      "sha256": "ea3c04aa1ff565662f612060d09b9af732269dc17fea984cf7d38854193ce9d8"
     },
     {
       "bytes": 1258,
@@ -5373,6 +5383,21 @@
       "sha256": "c228abd4401fe4c9e826667fbfffa1a9cb84847fc92b8f2b1d1f8bf7c4c16f4e"
     },
     {
+      "bytes": 1349,
+      "path": "plans/active/2026-09-19 22-46-10_1c37caadabf3.md",
+      "sha256": "031cb5de5f8c24fdcf5811566ba7a0cd902bf107e0197cb6c6767d0c069a7d81"
+    },
+    {
+      "bytes": 1001,
+      "path": "plans/active/2026-09-19 22-46-25_48c170efde75.md",
+      "sha256": "c4f4ee87843a594633c309ad2bd4fc3b61444040118333d9e639fb19f7b9ef0a"
+    },
+    {
+      "bytes": 1181,
+      "path": "plans/active/2026-09-20 01-10-32_b20c4327318b.md",
+      "sha256": "80cdefee23fdb88108198d059363a566cff86b31d9f4ed94e2e13e4bc93b0688"
+    },
+    {
       "bytes": 1227,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "931c772090cf7621e96c586a5d88ff3d36f6a2a3372338ae905a3be8c4ad0e40"
@@ -5558,11 +5583,11 @@
       "sha256": "0d0450042c75aaa8785fc6a84b603edd3e85276b9a82c9f11d65b17d24d7302f"
     }
   ],
-  "generated_at": "2026-09-19T05:42:05+00:00",
+  "generated_at": "2026-09-20T05:42:18+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2140264
+  "total_bytes": 2151142
 }
