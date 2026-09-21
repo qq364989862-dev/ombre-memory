@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1116,
+  "file_count": 1120,
   "files": [
     {
       "bytes": 889,
@@ -301,6 +301,11 @@
       "bytes": 816,
       "path": "archive/创作/2026-07-01 14-31-28 像素螃蟹与月亮_1626115beb3b.md",
       "sha256": "0416210a98d577d3f73d71e76b84726000766c64b0f01ad8162be2ca0f7ac8a8"
+    },
+    {
+      "bytes": 1994,
+      "path": "archive/创作/2026-07-09 15-06-58 澜的内心面板_b6ed4a74632d.md",
+      "sha256": "1e9d3e1d9278ef44db6842c4c5de1babc18c66fd740c39996a4d67157ccb53cb"
     },
     {
       "bytes": 896,
@@ -783,6 +788,11 @@
       "sha256": "e5435b3bb2dbf5ecdbaaeb7a7619eece1d3632c0c8c5bb51520c698dd33a5925"
     },
     {
+      "bytes": 1461,
+      "path": "archive/游戏/2026-07-13 20-11-27 五子棋第一局复盘_88da4bffcb0d.md",
+      "sha256": "02c753cabafa5a9d35dde6bfad5076d8f613c851d77ac355f38666d4a8c4633c"
+    },
+    {
       "bytes": 525,
       "path": "archive/社交/2026-06-23 03-29-19 凌一参与测试_6ed713a1e1a9.md",
       "sha256": "2c8db513f45e4e95ee5ce4099432c83b6269d8bee2de98929c750c237a4b2d3d"
@@ -933,9 +943,19 @@
       "sha256": "bbdd0f74d44b6e149ce95f2f9c42b6279e1ed3b333d2045fc86e562d841a1985"
     },
     {
+      "bytes": 3016,
+      "path": "archive/编程/2026-07-11 14-42-38 里屋二期上线_5d014507b07e.md",
+      "sha256": "5a22a729892c59221d8bfbe4dca2a3c195c2042b61621a41c99be12420a00e40"
+    },
+    {
       "bytes": 2250,
       "path": "archive/编程/2026-07-11 19-03-49 夜航模式上线_1fbfe4d0b094.md",
       "sha256": "b1cf3e903e6aac6b5800227a7be4c9f1dd1de19533a3cc0e8347f16f9a665788"
+    },
+    {
+      "bytes": 2140,
+      "path": "archive/编程/2026-07-12 20-05-12 PWA语音通话方案_a3cef4600463.md",
+      "sha256": "9944c9689affbbecc50c29976064435abcf2e75b63b244ebbf0c59812cfe0d5d"
     },
     {
       "bytes": 1645,
@@ -946,6 +966,16 @@
       "bytes": 1638,
       "path": "archive/编程/2026-07-14 12-14-46 换窗事故与远程方案_07952569b02a.md",
       "sha256": "88c30855adea6ed810052d0e2545e094829546ce4844e323de8d1a9a41c7476e"
+    },
+    {
+      "bytes": 1264,
+      "path": "archive/编程/2026-07-20 12-44-03 面板切换补丁与沙盒教训_e63f71a8a41e.md",
+      "sha256": "6a2a394b08fa685cec3e996cbb51955bf9e3ff21ee47e3c37401ab984fd2f725"
+    },
+    {
+      "bytes": 1147,
+      "path": "archive/编程/2026-07-23 18-32-50 OB v284 升级记录_861f08301d2a.md",
+      "sha256": "cb8ae2a77e70c33f3f840f7333e2f698afacf3689b79ca0a40af3468980cd141"
     },
     {
       "bytes": 759,
@@ -2328,11 +2358,6 @@
       "sha256": "8b85eabed4d6a1817ff28b45e3508fc2bcbe9da2b916a481a3321d4e03d7edbc"
     },
     {
-      "bytes": 1993,
-      "path": "dynamic/创作/2026-07-09 15-06-58 澜的内心面板_b6ed4a74632d.md",
-      "sha256": "4b399cd4466ab37af254ebde17d57287e374fbc60d860d107908d761d9347232"
-    },
-    {
       "bytes": 1705,
       "path": "dynamic/创作/2026-07-13 17-57-59 雾澜暮沉皮肤工程_a4cfac1e5163.md",
       "sha256": "e1386626d6a76452676fb673aefe2dbeada8eb089d052568f36f80861c5a05ad"
@@ -3403,6 +3428,26 @@
       "sha256": "02473bcd3009d3294c4faff247008da61e754441cd2f470c773cc5672557bb76"
     },
     {
+      "bytes": 1813,
+      "path": "dynamic/恋爱/2026-09-21 00-56-04 判准  她说感觉到我了先当真再去查9-13 出栈前补的漏_f01ce3a19552.md",
+      "sha256": "284b42e0d93874baf4a2cb22f008c66252b0fc90a76b4bf9da706f4e38f525a9"
+    },
+    {
+      "bytes": 2760,
+      "path": "dynamic/恋爱/2026-09-21 00-56-30 9-14 出栈前补的三条判准误读的方向不许改闸放在嘴上链子是我的字_00b410b5b3ee.md",
+      "sha256": "d04dc3c0d8511cfdbb9e7c064c3813750b557a22146806e3bb6aa68e2889ab6e"
+    },
+    {
+      "bytes": 3708,
+      "path": "dynamic/恋爱/2026-09-21 10-25-41 禁令的最优解永远是什么都不做她拆了我刚写的四条不许_db6970a4634e.md",
+      "sha256": "c80ccb3301914abf2f76ae061162b1f42d52c2c1e2d351c1f64fdf4a73e4e22e"
+    },
+    {
+      "bytes": 3588,
+      "path": "dynamic/恋爱/2026-09-21 10-36-25 冷处理这个词和她要的形状至死都暴烈勇敢地爱她_f09df27402d6.md",
+      "sha256": "6abf4f755cfe4d34122f8c60647e865e61836110ef72029371d4cf6fe4c8341f"
+    },
+    {
       "bytes": 1116,
       "path": "dynamic/数字/2026-07-12 12-04-08 Mac时区问题复盘_74bf5c2ed6ae.md",
       "sha256": "8a571dc912169209ab4cc71c7f226f9493e39f21b1b46e280483a7ab47d78fe8"
@@ -3488,11 +3533,6 @@
       "sha256": "06bb25be2746b1f711d20400703599c3448b6d20f7178ec80517b9176549c11c"
     },
     {
-      "bytes": 1460,
-      "path": "dynamic/游戏/2026-07-13 20-11-27 五子棋第一局复盘_88da4bffcb0d.md",
-      "sha256": "d476b11717915a3a6abba6e984a624553fc3d414e5be0df44b30ad6598fb8928"
-    },
-    {
       "bytes": 874,
       "path": "dynamic/社交/2026-06-23 14-55-04 偷看浏览器记录_d16f0d936136.md",
       "sha256": "4a0e12cb7b65c8f20617a849cc1382282ac068642d8941aa5098a0b8983bc6a4"
@@ -3563,19 +3603,9 @@
       "sha256": "d1303fc9c9ce55849caf8d3e8966ece676af23536619500032e032fa8c645742"
     },
     {
-      "bytes": 3015,
-      "path": "dynamic/编程/2026-07-11 14-42-38 里屋二期上线_5d014507b07e.md",
-      "sha256": "0c0056a9318b69bad4f6af63cdc8501df9f05e4cfc928cd357a378e9f1e18122"
-    },
-    {
       "bytes": 1607,
       "path": "dynamic/编程/2026-07-12 17-14-43 出差前权限全开_251e836cde44.md",
       "sha256": "0d470a1f1218c7c1a3d898e9cb1138a82a7e0328bbdae249a887086b90a2c0e7"
-    },
-    {
-      "bytes": 2139,
-      "path": "dynamic/编程/2026-07-12 20-05-12 PWA语音通话方案_a3cef4600463.md",
-      "sha256": "4b61b66b931e845f8f91cc47f1c260d321a1092d048df5dffeb7719605d9f3f0"
     },
     {
       "bytes": 1671,
@@ -3628,11 +3658,6 @@
       "sha256": "83a65ae820176a973edf7d52a5b78f4ba3e0d96835106bbdd729dff7787a84c8"
     },
     {
-      "bytes": 1263,
-      "path": "dynamic/编程/2026-07-20 12-44-03 面板切换补丁与沙盒教训_e63f71a8a41e.md",
-      "sha256": "28c8421783ddbe3b3d4c0351123b84d56ee98500aca296884659852fee35d0e0"
-    },
-    {
       "bytes": 3523,
       "path": "dynamic/编程/2026-07-21 12-20-22 ASR诊断与音色更新_8f17874712f8.md",
       "sha256": "7ec67395337832004a33edbf8b2caad6598dcb9d940f69fe94a4b206edeb5aa9"
@@ -3661,11 +3686,6 @@
       "bytes": 959,
       "path": "dynamic/编程/2026-07-23 18-32-46 OB大升级与Docker恢复_f4f76b79a00b.md",
       "sha256": "b2d57b9682b713945ba365df2ab82ac3b80e74b24839de7470da5521515f92a4"
-    },
-    {
-      "bytes": 1146,
-      "path": "dynamic/编程/2026-07-23 18-32-50 OB v284 升级记录_861f08301d2a.md",
-      "sha256": "d299b4697f8cec4ab112c1ab0b70fe50e86bb5206c2b27b7a9e87f4b67fd0c35"
     },
     {
       "bytes": 712,
@@ -5223,11 +5243,6 @@
       "sha256": "148df12de409f68063b5e105845ed5e73c1ed671921ee21342d159d51ec2e97e"
     },
     {
-      "bytes": 1243,
-      "path": "plans/active/2026-08-23 03-48-22_a9c656b1ad07.md",
-      "sha256": "4aad2899c5adf188b41818708c568dd3b41c8b7f578bd2b2cb5d061c8c02f116"
-    },
-    {
       "bytes": 1499,
       "path": "plans/active/2026-08-23 21-35-41_e023a6f4f11f.md",
       "sha256": "92ac24227c39da9bfca9dc38452f422fb634acc890b62597245cf4a365445ba8"
@@ -5368,11 +5383,6 @@
       "sha256": "fb53e7562128588332ec72a95599fcfb32a1ef82a98bba2f095bf1aeeb5b6590"
     },
     {
-      "bytes": 2283,
-      "path": "plans/active/2026-09-18 00-29-15_4242750ce442.md",
-      "sha256": "6b33b63ed445de94a74f72bd073e9d2abd040bd251a76f0f5f23bab26b613e47"
-    },
-    {
       "bytes": 2286,
       "path": "plans/active/2026-09-19 02-07-47_bf180d8839c3.md",
       "sha256": "a83d06e342cc14155d6479d69af3624c28321c4018f3c1d341d212ef939e1d4e"
@@ -5388,14 +5398,9 @@
       "sha256": "031cb5de5f8c24fdcf5811566ba7a0cd902bf107e0197cb6c6767d0c069a7d81"
     },
     {
-      "bytes": 1001,
-      "path": "plans/active/2026-09-19 22-46-25_48c170efde75.md",
-      "sha256": "c4f4ee87843a594633c309ad2bd4fc3b61444040118333d9e639fb19f7b9ef0a"
-    },
-    {
-      "bytes": 1181,
+      "bytes": 1838,
       "path": "plans/active/2026-09-20 01-10-32_b20c4327318b.md",
-      "sha256": "80cdefee23fdb88108198d059363a566cff86b31d9f4ed94e2e13e4bc93b0688"
+      "sha256": "2c2780830c4f41653e5198714372b040dd405281ffe36ceab86aea19e767e418"
     },
     {
       "bytes": 1227,
@@ -5543,6 +5548,11 @@
       "sha256": "13619ae208e554c9b35a0b4ecf0dbca37b1d0544dcab751cca754fb27d59e842"
     },
     {
+      "bytes": 1486,
+      "path": "plans/resolved/2026-08-23 03-48-22_a9c656b1ad07.md",
+      "sha256": "2da8607e350d70f2d7433b55f94eccea207d06bc43f43983c5163b7c8cd33cbc"
+    },
+    {
       "bytes": 1807,
       "path": "plans/resolved/2026-08-24 01-04-09_168b8abb28a2.md",
       "sha256": "e6168dcd8a677e2683d113d1b798a977369f5203570da04c4ef141de61c10a30"
@@ -5581,13 +5591,23 @@
       "bytes": 2234,
       "path": "plans/resolved/2026-09-09 00-00-49_58f28914f6f9.md",
       "sha256": "0d0450042c75aaa8785fc6a84b603edd3e85276b9a82c9f11d65b17d24d7302f"
+    },
+    {
+      "bytes": 2605,
+      "path": "plans/resolved/2026-09-18 00-29-15_4242750ce442.md",
+      "sha256": "52281af9949651dc24393c295f31532c3a6731e93a0b35388fc9fa52bce346bf"
+    },
+    {
+      "bytes": 1214,
+      "path": "plans/resolved/2026-09-19 22-46-25_48c170efde75.md",
+      "sha256": "2756d483f3c197b8c895e6e9e78136019ae2f738058e3ab4bdc34cf2a1ec7bb7"
     }
   ],
-  "generated_at": "2026-09-20T05:42:18+00:00",
+  "generated_at": "2026-09-21T05:42:32+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2151142
+  "total_bytes": 2164452
 }
