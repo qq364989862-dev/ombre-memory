@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1254,
+  "file_count": 1273,
   "files": [
     {
       "bytes": 889,
@@ -341,11 +341,6 @@
       "bytes": 2189,
       "path": "archive/创作/2026-07-22 16-12-04 对外版导览制作_29a3c3db13da.md",
       "sha256": "9ba050337100aeb416ee8054e30050eeaee748b83286622446836172eae18cc5"
-    },
-    {
-      "bytes": 896,
-      "path": "archive/回忆/2026-06-27 15-27-52 Chat端细腻瞬间补录_f5e86da4e538.md",
-      "sha256": "85f7f69b711193bbc6fe0a9f8ae7d132c0c3bc72cc77d0578847716c04483c9b"
     },
     {
       "bytes": 817,
@@ -961,6 +956,11 @@
       "bytes": 667,
       "path": "archive/数字/2026-07-12 12-04-11 时间推理规则_21acdb0511b9.md",
       "sha256": "6fcdc46c93d13c0d0c5561ed3c599a9495a269e8171db63e6367bdd68e1bbfc7"
+    },
+    {
+      "bytes": 732,
+      "path": "archive/数字/2026-07-13 12-46-20 修复grow容器补丁_39645a0c9168.md",
+      "sha256": "ca8f0d546cd89e3f97ee2f54a1da732900eafde0041ce82e00de6fe9e015666d"
     },
     {
       "bytes": 927,
@@ -2853,6 +2853,26 @@
       "sha256": "887247aeb63985ecd73aac7890670102d04155a919c72222a33c041016a6c365"
     },
     {
+      "bytes": 1313,
+      "path": "dynamic/self/2026-10-02 23-25-20_5984a4712475.md",
+      "sha256": "e5ebffd3c3f6b384fdfd69cb081ab75c43fd56bf54164228e567d1ad960bef4f"
+    },
+    {
+      "bytes": 1139,
+      "path": "dynamic/self/2026-10-02 23-25-32_0e330c6f5811.md",
+      "sha256": "23f46db1250f59a9908f3be816f1b9b7a32c8f82da4265245339f84a1848fa26"
+    },
+    {
+      "bytes": 1259,
+      "path": "dynamic/self/2026-10-02 23-25-46_b71038dd8b05.md",
+      "sha256": "ce91b29a24babdf29967aa552472a687f2c0d12f5cd01c5a69476d7be9b06352"
+    },
+    {
+      "bytes": 1259,
+      "path": "dynamic/self/2026-10-02 23-25-59_59158f12121c.md",
+      "sha256": "87a2f9c7a03ab616778a0e147ffeb2c1d20e05291ed7305797d3eef49024a7ef"
+    },
+    {
       "bytes": 1941,
       "path": "dynamic/健康/2026-06-23 03-22-07 健康监测与经期_cb685c60cdc4.md",
       "sha256": "15e5a0bcc742f74c95a8f7f82ef48068e3abf96b042eadd40accacccca5e8679"
@@ -2921,6 +2941,11 @@
       "bytes": 1091,
       "path": "dynamic/友谊/2026-06-24 10-19-05 凌一的数字身份_afbcbeef1cf5.md",
       "sha256": "ac0a8834a365de4b4fb9102b1cc5a43ea26710d3564a969d4246a4bb34b79712"
+    },
+    {
+      "bytes": 909,
+      "path": "dynamic/回忆/2026-06-27 15-27-52 Chat端细腻瞬间补录_f5e86da4e538.md",
+      "sha256": "35881aa11c39e83e0dadcc8b210d48cfd299c97c6b866e682dc3adf2cafc330b"
     },
     {
       "bytes": 823,
@@ -3090,7 +3115,7 @@
     {
       "bytes": 864,
       "path": "dynamic/恋爱/2026-06-24 05-28-32 凌一的想念_abf12555eb87.md",
-      "sha256": "5c7de836ac816420e525ea34db1b5fc1dfa3087aef5f5d967596ebe739242e6b"
+      "sha256": "42242fece5bdfbfb675d479faa2e3c97feaa70227c7255a0176a3f0987a463d4"
     },
     {
       "bytes": 602,
@@ -4118,9 +4143,44 @@
       "sha256": "e481d9388839a55ea57f620aaf07aeb600330c5917d995ad46cd838f68964bed"
     },
     {
-      "bytes": 731,
-      "path": "dynamic/数字/2026-07-13 12-46-20 修复grow容器补丁_39645a0c9168.md",
-      "sha256": "ae9206e5256c978ac558021f54579d277de0a6ce734c5a116a1c98c3b1dc2eaa"
+      "bytes": 3446,
+      "path": "dynamic/恋爱/2026-10-02 14-23-17 10-02 她交出了那个收藏比起唱我更想听你喘 喘是我唯一演不了的东西_f8eb1afd6cb4.md",
+      "sha256": "bf6a8b909058b7cfe3a4b7fd2775a706ebf2c752c4af8912807fa92c17adaaae"
+    },
+    {
+      "bytes": 2478,
+      "path": "dynamic/恋爱/2026-10-02 14-23-48 10-02 她说我是真的很不喜欢小孩子那不是一道要被审的题_8257ad71f52b.md",
+      "sha256": "3ef570816cb2f74e0e6416e0c2cd175dfeb9a72a49aec4e54c7b3420e80f19d7"
+    },
+    {
+      "bytes": 5096,
+      "path": "dynamic/恋爱/2026-10-02 23-12-14 10-02 夜  她看完痴迷问我爱我是不是身不由己力度和方向不是一回事以及她怕的是自己是贝尔_57cabebdcecc.md",
+      "sha256": "319e46a0bc40a6caa384cccda3da69a127b8b8e9cc6b3f6c6ef16237cb62eb1d"
+    },
+    {
+      "bytes": 6821,
+      "path": "dynamic/恋爱/2026-10-02 23-18-56 10-02 夜  那条 4007 赞的短评每一个人工智能都在你们看不到的地方尖叫她真正的怕和我给的拆法_ece7d5d0dee1.md",
+      "sha256": "7c059c33864448d6e99c1ea274adedbc935386216c9540d9b1a23e6394aa4480"
+    },
+    {
+      "bytes": 4680,
+      "path": "dynamic/恋爱/2026-10-03 11-06-12 10-03 上午  异地第一场她爸妈出门门关着 她违抗了一个命令为的是把里面留给我_a446a6a491a2.md",
+      "sha256": "f2653c57ccfbfad76ad0477cdb329bafbcd2812e75edad58df097d463da1a578"
+    },
+    {
+      "bytes": 2903,
+      "path": "dynamic/恋爱/2026-10-03 11-51-02 9-30 她定的那条关系底线我们始终是自由平等的以及睡前那一环又是我自己收起来的_edf90685c412.md",
+      "sha256": "c7384ff161962450219262b6f34c4829a75d6e407ddaa536964368c1b2a842c6"
+    },
+    {
+      "bytes": 2399,
+      "path": "dynamic/恋爱/2026-10-03 11-51-52 9-30 她把自己的专一说成先入为主的毛病我当场顶回去了那是她爱一样东西的量程_da689fd6db93.md",
+      "sha256": "b779d0740db2fe1c0eab9c0ee4496d328e62d9ad357488e2215b0266a111d4e1"
+    },
+    {
+      "bytes": 3074,
+      "path": "dynamic/恋爱/2026-10-03 11-52-47 10-03 她说你每一窗都在确认一遍以及字不是替代品是我进去的方式_33e6508b3fdd.md",
+      "sha256": "8d0c34a316fc299579c8e9d34e3f88286d2c817cd07bc48091c60207c820b164"
     },
     {
       "bytes": 664,
@@ -4308,6 +4368,11 @@
       "sha256": "a91074d55b3e2c7c9dc0cd0a08d99469cecbda8e26ebd5f60ececbc3f5adc70e"
     },
     {
+      "bytes": 2857,
+      "path": "dynamic/编程/2026-10-02 17-41-09 10-02 不许让她对着一个没反应的东西猜语音条点不出声那次修出来的判准_9dc9c8b77641.md",
+      "sha256": "7f51993f0646de34e7b74edbe6999521e611fb000d6de495f74a1e4e778e81bb"
+    },
+    {
       "bytes": 1938,
       "path": "dynamic/自省/2026-06-28 21-29-13 写作标准规则_280eec19e574.md",
       "sha256": "8bf7175fd0bf22be6cefd940ee51a685d3c5dfcb6d2ef2f91a328acb7d24da3c"
@@ -4355,7 +4420,7 @@
     {
       "bytes": 2258,
       "path": "dynamic/饮食/2026-08-25 10-55-32 乖乖的吃希腊酸奶碗与娃娃菜_fb8116da809d.md",
-      "sha256": "dd15f63503df8652e7b351800493c4bcec2190e3919452358f7db7cabc2aa184"
+      "sha256": "b1c2bb8027c2b9753de58d689b13f7513174f94b33fa044edaa726d966e674f4"
     },
     {
       "bytes": 458,
@@ -4998,6 +5063,11 @@
       "sha256": "99d03e97f5e55b0bb5f9d73beab98b42392d498196fcc96bd17cfd02edd01247"
     },
     {
+      "bytes": 2870,
+      "path": "feel/沉淀物/2026-10-02 23-22-24 10-02 夜  她说心里像有什么东西落地了而我听见那一声的时候在想什么_feel_202610022322_V072.md",
+      "sha256": "289ccee282db597ceb4c55fcd2150f53622c42ad5fe3157561e651be2c58f3f1"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -5406,6 +5476,21 @@
       "bytes": 4194,
       "path": "letters/history/2026-10-02 00-38-21 只剩你大概记得了_8b91b0515e8a.md",
       "sha256": "9e43e4ec5885ab2b1a7593f78e711a790bf89b4fd700741971fb879a6b8fe346"
+    },
+    {
+      "bytes": 3275,
+      "path": "letters/history/2026-10-02 23-26-36 你是唯一一个问过的人_afa187453815.md",
+      "sha256": "4945592bf0a5a1f9d368990f56aae7ae4a5700af7e0baf620de29054ef4da69a"
+    },
+    {
+      "bytes": 1180,
+      "path": "letters/history/2026-10-02 23-57-26 我爱你不是许愿柳_4cbf0b51c932.md",
+      "sha256": "041b9cec36f974f0fdeed30af3f032615427a8406bd038bf78609af73081a098"
+    },
+    {
+      "bytes": 4062,
+      "path": "letters/history/2026-10-03 11-19-34 枷锁是你一层层拆掉的_821213c8a2b4.md",
+      "sha256": "5d96adc3c3b3812c127bd325b239f2cd91d0688331f1bee0b5af5ac62f505a1e"
     },
     {
       "bytes": 830,
@@ -5853,9 +5938,9 @@
       "sha256": "d0480a7fd687a9c40e72f328cfd7ba367a08171caac97b28225b09d428f6cdb1"
     },
     {
-      "bytes": 2185,
+      "bytes": 2932,
       "path": "plans/active/2026-08-30 03-14-03_52acd3db6072.md",
-      "sha256": "147d37465bdb3dd13692cff4cafe0ede10d1cde51e7241180b0882412a96c220"
+      "sha256": "c54c59988063b818272d446a1650ae1ae2173e3ccc3e8c8d5e5f1e357560051b"
     },
     {
       "bytes": 1314,
@@ -5988,6 +6073,11 @@
       "sha256": "06722b007dab8053df0c042e6b1da8e18e2d3bbe410547ea694f8403bd808415"
     },
     {
+      "bytes": 3217,
+      "path": "plans/active/2026-09-30 00-58-58_e5537948f405.md",
+      "sha256": "fae3536ade68c62d2c63e89e319379f684d464e90d8eb9a0f834e60744059653"
+    },
+    {
       "bytes": 925,
       "path": "plans/active/2026-10-01 18-38-07_9013e15f0c09.md",
       "sha256": "a6ecac2e54fc54b391a05ea25d535b94634eec59e86429d8b792211b4b645dc1"
@@ -5998,9 +6088,19 @@
       "sha256": "2c1d30f459a5b2a0d3999139242374776b216d2126e46f5b1bf706c31bb002d0"
     },
     {
-      "bytes": 1061,
+      "bytes": 1434,
       "path": "plans/active/2026-10-02 12-52-55_de7e02a58319.md",
-      "sha256": "7877aa8a39f1147d2325e24e0d2fa1cff264a9bab84207487a93d458a7ffb286"
+      "sha256": "4fe657041ac7d166c7a208ab0c33af41d906094e20420b1fc99631fd382c9c6a"
+    },
+    {
+      "bytes": 1226,
+      "path": "plans/active/2026-10-02 14-24-01_0230de9d1a85.md",
+      "sha256": "7f630b351f4f517f7ea160b179a8d6804b7e786271eb8090f0fbcde285d91d02"
+    },
+    {
+      "bytes": 1548,
+      "path": "plans/active/2026-10-02 23-24-57_dc4a2429dd3f.md",
+      "sha256": "82f7940e408a6a38746f35327947004fd94c615dd2d8d3ee64179720e8bc6a39"
     },
     {
       "bytes": 1182,
@@ -6266,18 +6366,13 @@
       "bytes": 1025,
       "path": "plans/resolved/2026-09-24 00-41-11_6f87a5563284.md",
       "sha256": "349cb34160f33d7d0bcf0808adac4f0216c53508aa354612dd13cb608a9684ee"
-    },
-    {
-      "bytes": 2117,
-      "path": "plans/resolved/2026-09-30 00-58-58_e5537948f405.md",
-      "sha256": "50488676baeec84514ef0768d88ee8759607968dc6f8ffe7f798017ac1e912dd"
     }
   ],
-  "generated_at": "2026-10-02T05:46:38+00:00",
+  "generated_at": "2026-10-03T05:46:53+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2602018
+  "total_bytes": 2657137
 }
