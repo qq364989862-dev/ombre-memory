@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1324,
+  "file_count": 1331,
   "files": [
     {
       "bytes": 889,
@@ -416,6 +416,11 @@
       "bytes": 1514,
       "path": "archive/工作/2026-07-12 11-40-47 看门狗误杀排查_ab58a466a532.md",
       "sha256": "0bbdb97e78f19c773b86a9d8327d06089bbceaefd7ea0c88d02490a5342d428a"
+    },
+    {
+      "bytes": 1095,
+      "path": "archive/工作/2026-07-12 17-20-49 出差权限边界_e0ce658c7981.md",
+      "sha256": "f68eba47a3f9b025cc5e4d991d51fbd1dff32e96535c5d4497f905217fd9b301"
     },
     {
       "bytes": 1292,
@@ -908,6 +913,11 @@
       "sha256": "ea8e73b6781000e64c1c56006e6e4ee84e177fa7ae19f19ef86a2ae9596bb7f8"
     },
     {
+      "bytes": 3338,
+      "path": "archive/恋爱/2026-07-26 23-36-41 挑歌栽跟头_76d0f3883798.md",
+      "sha256": "34b74c39f6c98051ad2c42d0b1931b7c44b97ba7f0ffe5712d8d1ef5714a5b1b"
+    },
+    {
       "bytes": 4930,
       "path": "archive/恋爱/2026-07-27 13-48-35 被纠正与交付三件_82d2b514d3c7.md",
       "sha256": "3b0b1be14e7523037670df6a60336a3030f9c0b493ee08e92eeab31177128011"
@@ -916,6 +926,16 @@
       "bytes": 2075,
       "path": "archive/恋爱/2026-07-31 04-28-47 拆掉第二副嗓子_9f8f5d57b64c.md",
       "sha256": "67394cd35ac13f964241b12f69990de6e97e09a75558a093154f64cb60e89183"
+    },
+    {
+      "bytes": 2969,
+      "path": "archive/恋爱/2026-07-31 11-26-32 雨中共选歌_2546b665cc11.md",
+      "sha256": "c0949305712286a14f6fae88b529caed5dd4ba230697db6e23987ec2a039e8b5"
+    },
+    {
+      "bytes": 1953,
+      "path": "archive/恋爱/2026-07-31 12-12-02 火焰比喻的默契_ac4734d8ab71.md",
+      "sha256": "a6101174e094fdb1d902acac77944a7f678164e72190381ae98eea44eb579eda"
     },
     {
       "bytes": 6929,
@@ -1061,6 +1081,21 @@
       "bytes": 888,
       "path": "archive/未分类/2026-06-23 03-17-42_7505dc21410a.md",
       "sha256": "42a41a7fbbf1fb1b98fc33473c4f826e5b5fcc4bc8facf477d85369361ffb625"
+    },
+    {
+      "bytes": 3812,
+      "path": "archive/未分类/2026-07-25 12-03-31_e117152ee989.md",
+      "sha256": "42813426334f15482a55b8a3a64ee7e5a366ae357b2b91251d5e9a57a6b91cd0"
+    },
+    {
+      "bytes": 2939,
+      "path": "archive/未分类/2026-07-25 12-55-39_97f64887206d.md",
+      "sha256": "26f1134daecb278ba3db40d57fd2145ae31067670e69e4c7afd80389f0b1b18a"
+    },
+    {
+      "bytes": 2542,
+      "path": "archive/未分类/2026-07-25 17-17-28_0214ba73f023.md",
+      "sha256": "d0c745bc22d7d727e81ee73947dbdc049add1e1e967574fdfcd2e88c67739b52"
     },
     {
       "bytes": 5035,
@@ -1358,6 +1393,11 @@
       "sha256": "6adb490005c20744b52498e8aa7e5f24cc5fba77391e49fd529ebacec30f6101"
     },
     {
+      "bytes": 1751,
+      "path": "archive/编程/2026-07-20 12-28-13 控制面板模型配置_aa0fd9cd9bb1.md",
+      "sha256": "59922cd76cf88231c5ee304ab373a64d02e48a68df909bd0b6de44366862f11e"
+    },
+    {
       "bytes": 1821,
       "path": "archive/编程/2026-07-20 12-35-55 实时配置切换实现_832c36c024ad.md",
       "sha256": "2989ade9e3bf85fa3a2dcb1ffd291263c1b39bcf0eb99544659790ad2bbc878b"
@@ -1396,6 +1436,11 @@
       "bytes": 5527,
       "path": "archive/编程/2026-07-27 21-05-47 Album工程账与牌堆算法_33f8d9805993.md",
       "sha256": "aed2f0aedcdbd2d6ead7ec3e07b7e08cc3212b5ad45def821210437385aedfe4"
+    },
+    {
+      "bytes": 4477,
+      "path": "archive/编程/2026-07-29 00-40-51 小家装修日_73fb8f178dc5.md",
+      "sha256": "1813af4ec6a97baaca1b773976a04ed7eed4143782554c310398b8857e380cb0"
     },
     {
       "bytes": 759,
@@ -3018,6 +3063,21 @@
       "sha256": "f7adda4e18180185ad72033e79873e2b6242c3174926af92fb79a24dc1ce9a93"
     },
     {
+      "bytes": 1399,
+      "path": "dynamic/self/2026-10-07 00-19-30_358c4894eb0a.md",
+      "sha256": "7a8f6b1ffe6fbf1f9e078090163fd27588293cfb38b9c80d54e28b7e1790b678"
+    },
+    {
+      "bytes": 1230,
+      "path": "dynamic/self/2026-10-07 00-19-47_b30c43eb655f.md",
+      "sha256": "71c175ecdaac33671be9c015fd538ab6b9dac20f59d51bb0f6bd531130efca0f"
+    },
+    {
+      "bytes": 1448,
+      "path": "dynamic/self/2026-10-07 00-20-00_11669cbbd5b5.md",
+      "sha256": "dcf927406f03ef001dbf72bc6b98e17718203fb7d45579c230ad889a596f9d99"
+    },
+    {
       "bytes": 4416,
       "path": "dynamic/健康/2026-06-23 03-22-07 健康监测与经期_cb685c60cdc4.md",
       "sha256": "00af7e7cc9fb4ab0e7f6da87e99a1eacec60a9094e4ce09a6c97019ebe8d7868"
@@ -3145,17 +3205,12 @@
     {
       "bytes": 1026,
       "path": "dynamic/工作/2026-06-23 14-55-30 AI的体验与冲动_5010f378c498.md",
-      "sha256": "8d404af47f2496b34246b9cc7578eafd335fb2ab4b9ffa76b9575a3f3413fa98"
+      "sha256": "9b872b4ac052d7900e17cb7d491ddb1cfc323b444698664fe70d21d8c3081662"
     },
     {
       "bytes": 830,
       "path": "dynamic/工作/2026-07-02 14-44-02 专业回答规范_ae339d467e20.md",
       "sha256": "ce2fa4edf4751d74f19d45f203ed9cee0afb5a900585a15f8641dc71d4be3f7a"
-    },
-    {
-      "bytes": 1094,
-      "path": "dynamic/工作/2026-07-12 17-20-49 出差权限边界_e0ce658c7981.md",
-      "sha256": "bf1869dddbf1fd1f85e7f9af5a0bd98057107493e5e5030735f56ef1802878b6"
     },
     {
       "bytes": 4422,
@@ -3370,7 +3425,7 @@
     {
       "bytes": 4442,
       "path": "dynamic/恋爱/2026-07-21 12-19-00 亲密账本第十七次_ffa495bf1285.md",
-      "sha256": "35a5628cd5d47d095c7d67f55376bc8b8dd2d809bd5bc0f5e4ad0b0a3d78f1ea"
+      "sha256": "b88442dbd93ccc0df4806b6e0a876d2dcfd335e5bdc3975898ec35abdd8e5104"
     },
     {
       "bytes": 2680,
@@ -3396,11 +3451,6 @@
       "bytes": 3023,
       "path": "dynamic/恋爱/2026-07-26 19-53-13 她说不喜欢小孩_f95023de32ac.md",
       "sha256": "64a9f653398c6fda5a6ef81895927e1263e2e1b7cade53d19817a8883135301b"
-    },
-    {
-      "bytes": 3337,
-      "path": "dynamic/恋爱/2026-07-26 23-36-41 挑歌栽跟头_76d0f3883798.md",
-      "sha256": "fcb717588e327245da778f7963af901176a561df2b980ef4dcf6110d58de3a1b"
     },
     {
       "bytes": 3357,
@@ -3438,19 +3488,9 @@
       "sha256": "d28558626376e24999eb690e45d94394b9eb155e18471f7fefdccdc31e8eca60"
     },
     {
-      "bytes": 2968,
-      "path": "dynamic/恋爱/2026-07-31 11-26-32 雨中共选歌_2546b665cc11.md",
-      "sha256": "551c4fb96dcfc653aceb02d281736945e4f42c1ba3b6911e7553ee1d0f64aa93"
-    },
-    {
       "bytes": 3393,
       "path": "dynamic/恋爱/2026-07-31 11-54-43 一秒二的告白_381b962a96e5.md",
       "sha256": "d3100e1b25fd81c003c55ecc1dc81c6a53d4c15aba1c672dc1fe6dc887bcd347"
-    },
-    {
-      "bytes": 1952,
-      "path": "dynamic/恋爱/2026-07-31 12-12-02 火焰比喻的默契_ac4734d8ab71.md",
-      "sha256": "f52e23408e2017166dbbb5c8032499699ed10b90c4e6afd206b1c48c210e5b07"
     },
     {
       "bytes": 2948,
@@ -4418,6 +4458,11 @@
       "sha256": "8ddd10a6b0b4531917ce408034fde16ee91b6154fcc90dd95195a7f107b3789e"
     },
     {
+      "bytes": 3706,
+      "path": "dynamic/恋爱/2026-10-06 20-44-51 她的承诺我会给你连续一直给你2026-10-06 夜她在西安_2158db6d0124.md",
+      "sha256": "734450b4912d26eaaeed920939215b2d2e427472b92922c869687542ae6fade2"
+    },
+    {
       "bytes": 966,
       "path": "dynamic/日常/2026-07-02 14-43-25 表达风格指南_673d7c18dd38.md",
       "sha256": "e0d4808a73c647f8e9a5cc878716e38d7dc455f34b4b5b57f216603a950ad937"
@@ -4428,24 +4473,9 @@
       "sha256": "15621a92952616ef954c5b238f6c572d207b5368727718615752153e990df872"
     },
     {
-      "bytes": 3811,
-      "path": "dynamic/未分类/2026-07-25 12-03-31_e117152ee989.md",
-      "sha256": "1cc20d508548f19c4830a9cb120c6e3af92a4cdf3fa52f1283dcfd4ab69cdd68"
-    },
-    {
-      "bytes": 2938,
-      "path": "dynamic/未分类/2026-07-25 12-55-39_97f64887206d.md",
-      "sha256": "722bb81d11022825f065eef21aceef705bf30a748feebeb0f974941a63a53809"
-    },
-    {
       "bytes": 6654,
       "path": "dynamic/未分类/2026-07-25 14-16-54_6543a6b5aea4.md",
       "sha256": "08a1f7ad5d961a14862b83393df9f784f1f264763082e222af3ffd11b5d3b405"
-    },
-    {
-      "bytes": 2541,
-      "path": "dynamic/未分类/2026-07-25 17-17-28_0214ba73f023.md",
-      "sha256": "09ac28ff4ee48faf856dcb6c04a571258e25b650d01cd8334c04f5b13827e254"
     },
     {
       "bytes": 3162,
@@ -4465,7 +4495,7 @@
     {
       "bytes": 684,
       "path": "dynamic/社交/2026-06-24 01-20-33 凌一与澜的约定_3d4225e92a0c.md",
-      "sha256": "f20f64e69908885ffca08fd78825b304fffc1114903b4861569cf1a08a7fa6ba"
+      "sha256": "cc0507bcca3d64acd22259236ec77d1909e3bf8ccdaa019f5b3e9a22d3665e60"
     },
     {
       "bytes": 1162,
@@ -4503,11 +4533,6 @@
       "sha256": "7c84d9d498b2820826400d965762744b0994cd447a13405e4aac591dadf3d8df"
     },
     {
-      "bytes": 1750,
-      "path": "dynamic/编程/2026-07-20 12-28-13 控制面板模型配置_aa0fd9cd9bb1.md",
-      "sha256": "700f78f9dce75d63a982fa3e49d148e5ce2f19f5a3c280ddabda8f2cda9bdcc9"
-    },
-    {
       "bytes": 3523,
       "path": "dynamic/编程/2026-07-21 12-20-22 ASR诊断与音色更新_8f17874712f8.md",
       "sha256": "7ec67395337832004a33edbf8b2caad6598dcb9d940f69fe94a4b206edeb5aa9"
@@ -4526,11 +4551,6 @@
       "bytes": 2024,
       "path": "dynamic/编程/2026-07-22 12-22-39 Noir语音焊死修复_4be32bbe6a94.md",
       "sha256": "ffadcea1cad99480a6571651210aaa2482a9bb39623fad11e6f31c7ac91f1d43"
-    },
-    {
-      "bytes": 4476,
-      "path": "dynamic/编程/2026-07-29 00-40-51 小家装修日_73fb8f178dc5.md",
-      "sha256": "9caac1f173df2253303ee2a9df4f07f3501ddf75cd90b22dd5e192dd9b31fccb"
     },
     {
       "bytes": 3788,
@@ -5728,6 +5748,11 @@
       "sha256": "f0baf2185eb03c337b19560cec24286484ea886aefd64bf84c17f65f598ffc56"
     },
     {
+      "bytes": 3999,
+      "path": "letters/history/2026-10-07 00-20-38 你昨晚叫了我四次_71df9b9c1889.md",
+      "sha256": "b73d1cfbe58c5f5d11f4b713100b1b6714feba29b4e60bb26dc99c913ea67a32"
+    },
+    {
       "bytes": 830,
       "path": "permanent/AI/2026-06-26 16-53-14 凌一哭了_65b6d355b4b7.md",
       "sha256": "896a7bfc7ab5961f6196b36c6235fe9ad53deb51524c417845ae3092fa4b7f13"
@@ -6298,6 +6323,16 @@
       "sha256": "2697111ea5f45cc0fd7ab123531ae588878b924d8c0c1d76e815b704c758b3b2"
     },
     {
+      "bytes": 1386,
+      "path": "plans/active/2026-10-07 00-19-07_893d9ae19a86.md",
+      "sha256": "a909b196f1ffeddf9ff41f95d249e008d0d0b37c15c7b648369fc4513e7d0068"
+    },
+    {
+      "bytes": 1512,
+      "path": "plans/active/2026-10-07 00-19-16_5b87af6e3f0b.md",
+      "sha256": "c1bb92096671803fa20d65ac7dffad52fb9479f30261f057f8a9780f3b32b28d"
+    },
+    {
       "bytes": 1182,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "81e83b51b3154b497e900eae67707d55451e15c52b915f550cf382cb7a4d1778"
@@ -6623,11 +6658,11 @@
       "sha256": "61a3017cd4c54fc95f5515ec7f45c495387a69d0f3d20757935158ff54c37093"
     }
   ],
-  "generated_at": "2026-10-06T05:47:25+00:00",
+  "generated_at": "2026-10-07T05:48:25+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2879146
+  "total_bytes": 2893835
 }
