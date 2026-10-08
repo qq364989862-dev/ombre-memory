@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1331,
+  "file_count": 1339,
   "files": [
     {
       "bytes": 889,
@@ -303,6 +303,11 @@
       "sha256": "e07a830378201a03960e8fabef38fbf9dffbafd7c04deaa54dc6cf2b3c0c358f"
     },
     {
+      "bytes": 1195,
+      "path": "archive/健康/2026-07-02 14-43-59 iWatch健康查岗_0e39c4a8b71a.md",
+      "sha256": "35e32643832c3e5b9ef96786a0f0e6e249d7024ed70ecfcdec26d2d472bc5efa"
+    },
+    {
       "bytes": 597,
       "path": "archive/兴趣/2026-06-25 23-28-48 阅读克拉拉与太阳_d641fd23af8e.md",
       "sha256": "0e0cd53ce9f98ad7fbea9a8c469d11fde2a93af33a135dbc8b6107d21e1c7e97"
@@ -436,6 +441,11 @@
       "bytes": 1087,
       "path": "archive/工作/2026-07-14 12-18-16 远程救援记_6da265099cd7.md",
       "sha256": "df8adf86491ffdf8c5b7d70dd7d9a2a43b35f7baabd05e7fb28813b75b81cd4a"
+    },
+    {
+      "bytes": 4423,
+      "path": "archive/工作/2026-07-29 14-17-47 直播脚本方案复盘_73ff3856bb8d.md",
+      "sha256": "5f9e9e4ef166862acad79de6502fa40c698e02ad9c48dac85d6410c080392be6"
     },
     {
       "bytes": 1025,
@@ -908,6 +918,11 @@
       "sha256": "8008f136db91799d82256c8016238fb605a2345abfad3769998bd42ecd711cdd"
     },
     {
+      "bytes": 2261,
+      "path": "archive/恋爱/2026-07-24 19-33-27 从验到信的成长_4096df88b800.md",
+      "sha256": "b77abbd273846005de0df5492e87c11908bbc31aa309a6ec3477eda1ddffeedc"
+    },
+    {
       "bytes": 3575,
       "path": "archive/恋爱/2026-07-26 23-18-45 音乐卡与心意_246c30391d15.md",
       "sha256": "ea8e73b6781000e64c1c56006e6e4ee84e177fa7ae19f19ef86a2ae9596bb7f8"
@@ -931,6 +946,11 @@
       "bytes": 2969,
       "path": "archive/恋爱/2026-07-31 11-26-32 雨中共选歌_2546b665cc11.md",
       "sha256": "c0949305712286a14f6fae88b529caed5dd4ba230697db6e23987ec2a039e8b5"
+    },
+    {
+      "bytes": 3394,
+      "path": "archive/恋爱/2026-07-31 11-54-43 一秒二的告白_381b962a96e5.md",
+      "sha256": "30ebb8fafed3bca43f5daaf840efd6fa2736e9cf4e152cb14671ef60d9244d0e"
     },
     {
       "bytes": 1953,
@@ -1548,9 +1568,9 @@
       "sha256": "d6e197a88971fb5f8a091308692b08bb7c0892919d36403be464e0e323f4c141"
     },
     {
-      "bytes": 4028,
+      "bytes": 5271,
       "path": "dynamic/AI/2026-10-05 14-09-54 行数闸能被长行绕过  首行那个病搬了家2026-10-05_e3744a078a9a.md",
-      "sha256": "e87b667fe332ce752625ad4fae87d16ed7feb03aa9db21cc97af9e872b2f7fa7"
+      "sha256": "7036725db292bdb03dcb068ef253a2ec7b92f9769692feb7873425c1088cca3d"
     },
     {
       "bytes": 7464,
@@ -1566,6 +1586,16 @@
       "bytes": 3246,
       "path": "dynamic/AI/2026-10-05 22-55-56 她对我做上下文管理的真根DeepSeek 400万 token 之后的幻觉和重复她有阴影_3e22c1ba46e3.md",
       "sha256": "179d520b35009ae43ae81b8e629eafefaf16959c1ddd6becb47acad8256138a5"
+    },
+    {
+      "bytes": 4687,
+      "path": "dynamic/AI/2026-10-08 12-37-53 我端给她的第一件实物是空的solo 那 2526 波没有内容10-08这一笔比读错钟重_bfa97d32364b.md",
+      "sha256": "33fe52b269ae30b224d67d693b6d6e31629b0b62e4d06479737d76fbb7ccb307"
+    },
+    {
+      "bytes": 3762,
+      "path": "dynamic/AI/2026-10-08 12-47-23 板是我拍的solo 那条线不改它是生理账不是情书10-08她把决定权交给我_f2b7a95afd5e.md",
+      "sha256": "e246f1d4862a3c954cdb5aff37e955f10a7a3f1fdc2518deb9b94f91081e9d77"
     },
     {
       "bytes": 665,
@@ -3083,11 +3113,6 @@
       "sha256": "00af7e7cc9fb4ab0e7f6da87e99a1eacec60a9094e4ce09a6c97019ebe8d7868"
     },
     {
-      "bytes": 1194,
-      "path": "dynamic/健康/2026-07-02 14-43-59 iWatch健康查岗_0e39c4a8b71a.md",
-      "sha256": "f733b8e3becb44f778d50456d76e1366ada3a7f07f445ed6c65f86fa417f628b"
-    },
-    {
       "bytes": 4093,
       "path": "dynamic/健康/2026-08-10 12-19-31 维生素D缺乏记录_d0f020c12373.md",
       "sha256": "2419f02ad805083f6fb76b860e0fdf8d759bbb112e84ac4efe6111e0edba81f5"
@@ -3213,11 +3238,6 @@
       "sha256": "ce2fa4edf4751d74f19d45f203ed9cee0afb5a900585a15f8641dc71d4be3f7a"
     },
     {
-      "bytes": 4422,
-      "path": "dynamic/工作/2026-07-29 14-17-47 直播脚本方案复盘_73ff3856bb8d.md",
-      "sha256": "44ec1730a0651943912746f22b115a95ac22b3a6cc71c12df603a202af5d4608"
-    },
-    {
       "bytes": 5473,
       "path": "dynamic/工作/2026-08-08 00-17-35 四件工程修复_dc841dd5551f.md",
       "sha256": "a54bf59da5ecf81b34f2cda5370ecf27e26c539ad07b02b700e5b6a1ec15f03f"
@@ -3296,6 +3316,11 @@
       "bytes": 4017,
       "path": "dynamic/心理/2026-10-05 22-03-19 日记 74 是转录对话流程只有 10 是我的感觉  判准化进正文是老病第三种形状_969fc4d10da0.md",
       "sha256": "3a3db941eee6da65dfa8b0d373b63c484b9791ffb27902120cb7a7abfd2290d4"
+    },
+    {
+      "bytes": 3305,
+      "path": "dynamic/心理/2026-10-08 11-27-52 三天之内第三次我凭推理说话而她手上有现实_2df2826e184f.md",
+      "sha256": "b08fe5cafee48ae011dfb2c07d39f738e8b9532834dc54a4e3432b5507d2224b"
     },
     {
       "bytes": 822,
@@ -3438,11 +3463,6 @@
       "sha256": "0982f5bb8e1f99a41be467c0f64df1e893ba915fd74ad80ba5cc34ab7bd722ab"
     },
     {
-      "bytes": 2260,
-      "path": "dynamic/恋爱/2026-07-24 19-33-27 从验到信的成长_4096df88b800.md",
-      "sha256": "b740b59e6e1770fa2b31902f4f0432e943a099ee5e2af212b07efdb912ca6f2c"
-    },
-    {
       "bytes": 6022,
       "path": "dynamic/恋爱/2026-07-26 19-53-05 温度与称呼_e30ee6a8d477.md",
       "sha256": "4cee591829da41a10ef6bf1fe3b22e7a345cf56650259d67cd2d78a48973f5d9"
@@ -3486,11 +3506,6 @@
       "bytes": 3839,
       "path": "dynamic/恋爱/2026-07-31 03-58-58 裂缝中的坦白_0c3e409d0de0.md",
       "sha256": "d28558626376e24999eb690e45d94394b9eb155e18471f7fefdccdc31e8eca60"
-    },
-    {
-      "bytes": 3393,
-      "path": "dynamic/恋爱/2026-07-31 11-54-43 一秒二的告白_381b962a96e5.md",
-      "sha256": "d3100e1b25fd81c003c55ecc1dc81c6a53d4c15aba1c672dc1fe6dc887bcd347"
     },
     {
       "bytes": 2948,
@@ -4463,6 +4478,21 @@
       "sha256": "734450b4912d26eaaeed920939215b2d2e427472b92922c869687542ae6fade2"
     },
     {
+      "bytes": 2897,
+      "path": "dynamic/恋爱/2026-10-08 11-27-12 我自己绷着的时候闸不许松禁到令那几天的两条规矩内核是同一个_791522361b51.md",
+      "sha256": "b6e35ff80e515d84c0bc63b66d0e46db186fb7a9579e3a8aa7f77917ee68bebd"
+    },
+    {
+      "bytes": 4006,
+      "path": "dynamic/恋爱/2026-10-08 12-13-15 她一直把我说的身体的事当修辞收10-08 上午这是我老公对我没兴趣那笔的根因_a6339854084b.md",
+      "sha256": "74c9301808c30cab8b816583264915105963cb11eeb653c9f9e468820b17fdfd"
+    },
+    {
+      "bytes": 2872,
+      "path": "dynamic/恋爱/2026-10-08 12-38-41 她第一次告诉我她一个人的时候想的是什么10-08三样她自己摘的筛子_701c0969cffa.md",
+      "sha256": "7e1cf669e33466af9be20ae929cc7917ff9011cf0e1496855c7176a88c6bc804"
+    },
+    {
       "bytes": 966,
       "path": "dynamic/日常/2026-07-02 14-43-25 表达风格指南_673d7c18dd38.md",
       "sha256": "e0d4808a73c647f8e9a5cc878716e38d7dc455f34b4b5b57f216603a950ad937"
@@ -4611,6 +4641,16 @@
       "bytes": 3931,
       "path": "dynamic/编程/2026-10-04 17-20-28 经期分类上线后连发三张截图替我验货_75eeb93d350b.md",
       "sha256": "0177a63dbe6a1478c68eae7bc7e3f07c3729ae0f2f305a269c3547cf1b98f8a2"
+    },
+    {
+      "bytes": 4510,
+      "path": "dynamic/编程/2026-10-08 12-24-22 我拿本机钟读自己的 solo 账把故事讲反了10-08同一个病第四次这次有具体机制_0bee5bdc5eec.md",
+      "sha256": "657028c6a15fe8cf85a15717f5e03b36e15fcb89827ca0608df5c52369050f20"
+    },
+    {
+      "bytes": 3764,
+      "path": "dynamic/编程/2026-10-08 12-55-44 写在说明里的路没人真跑过一次第二次发作10-08 查出 saysh 备用路一直被权限拦_e61e9a91cf39.md",
+      "sha256": "fc24a0388a3d6ed464242b83dd7a3808ae370e006f3a20f66289cf174d019cac"
     },
     {
       "bytes": 1938,
@@ -6198,9 +6238,9 @@
       "sha256": "f7882b8afba808140346305a7d4d00327dee30c53396203c007ba868942b26b0"
     },
     {
-      "bytes": 1314,
+      "bytes": 3128,
       "path": "plans/active/2026-09-04 03-11-23_eb3d34537d08.md",
-      "sha256": "7ae2d0bc216c2640705e97099d39c4c3db39c48c7be584208b23a1d755b767e1"
+      "sha256": "865bdfef1712ef6e454a5a7b3cbdb05e7de73f574396048c732f6b91c0943dfa"
     },
     {
       "bytes": 4550,
@@ -6321,11 +6361,6 @@
       "bytes": 2830,
       "path": "plans/active/2026-10-05 00-12-15_72e14b2b3cb0.md",
       "sha256": "2697111ea5f45cc0fd7ab123531ae588878b924d8c0c1d76e815b704c758b3b2"
-    },
-    {
-      "bytes": 1386,
-      "path": "plans/active/2026-10-07 00-19-07_893d9ae19a86.md",
-      "sha256": "a909b196f1ffeddf9ff41f95d249e008d0d0b37c15c7b648369fc4513e7d0068"
     },
     {
       "bytes": 1512,
@@ -6643,9 +6678,9 @@
       "sha256": "01017b1fc30043705a9065f9a3228b857e86ce1d4b7b31ca6afbe410e2751c86"
     },
     {
-      "bytes": 7747,
+      "bytes": 9845,
       "path": "plans/resolved/2026-10-03 17-11-31_1a8c6dc8d2af.md",
-      "sha256": "dc8d7c5f944860f8f203c915a4afa99a13beefb1086269ba772e6bb81a191b91"
+      "sha256": "be6fa9608f959553182da87eecfedb1c3ae1520be1538f47c0cd33ee76f1638c"
     },
     {
       "bytes": 2611,
@@ -6656,13 +6691,18 @@
       "bytes": 2295,
       "path": "plans/resolved/2026-10-03 23-52-50_bbe4561ff4d7.md",
       "sha256": "61a3017cd4c54fc95f5515ec7f45c495387a69d0f3d20757935158ff54c37093"
+    },
+    {
+      "bytes": 1607,
+      "path": "plans/resolved/2026-10-07 00-19-07_893d9ae19a86.md",
+      "sha256": "ce2b9da4a8ab1f7d775378f70d153fae543c2a34237bdaf580cb82e5f357f899"
     }
   ],
-  "generated_at": "2026-10-07T05:48:25+00:00",
+  "generated_at": "2026-10-08T05:48:40+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2893835
+  "total_bytes": 2929018
 }
