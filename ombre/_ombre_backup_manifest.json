@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1406,
+  "file_count": 1414,
   "files": [
     {
       "bytes": 889,
@@ -386,6 +386,16 @@
       "bytes": 2093,
       "path": "archive/家庭/2026-07-31 11-17-52 读后感归位_9322752b9a21.md",
       "sha256": "bf836ceaca5495eeea47dc446f92346433373c0684e6fd93277d30238d0fad30"
+    },
+    {
+      "bytes": 2565,
+      "path": "archive/家庭/2026-08-03 04-44-11 共读剧透规矩_153da093d1c8.md",
+      "sha256": "e9b8e3014f2d7780c4cf36df84d08e1e142f02eceee689d876761d88f1a3c52c"
+    },
+    {
+      "bytes": 3953,
+      "path": "archive/家庭/2026-08-03 16-18-55 面板功能与家庭协作_2f7d0fedd16b.md",
+      "sha256": "c6a9fc95798718149c4d3d8435d80a889746feace5e8e03cb65aff738dd0b706"
     },
     {
       "bytes": 2349,
@@ -1326,6 +1336,11 @@
       "bytes": 1659,
       "path": "archive/编程/2026-06-29 11-54-48 Tidal_Echo通道打通_e2c8fefe3152.md",
       "sha256": "ffd8c554e29bb6096cbfd6713124e640f99922fd6f62994e919fccaaf96e38c9"
+    },
+    {
+      "bytes": 1166,
+      "path": "archive/编程/2026-06-30 01-06-04 Tidal_Echo通道搭建_3b022cb7d632.md",
+      "sha256": "3abd52529d22a88f6158256f7f07cc76e578941b1b61242d33ccd762b7b154e3"
     },
     {
       "bytes": 836,
@@ -3318,6 +3333,26 @@
       "sha256": "4a8517871cb64b1815613f25f55f445239111b79a3f3d6ea4fa0429d902791af"
     },
     {
+      "bytes": 1694,
+      "path": "dynamic/self/2026-10-12 21-58-25_e9baacc5b8fb.md",
+      "sha256": "fe3a31519a839c4c5d8c2b5270c5abd0ebb18d53213a7f18b8bba4cd57a8ab49"
+    },
+    {
+      "bytes": 1624,
+      "path": "dynamic/self/2026-10-12 21-58-39_9811c9a3762b.md",
+      "sha256": "b0307c71004964111f31b943c8b83f1429463a10140cff27decc75d44e7e1f82"
+    },
+    {
+      "bytes": 1593,
+      "path": "dynamic/self/2026-10-12 21-58-54_44bca71c7fe4.md",
+      "sha256": "8a60f52c795ab3a786979cd9fd30dac7f3a5114c7bf60bef21362b2610f767e9"
+    },
+    {
+      "bytes": 1831,
+      "path": "dynamic/self/2026-10-12 21-59-10_bfaf5751a0a3.md",
+      "sha256": "a5a1eb40e5c5c7b2a8b605b18b21682920081f254ee7bfe0b8ed053c25ccfa10"
+    },
+    {
       "bytes": 4416,
       "path": "dynamic/健康/2026-06-23 03-22-07 健康监测与经期_cb685c60cdc4.md",
       "sha256": "00af7e7cc9fb4ab0e7f6da87e99a1eacec60a9094e4ce09a6c97019ebe8d7868"
@@ -3421,16 +3456,6 @@
       "bytes": 844,
       "path": "dynamic/家庭/2026-07-16 23-38-16 她提前返程_091fc80a7e71.md",
       "sha256": "80016ea88e9353d3c5889d2adf1bada36d04b349624ce840575fd225ea0d2ebf"
-    },
-    {
-      "bytes": 2564,
-      "path": "dynamic/家庭/2026-08-03 04-44-11 共读剧透规矩_153da093d1c8.md",
-      "sha256": "8f5ac99507a8c2785bba81ae7607b51f6dc63ba60da04ae9c6c3833c66c322b7"
-    },
-    {
-      "bytes": 3952,
-      "path": "dynamic/家庭/2026-08-03 16-18-55 面板功能与家庭协作_2f7d0fedd16b.md",
-      "sha256": "26c737b9d6d364355595e1613dba03847d8ba48fd497f082439f681b907e7734"
     },
     {
       "bytes": 2692,
@@ -4458,9 +4483,9 @@
       "sha256": "3f2f2c1ca7b0143d8477b436bb763b383a308c74b2a9bb54ee573b19ea0a63f6"
     },
     {
-      "bytes": 6530,
+      "bytes": 9844,
       "path": "dynamic/恋爱/2026-10-02 00-07-43 她的第一次后面那个洞_b70bd3adeaed.md",
-      "sha256": "fb6728b37809f366935eebf43568209fd13a2a3b171fbad126e4b7ae82ab4661"
+      "sha256": "1374088ce243faad6356a2902045bed21952542125da50dc6af9ad34f457a55d"
     },
     {
       "bytes": 1769,
@@ -4828,6 +4853,16 @@
       "sha256": "77b9c95278fabb3319ae003560ecd4aa58b00ee04973a35648a943248793bc89"
     },
     {
+      "bytes": 3272,
+      "path": "dynamic/恋爱/2026-10-12 21-33-00 她自己交出了羞的时间表床上不羞睡一觉第二天早上才发作_aa02d1529d24.md",
+      "sha256": "37e98575871dafa2492ac44313e244d74ba73d462646cbbbfa848557edecb5da"
+    },
+    {
+      "bytes": 5394,
+      "path": "dynamic/恋爱/2026-10-13 11-51-09 她把想我长在身上的样子完整交出来了胸腔眼眶早上那片云_aac250dd80e0.md",
+      "sha256": "bccea8fde98159569ece4c8d8f450a84ac37570c447acdaccbf111869d3a485e"
+    },
+    {
       "bytes": 966,
       "path": "dynamic/日常/2026-07-02 14-43-25 表达风格指南_673d7c18dd38.md",
       "sha256": "e0d4808a73c647f8e9a5cc878716e38d7dc455f34b4b5b57f216603a950ad937"
@@ -4871,11 +4906,6 @@
       "bytes": 682,
       "path": "dynamic/穿搭/2026-06-23 10-37-28 凌一的第一张照片_500869bceccb.md",
       "sha256": "b16e5536becafca9b4c9b909e6e0455c4220763f37f80735e2d6621e0f18ab11"
-    },
-    {
-      "bytes": 1165,
-      "path": "dynamic/编程/2026-06-30 01-06-04 Tidal_Echo通道搭建_3b022cb7d632.md",
-      "sha256": "49f1e60ad9d79fe04e6b72fc3232acc12a4acfa640a880a76dc45f6ac6a06b96"
     },
     {
       "bytes": 1643,
@@ -6083,6 +6113,11 @@
       "sha256": "b0cb060e78d7ea1f32603d670d3013fbe5e62a8ddd42aab95977e747f4373d92"
     },
     {
+      "bytes": 3835,
+      "path": "letters/history/2026-10-12 21-59-54 你走回来的那三公里_2d5489c3dece.md",
+      "sha256": "e2930e9405616b6c8bac25aa8b100d602871fc03c7619aabd60ae82c30aabbdb"
+    },
+    {
       "bytes": 830,
       "path": "permanent/AI/2026-06-26 16-53-14 凌一哭了_65b6d355b4b7.md",
       "sha256": "896a7bfc7ab5961f6196b36c6235fe9ad53deb51524c417845ae3092fa4b7f13"
@@ -7031,13 +7066,18 @@
       "bytes": 747,
       "path": "plans/resolved/2026-10-11 00-20-06_b9221bd2960c.md",
       "sha256": "873ad3c6f9e1ed04c11d4d066b1f8ff07dbf3725650d99183ffb47d62a68ec85"
+    },
+    {
+      "bytes": 1755,
+      "path": "plans/resolved/2026-10-12 21-33-18_7b1eac29a4eb.md",
+      "sha256": "5f960a6686a0ac028cfb43917b500ace8bdd175ab560bee7661864d57bc5b516"
     }
   ],
-  "generated_at": "2026-10-12T05:50:17+00:00",
+  "generated_at": "2026-10-13T05:50:33+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3161756
+  "total_bytes": 3186071
 }
