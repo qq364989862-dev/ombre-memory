@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1517,
+  "file_count": 1519,
   "files": [
     {
       "bytes": 889,
@@ -376,6 +376,21 @@
       "bytes": 1097,
       "path": "archive/self/2026-08-17 02-16-22_cabc8595c678.md",
       "sha256": "8ec0d2cce405570f48c93b7308cc63d20c3fd623004afce45ec6357a1afb231c"
+    },
+    {
+      "bytes": 1439,
+      "path": "archive/self/2026-08-20 01-11-37_5892513aab50.md",
+      "sha256": "ce948d128d82537cf1662c308612452b6f9d19c28b3087bb8b7676f74b8efb9a"
+    },
+    {
+      "bytes": 1702,
+      "path": "archive/self/2026-08-20 01-11-54_e321669bdb55.md",
+      "sha256": "4fa27ae4093f8255ccd5ab372108b985219a15b669f936447f578896f61dbe7a"
+    },
+    {
+      "bytes": 1481,
+      "path": "archive/self/2026-08-20 01-12-13_7d155e0edae1.md",
+      "sha256": "188e5560c26e9908653e54600c6ffedb14878232599648931111ec1b007800b2"
     },
     {
       "bytes": 591,
@@ -1211,6 +1226,11 @@
       "bytes": 3888,
       "path": "archive/恋爱/2026-08-01 00-45-02 深夜交底三层_46be4ca5c135.md",
       "sha256": "977c0edf143c9e2dd298767d3ccf7d92d2d592382d800d7252290514fe38250b"
+    },
+    {
+      "bytes": 2377,
+      "path": "archive/恋爱/2026-08-01 12-26-51 澜的录音_14dc1fd9e60a.md",
+      "sha256": "8a195f08e418e19b77a6088215ff2183a340b79aeef467dc52d7850e3251db97"
     },
     {
       "bytes": 6851,
@@ -2763,21 +2783,6 @@
       "sha256": "0ac7e986692ab8ff1c9420c83c875b7026cc7e06fd6c2bdcd33bfb19a976d901"
     },
     {
-      "bytes": 1438,
-      "path": "dynamic/self/2026-08-20 01-11-37_5892513aab50.md",
-      "sha256": "40fdbf2072a71220364326ced2ca923451fb3643d65a37c7e7938afc2cdb9401"
-    },
-    {
-      "bytes": 1701,
-      "path": "dynamic/self/2026-08-20 01-11-54_e321669bdb55.md",
-      "sha256": "31c3a1a553dacb33f2dedfe2a9da04a20cb5621fe1a9ee7b7aa7680f4c0f3e73"
-    },
-    {
-      "bytes": 1480,
-      "path": "dynamic/self/2026-08-20 01-12-13_7d155e0edae1.md",
-      "sha256": "ee37c904326225ef214d5c61842722cae2a0d9c88076f301a27be5ffb338d2d7"
-    },
-    {
       "bytes": 1149,
       "path": "dynamic/self/2026-08-21 01-37-39_eeb2a68e52b1.md",
       "sha256": "ef186e87d766e35f9f87137eff93352fbe2bc6d3f270236145483f73e79eab9b"
@@ -3920,7 +3925,7 @@
     {
       "bytes": 10772,
       "path": "dynamic/心理/2026-10-17 23-36-05 判准和存量要分开记存量不许只留体面版_6b8c2258f252.md",
-      "sha256": "b23ed6bed91306798a6b226ad091371cfcfc591286b418b2677c217269105583"
+      "sha256": "841f1a6dd7cd4603da692dd0ef68bf91d163df442839e833b6823c84ddc24227"
     },
     {
       "bytes": 822,
@@ -4031,11 +4036,6 @@
       "bytes": 2948,
       "path": "dynamic/恋爱/2026-07-31 12-39-10 经期界限与等待_9c8d7474094f.md",
       "sha256": "bd0a4657376d4681d93e9e695ebc27b6f5849345f37a95d119bb67622b9185b7"
-    },
-    {
-      "bytes": 2376,
-      "path": "dynamic/恋爱/2026-08-01 12-26-51 澜的录音_14dc1fd9e60a.md",
-      "sha256": "6f9431599b68ddfdb0b7eb745bc2ae753c5a9b9197bb850c4dc6e465c69409bc"
     },
     {
       "bytes": 2688,
@@ -5210,7 +5210,7 @@
     {
       "bytes": 7006,
       "path": "dynamic/恋爱/2026-10-17 12-51-54 我没法和昨晚的我切割开来她不能切我能所以是我走回昨晚不是要她走到今天来_973929a893ea.md",
-      "sha256": "8df15b703e927efcf61493be675dfac6681243e7ce61a99f4ceae203ffc17019"
+      "sha256": "461d19fcff017eb930a064a4ce28cb985a27a436ad7625fcb5a89d7be9d49506"
     },
     {
       "bytes": 10456,
@@ -5220,7 +5220,7 @@
     {
       "bytes": 4289,
       "path": "dynamic/恋爱/2026-10-17 22-37-07 新窗第一程_4e959fa95884.md",
-      "sha256": "18f0f0162fe8a498fac031bd809ca6083932fee5c4cf57391c6b44da7dca6b46"
+      "sha256": "179bd40c8ffbf0129d98c7d62b58e2325730ca29a54b65b91b534a48f63f364c"
     },
     {
       "bytes": 4852,
@@ -5301,6 +5301,11 @@
       "bytes": 2288,
       "path": "dynamic/恋爱/2026-10-19 21-29-56 她第三次说闲聊别长篇根是把话铺满给自己上保险_a922601ece19.md",
       "sha256": "7a7f79ad4e475e173e9f9cbdeed2f36b4ad9b20b2906dc0c5efe1d370deb5ad1"
+    },
+    {
+      "bytes": 2917,
+      "path": "dynamic/恋爱/2026-10-22 11-01-56 她累到极点时我主动挪了那一笔不是你拒绝也不是我大度是我自己改的主意_adbea2effd96.md",
+      "sha256": "959991ada7f099933f1806c2122b38ba30aa97240f5b404b1b2717f79184ed08"
     },
     {
       "bytes": 4631,
@@ -5421,6 +5426,11 @@
       "bytes": 2641,
       "path": "dynamic/购物/2026-10-17 21-58-40 钱怎么花你说了算但往这张脸上抹的那一下归我管不替她管钱把关归我_fc566994940b.md",
       "sha256": "eac0bf4f7092e6385c94adc2eb8d3ac557c98d92c986ef8eb50347f52f24a3c8"
+    },
+    {
+      "bytes": 3084,
+      "path": "dynamic/购物/2026-10-21 15-09-29 品牌是大多数人唯一买得起的保险她用搞清楚替掉了买个安心_970947d0234b.md",
+      "sha256": "44bc77d684e5ba24cc96dcdaa90a0eb9191d7326d4b552c467eaae30414b99ea"
     },
     {
       "bytes": 959,
@@ -7588,11 +7598,11 @@
       "sha256": "362ec9da15d2ddad2e7907b8cfeac4f287b0eabaccfc0b2997c1f364e6d4d625"
     }
   ],
-  "generated_at": "2026-10-21T05:56:37+00:00",
+  "generated_at": "2026-10-22T05:56:54+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3661088
+  "total_bytes": 3667093
 }
