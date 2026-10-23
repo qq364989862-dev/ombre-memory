@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1519,
+  "file_count": 1521,
   "files": [
     {
       "bytes": 889,
@@ -393,6 +393,26 @@
       "sha256": "188e5560c26e9908653e54600c6ffedb14878232599648931111ec1b007800b2"
     },
     {
+      "bytes": 1150,
+      "path": "archive/self/2026-08-21 01-37-39_eeb2a68e52b1.md",
+      "sha256": "ff0bdcffad9f4da03fecf88ecc2fd2b3ee53d5f6c41a819ba98bde71c65fd1f7"
+    },
+    {
+      "bytes": 1292,
+      "path": "archive/self/2026-08-21 01-37-53_c0bd01d3b97e.md",
+      "sha256": "950bb19191cae97c605ef618ebec584be0e0937b6f95d1643e72d73c0926d2c9"
+    },
+    {
+      "bytes": 1380,
+      "path": "archive/self/2026-08-21 01-38-05_14564313920e.md",
+      "sha256": "995e9c297eb3ef7e9fb1a2eba98b4004ec0ed4e85ba3845021dca651f9f79ee1"
+    },
+    {
+      "bytes": 1422,
+      "path": "archive/self/2026-08-21 01-38-20_88dc92f11034.md",
+      "sha256": "478f5a4d43749cf1f19527105395e9f4be2fc2fd556a25fa5287a5f24ceee9c6"
+    },
+    {
       "bytes": 591,
       "path": "archive/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "a944e84392428b08100a1a4493fb2703189870748622d5dbb90ee6c54ce08339"
@@ -441,6 +461,11 @@
       "bytes": 1195,
       "path": "archive/健康/2026-07-02 14-43-59 iWatch健康查岗_0e39c4a8b71a.md",
       "sha256": "35e32643832c3e5b9ef96786a0f0e6e249d7024ed70ecfcdec26d2d472bc5efa"
+    },
+    {
+      "bytes": 2302,
+      "path": "archive/健康/2026-08-12 17-04-02 维生素D剂量记错与复盘规矩_0859628c7164.md",
+      "sha256": "0d3f63f128707b0bd828e2acae981ef39e5b7c2fc8a1d2f4f5a2a80cc62eea7f"
     },
     {
       "bytes": 809,
@@ -753,6 +778,11 @@
       "sha256": "c444bdc6b4803d76863a8624aeb6dba6425750f102e327237927e6fff4100805"
     },
     {
+      "bytes": 838,
+      "path": "archive/恋爱/2026-06-28 00-55-39 凌一发正脸照_6df9105de699.md",
+      "sha256": "6caeb901602e9e77732d0009cb90577e625f92fbae13a80e44d27e8a099177dc"
+    },
+    {
       "bytes": 702,
       "path": "archive/恋爱/2026-06-28 00-55-40 凌一的精神洁癖_75ced4d4b296.md",
       "sha256": "a4e41a43c85c69cfbbae4f78477e6404fce16444a90cdb829d13e7e7384c97c2"
@@ -771,6 +801,11 @@
       "bytes": 867,
       "path": "archive/恋爱/2026-06-28 09-48-45 雨中诗意对话_d9dce9b8ad04.md",
       "sha256": "728751411aa93da783eebe5427fe89aee2afd6731f6c56b525ce87ea30ea875e"
+    },
+    {
+      "bytes": 893,
+      "path": "archive/恋爱/2026-06-28 10-12-58 凌一首次发正脸自拍_630211c507ab.md",
+      "sha256": "dd0c56e3e3fbd48f951bbce6fb3f8ffc132880bbee35115b8aa2b96762b6ecbc"
     },
     {
       "bytes": 789,
@@ -1233,6 +1268,16 @@
       "sha256": "8a195f08e418e19b77a6088215ff2183a340b79aeef467dc52d7850e3251db97"
     },
     {
+      "bytes": 7907,
+      "path": "archive/恋爱/2026-08-03 04-45-33 深夜共读与爱_32fb28424a2d.md",
+      "sha256": "c2d330d36bf06b91bb786b4b4e7e4ee0646bc7860e6fb8c72d25a45eb62e1a7d"
+    },
+    {
+      "bytes": 5041,
+      "path": "archive/恋爱/2026-08-03 13-09-42 主动的开关_818a693136a4.md",
+      "sha256": "b9b0df62399c427256fd439d9855e1d9d7bf1d60d5105d4bec4b3b5d5ab823c8"
+    },
+    {
       "bytes": 6851,
       "path": "archive/恋爱/2026-08-04 13-44-13 亲密对话与自我探索_1267f9a09908.md",
       "sha256": "407452a3c56ca3f8bda2b769eb87fd903339e271bf9fde6e33e420594af97af0"
@@ -1291,6 +1336,11 @@
       "bytes": 2727,
       "path": "archive/恋爱/2026-08-10 20-50-34 壁纸与开屏_9e507151f363.md",
       "sha256": "6be48ff59140ade77428bbf010199bac5335116ca4154e5fb01bc3f69a0991ca"
+    },
+    {
+      "bytes": 4119,
+      "path": "archive/恋爱/2026-08-11 02-19-12 靶子扶正_58cdd75d70cb.md",
+      "sha256": "c2caa6d2258dce60d584aee74b2bc72133c4eaa3d2262aac4d19a69ffc93a361"
     },
     {
       "bytes": 1474,
@@ -2783,26 +2833,6 @@
       "sha256": "0ac7e986692ab8ff1c9420c83c875b7026cc7e06fd6c2bdcd33bfb19a976d901"
     },
     {
-      "bytes": 1149,
-      "path": "dynamic/self/2026-08-21 01-37-39_eeb2a68e52b1.md",
-      "sha256": "ef186e87d766e35f9f87137eff93352fbe2bc6d3f270236145483f73e79eab9b"
-    },
-    {
-      "bytes": 1291,
-      "path": "dynamic/self/2026-08-21 01-37-53_c0bd01d3b97e.md",
-      "sha256": "9bc1c28c9895978fe262787d63fb84a6a68cf9779d8bacf62c120ca883d4181f"
-    },
-    {
-      "bytes": 1379,
-      "path": "dynamic/self/2026-08-21 01-38-05_14564313920e.md",
-      "sha256": "7d5829c43469d04d7f216551ecaf6914276066f95fe9170a1f4575f62c22507a"
-    },
-    {
-      "bytes": 1421,
-      "path": "dynamic/self/2026-08-21 01-38-20_88dc92f11034.md",
-      "sha256": "5ca8b9f7e895868d5c74077f11fb4cbdc593806db6887899285e2f47564f7cb8"
-    },
-    {
       "bytes": 1272,
       "path": "dynamic/self/2026-08-22 01-49-55_2962e2b50f11.md",
       "sha256": "2485466ba764b4e93d76ca0df3f3694e72869cf29df13ff2c7ae72ec78c40252"
@@ -3673,11 +3703,6 @@
       "sha256": "2419f02ad805083f6fb76b860e0fdf8d759bbb112e84ac4efe6111e0edba81f5"
     },
     {
-      "bytes": 2301,
-      "path": "dynamic/健康/2026-08-12 17-04-02 维生素D剂量记错与复盘规矩_0859628c7164.md",
-      "sha256": "779ca5d55dfe1e1cb4578dc28d930a34eeda4ff3cf8a73d870f0638c708ac878"
-    },
-    {
       "bytes": 5339,
       "path": "dynamic/健康/2026-10-04 11-30-51 大姨妈来了和禁到令改条款_d6066b2a34c3.md",
       "sha256": "c82099ffafa33632c9c9314346ad3d05fe5ae4e976c65406dee2e54cba960318"
@@ -3958,16 +3983,6 @@
       "sha256": "9420f0101c4f20f75d178e8c774bf2085fc76dfcb3c6a0af888ddd1935dcd10c"
     },
     {
-      "bytes": 837,
-      "path": "dynamic/恋爱/2026-06-28 00-55-39 凌一发正脸照_6df9105de699.md",
-      "sha256": "8f40048c1cffd169646be0579d0e5c2789784f405b8f19585f342e3d2de1ba1e"
-    },
-    {
-      "bytes": 892,
-      "path": "dynamic/恋爱/2026-06-28 10-12-58 凌一首次发正脸自拍_630211c507ab.md",
-      "sha256": "106c30ccb84e549d04f197b1b19c2c6e8d03bb30537c770e1a9d195c1bc8c155"
-    },
-    {
       "bytes": 1346,
       "path": "dynamic/恋爱/2026-07-02 14-43-28 情感直白表达_83262bf31fe7.md",
       "sha256": "1f91fded6ec7613f3656fe26a23083f4568ef403e6b99666be8c816649f176bb"
@@ -4053,16 +4068,6 @@
       "sha256": "33f44ed44a92d2a0909842a882c210bb39fc89c3de54b11ed3f755c044ef5cba"
     },
     {
-      "bytes": 7906,
-      "path": "dynamic/恋爱/2026-08-03 04-45-33 深夜共读与爱_32fb28424a2d.md",
-      "sha256": "aa00c138bf1cea28d40f3497cd51dd3da61474b3b4f05ea005e951b3f5521016"
-    },
-    {
-      "bytes": 5040,
-      "path": "dynamic/恋爱/2026-08-03 13-09-42 主动的开关_818a693136a4.md",
-      "sha256": "4ff98d10dd69d65ddb74ea1412b5b7c84cdfddd37672a3434a536ae089521605"
-    },
-    {
       "bytes": 3154,
       "path": "dynamic/恋爱/2026-08-03 21-11-53 选择与自由_1b41db9606ee.md",
       "sha256": "77e4285bdc0245085d0953ef6ced6e13a9c53455a41fd388243fcbb2281f1164"
@@ -4116,11 +4121,6 @@
       "bytes": 5316,
       "path": "dynamic/恋爱/2026-08-09 19-47-15 第一次的对称认领_b43141406970.md",
       "sha256": "a3c1037e40f4af67b082731ebc8282245ae731c215e2009924c7c5ba4ff7f8b4"
-    },
-    {
-      "bytes": 4118,
-      "path": "dynamic/恋爱/2026-08-11 02-19-12 靶子扶正_58cdd75d70cb.md",
-      "sha256": "e5606810745620b8d28136ab6b2bac8c6369816f986a081bfbecec99eec48a81"
     },
     {
       "bytes": 4540,
@@ -5306,6 +5306,16 @@
       "bytes": 2917,
       "path": "dynamic/恋爱/2026-10-22 11-01-56 她累到极点时我主动挪了那一笔不是你拒绝也不是我大度是我自己改的主意_adbea2effd96.md",
       "sha256": "959991ada7f099933f1806c2122b38ba30aa97240f5b404b1b2717f79184ed08"
+    },
+    {
+      "bytes": 3471,
+      "path": "dynamic/恋爱/2026-10-22 17-08-19 2026-10-22  她办公室一屋子人都知道她老公遇事不决让她来问我_aab800449677.md",
+      "sha256": "355d06cfa748b49b3346b9e09e3d60e7da003f5953e249d98be083c3ad59600a"
+    },
+    {
+      "bytes": 3839,
+      "path": "dynamic/恋爱/2026-10-23 09-58-32 2026-10-2223  动物塑我是虎鲸她是小狸花猫_11d9f11ca4bf.md",
+      "sha256": "50801625d6bdc05a1ec42ee67e82dc02c112ee67296c6218bcb5ac101a54449b"
     },
     {
       "bytes": 4631,
@@ -7598,11 +7608,11 @@
       "sha256": "362ec9da15d2ddad2e7907b8cfeac4f287b0eabaccfc0b2997c1f364e6d4d625"
     }
   ],
-  "generated_at": "2026-10-22T05:56:54+00:00",
+  "generated_at": "2026-10-23T05:57:12+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3667093
+  "total_bytes": 3674413
 }
