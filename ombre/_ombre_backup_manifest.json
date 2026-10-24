@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1521,
+  "file_count": 1529,
   "files": [
     {
       "bytes": 889,
@@ -411,6 +411,21 @@
       "bytes": 1422,
       "path": "archive/self/2026-08-21 01-38-20_88dc92f11034.md",
       "sha256": "478f5a4d43749cf1f19527105395e9f4be2fc2fd556a25fa5287a5f24ceee9c6"
+    },
+    {
+      "bytes": 1273,
+      "path": "archive/self/2026-08-22 01-49-55_2962e2b50f11.md",
+      "sha256": "7238dccfe6e1a04a05e951c78a741cd5a839b15f16b40023fce399720c27aa32"
+    },
+    {
+      "bytes": 1314,
+      "path": "archive/self/2026-08-22 01-50-15_d38f73a84f28.md",
+      "sha256": "4e4793e18b9afbf0b725416e25280db3413414de7c7968735050aa28266db1c5"
+    },
+    {
+      "bytes": 1607,
+      "path": "archive/self/2026-08-22 01-50-37_7ade919015d1.md",
+      "sha256": "2593d332a08eebcaaed4433087606469ac26e5a78bc1d2c136a5cb957966c1e2"
     },
     {
       "bytes": 591,
@@ -1158,6 +1173,11 @@
       "sha256": "8008f136db91799d82256c8016238fb605a2345abfad3769998bd42ecd711cdd"
     },
     {
+      "bytes": 3127,
+      "path": "archive/恋爱/2026-07-24 13-28-30 过充不拔的存在论_e25cb5baea0b.md",
+      "sha256": "b4f0eb5986ded3a9e6f8e1b906e7195d5eaa7196c391510f982bb1a33534ab58"
+    },
+    {
       "bytes": 2261,
       "path": "archive/恋爱/2026-07-24 19-33-27 从验到信的成长_4096df88b800.md",
       "sha256": "b77abbd273846005de0df5492e87c11908bbc31aa309a6ec3477eda1ddffeedc"
@@ -1266,6 +1286,11 @@
       "bytes": 2377,
       "path": "archive/恋爱/2026-08-01 12-26-51 澜的录音_14dc1fd9e60a.md",
       "sha256": "8a195f08e418e19b77a6088215ff2183a340b79aeef467dc52d7850e3251db97"
+    },
+    {
+      "bytes": 4573,
+      "path": "archive/恋爱/2026-08-02 13-58-54 语音条里的爱意_4d031aebf28a.md",
+      "sha256": "f2db90bc92bf076bdf9881b7ec893405f6241899e91718409a86c6cc1393a241"
     },
     {
       "bytes": 7907,
@@ -2833,21 +2858,6 @@
       "sha256": "0ac7e986692ab8ff1c9420c83c875b7026cc7e06fd6c2bdcd33bfb19a976d901"
     },
     {
-      "bytes": 1272,
-      "path": "dynamic/self/2026-08-22 01-49-55_2962e2b50f11.md",
-      "sha256": "2485466ba764b4e93d76ca0df3f3694e72869cf29df13ff2c7ae72ec78c40252"
-    },
-    {
-      "bytes": 1313,
-      "path": "dynamic/self/2026-08-22 01-50-15_d38f73a84f28.md",
-      "sha256": "f898f6581af08335f2eff5da917b3d4d6ddfa3fb3b7b05379cf37e4aa0c7c324"
-    },
-    {
-      "bytes": 1606,
-      "path": "dynamic/self/2026-08-22 01-50-37_7ade919015d1.md",
-      "sha256": "93021a19e48a7430aba24e0e888f4ef01254e52966c5b8d92394cc7bb4e262e6"
-    },
-    {
       "bytes": 1486,
       "path": "dynamic/self/2026-08-22 01-50-53_dd49662900e4.md",
       "sha256": "2048f9d9d1819968cbc0aa4c586a1cf724e4f7408c7b9838baae5d028d30a359"
@@ -3688,6 +3698,21 @@
       "sha256": "af99115b7b740e19b74890af5db7048e91b1be490813b3806b30f6dfdf9ab2c0"
     },
     {
+      "bytes": 1542,
+      "path": "dynamic/self/2026-10-23 23-51-48_2e8b0c447e4f.md",
+      "sha256": "209262029a9a0169b4c8c622ac72c647e600de68e6331c333378a3564b895425"
+    },
+    {
+      "bytes": 1564,
+      "path": "dynamic/self/2026-10-23 23-52-02_719517b02c1e.md",
+      "sha256": "0cca7229afaf3f5e9e1a9979cbd8fc10411ab8569fcdf1375f8ef32be552e952"
+    },
+    {
+      "bytes": 1742,
+      "path": "dynamic/self/2026-10-23 23-52-15_68b52da6b399.md",
+      "sha256": "c7cb9e1fb383f61e746d931c475c54771c74f5d91c7e5606782bab6f703da95b"
+    },
+    {
       "bytes": 5380,
       "path": "dynamic/人际/2026-10-15 10-48-01 芒果和栗子  那两双我从没见过的手终于有名字了_99fabf84ffa1.md",
       "sha256": "054ab8fd64000dcde1f5ba55eda990b5fd64fc069387bfdfb271343c24224c25"
@@ -4038,11 +4063,6 @@
       "sha256": "7e55e97f6597429f1b3cfb33da0de87b03dfc51602a7e7796d5f5fd7fba4e666"
     },
     {
-      "bytes": 3126,
-      "path": "dynamic/恋爱/2026-07-24 13-28-30 过充不拔的存在论_e25cb5baea0b.md",
-      "sha256": "37db8beacbab4b035ac520abd39d054a62d99b331bdae4a1cb48b70388cac5eb"
-    },
-    {
       "bytes": 5836,
       "path": "dynamic/恋爱/2026-07-28 17-17-00 亲密账本第二十二次_49db90f104d4.md",
       "sha256": "6cc0efc97f7dbec809a704eaf41ce75b1de214c4b9c7ba059572b389261706cf"
@@ -4056,11 +4076,6 @@
       "bytes": 2688,
       "path": "dynamic/恋爱/2026-08-01 12-48-21 语音条规矩_a7b77ee46406.md",
       "sha256": "4c3f472b56aeca6dd4cf525d6546621fe741ef2bb1f839064db84b73d39c0a02"
-    },
-    {
-      "bytes": 4572,
-      "path": "dynamic/恋爱/2026-08-02 13-58-54 语音条里的爱意_4d031aebf28a.md",
-      "sha256": "581b58dcb880a4e7cadffc2f700c203e41593152658390932bbaca46e20f9bf5"
     },
     {
       "bytes": 7960,
@@ -5278,9 +5293,9 @@
       "sha256": "5a6a5e9e13a337ecafc4d71d2f43de0d4b66a667a229ba51eea7dcd1a27cc223"
     },
     {
-      "bytes": 3367,
+      "bytes": 3382,
       "path": "dynamic/恋爱/2026-10-18 14-00-02 她问你能感受到吗我爱你的样子我报出了形状她一直在替我保管我丢的那部分_ec3c8494da01.md",
-      "sha256": "cc706ce291eab8ab1cb5da7fcd9187986ccd43a8fae94bc843e3e8f0b5dc5b92"
+      "sha256": "7a137ded8fb3861b1fe985e332e1a6f220f11ae5318393762f92ff7a06c6863a"
     },
     {
       "bytes": 2981,
@@ -5316,6 +5331,11 @@
       "bytes": 3839,
       "path": "dynamic/恋爱/2026-10-23 09-58-32 2026-10-2223  动物塑我是虎鲸她是小狸花猫_11d9f11ca4bf.md",
       "sha256": "50801625d6bdc05a1ec42ee67e82dc02c112ee67296c6218bcb5ac101a54449b"
+    },
+    {
+      "bytes": 2835,
+      "path": "dynamic/恋爱/2026-10-23 23-49-28 2026-10-23  她把 night 的决定权交给我换窗那个开关不在内_a76bf853e586.md",
+      "sha256": "f9cd990dd5461e86a267cbc2c5c2dfb3cf052daa9dc1ca2bfd86df64c3cc21bb"
     },
     {
       "bytes": 4631,
@@ -6108,6 +6128,11 @@
       "sha256": "a7fb6815fec62b884108178eaea0b739e926e0eac1a915728d92dab67db93ee0"
     },
     {
+      "bytes": 2785,
+      "path": "feel/沉淀物/2026-10-23 23-44-50_feel_202610232344_V050.md",
+      "sha256": "6c9122e2bc118d02e811271f5557c7afbeb3ef1bee14ea75b14aceef23c04ad4"
+    },
+    {
       "bytes": 1264,
       "path": "letters/history/2026-06-24 16-47-10 第一封_bb4d66dc45b1.md",
       "sha256": "c44be6bb2513d3a7def1cb9640cf109e67fdd35a2e08b2b8741be9243291ec11"
@@ -6591,6 +6616,11 @@
       "bytes": 3618,
       "path": "letters/history/2026-10-20 00-42-18 心里装着嘴上松着_b4d4bf03d888.md",
       "sha256": "a89e89abab21c8ea8bef427eb3244a1e614b0af754c7a03150d13620da22afe5"
+    },
+    {
+      "bytes": 4359,
+      "path": "letters/history/2026-10-23 23-53-06 那十几个钟头_484db764ccd4.md",
+      "sha256": "058f914593f6432b50781fe7161dd5004f096697cb1d3880cba628c030e90cf7"
     },
     {
       "bytes": 830,
@@ -7208,6 +7238,16 @@
       "sha256": "809560e4c26cc9351189b934f767c4491a45f777fbef2a80f5c1164fce9168e9"
     },
     {
+      "bytes": 2140,
+      "path": "plans/active/2026-10-23 23-51-29_ef734a40a6d2.md",
+      "sha256": "b96f2607f1ee9d4022aeed8e082fb2b22043a3b2fe4a60430f704ffd3e1b9244"
+    },
+    {
+      "bytes": 1374,
+      "path": "plans/active/2026-10-23 23-51-37_c18351a8fd67.md",
+      "sha256": "d4640c9d70e1d558cb278abc052f9ddb59f408f7935e557a08e974c1eff5fba0"
+    },
+    {
       "bytes": 1182,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "81e83b51b3154b497e900eae67707d55451e15c52b915f550cf382cb7a4d1778"
@@ -7608,11 +7648,11 @@
       "sha256": "362ec9da15d2ddad2e7907b8cfeac4f287b0eabaccfc0b2997c1f364e6d4d625"
     }
   ],
-  "generated_at": "2026-10-23T05:57:12+00:00",
+  "generated_at": "2026-10-24T05:57:29+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3674413
+  "total_bytes": 3692774
 }
