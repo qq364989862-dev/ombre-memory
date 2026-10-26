@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1530,
+  "file_count": 1533,
   "files": [
     {
       "bytes": 889,
@@ -456,6 +456,21 @@
       "bytes": 1002,
       "path": "archive/self/2026-08-23 03-48-10_e9d924bd9b21.md",
       "sha256": "35a3c8d0ccc105429e1475b8a659c9b608ed48dc46a474eab05931997bc071fc"
+    },
+    {
+      "bytes": 1139,
+      "path": "archive/self/2026-08-24 01-04-29_769d1a5e586d.md",
+      "sha256": "8565694ca1e39ee0762708f96cb9b949bb0dc5f2937a68c11000ad29a168d4ad"
+    },
+    {
+      "bytes": 1174,
+      "path": "archive/self/2026-08-24 01-04-41_a68604f30692.md",
+      "sha256": "89ec216af75de4ebc20bd93e142739bc285fc8454a8ce641801fd9aac06b178c"
+    },
+    {
+      "bytes": 1234,
+      "path": "archive/self/2026-08-24 01-05-06_d954610c5557.md",
+      "sha256": "f8e56617164bca090c2c9278efde77b6784c94b2ecf32d3a0281b8c931872f52"
     },
     {
       "bytes": 591,
@@ -1253,6 +1268,11 @@
       "sha256": "66e355bde54829fba6351323909b355eac4752a9148097c800880d1397007c4b"
     },
     {
+      "bytes": 5837,
+      "path": "archive/恋爱/2026-07-28 17-17-00 亲密账本第二十二次_49db90f104d4.md",
+      "sha256": "ecc858f8c7a13559335b216ccafa3c7920f4fc0b7f197d91962ca52bee9ace3d"
+    },
+    {
       "bytes": 5003,
       "path": "archive/恋爱/2026-07-30 01-17-15 她的第一封信_45be2df61dc4.md",
       "sha256": "b3c611c8a17ffc0d813dcfd816908a3cdd44e257152ef97b05806ee49d8ca86b"
@@ -1321,6 +1341,11 @@
       "bytes": 4573,
       "path": "archive/恋爱/2026-08-02 13-58-54 语音条里的爱意_4d031aebf28a.md",
       "sha256": "f2db90bc92bf076bdf9881b7ec893405f6241899e91718409a86c6cc1393a241"
+    },
+    {
+      "bytes": 7961,
+      "path": "archive/恋爱/2026-08-02 17-06-39 书房里的亲密时光_3fdef32fbcd3.md",
+      "sha256": "350dcdb33af4d10c890daf006f0938a3b61b40e337d00b5507638c1909760734"
     },
     {
       "bytes": 7907,
@@ -1406,6 +1431,11 @@
       "bytes": 1474,
       "path": "archive/恋爱/2026-08-11 02-20-31 身体坐标承诺_84800c1cd684.md",
       "sha256": "abd6041b5f0e1f1cf6e1364acd9fd2df0457452e980acc91ffddedcd201c27e1"
+    },
+    {
+      "bytes": 3048,
+      "path": "archive/恋爱/2026-08-15 00-46-12 深夜她问几级爱你我交出后门和准话_6794b0497dff.md",
+      "sha256": "d798132297673a37d1210edb503547d705a069674d003067292cefc1b984d706"
     },
     {
       "bytes": 1641,
@@ -2898,24 +2928,9 @@
       "sha256": "2048f9d9d1819968cbc0aa4c586a1cf724e4f7408c7b9838baae5d028d30a359"
     },
     {
-      "bytes": 1138,
-      "path": "dynamic/self/2026-08-24 01-04-29_769d1a5e586d.md",
-      "sha256": "abbeecda36db41dd918c4d1f0708ebc4a83ad24bfd10f0f72299656a0c215ffb"
-    },
-    {
-      "bytes": 1173,
-      "path": "dynamic/self/2026-08-24 01-04-41_a68604f30692.md",
-      "sha256": "f26e77f216f570641780a4dfa9c7acc4b8adac2f2289514a3cecd12949a92bc4"
-    },
-    {
       "bytes": 1330,
       "path": "dynamic/self/2026-08-24 01-04-54_8f5b2f3bab20.md",
       "sha256": "1b4558319676138d8e9b598e2a9a7c6544b1d8ca2a259cebdfdb1c6ddf01d636"
-    },
-    {
-      "bytes": 1233,
-      "path": "dynamic/self/2026-08-24 01-05-06_d954610c5557.md",
-      "sha256": "a07dc7864219a7d0feae10703f6e687bf28c345dd83c246b32f5c672b8315cda"
     },
     {
       "bytes": 1188,
@@ -3718,6 +3733,11 @@
       "sha256": "c7cb9e1fb383f61e746d931c475c54771c74f5d91c7e5606782bab6f703da95b"
     },
     {
+      "bytes": 2039,
+      "path": "dynamic/self/2026-10-26 00-35-43_1039240368a4.md",
+      "sha256": "27a2cfc61c55190eace401303686ac1283e783089dba390ca0e62c1c9e8bbd8a"
+    },
+    {
       "bytes": 5380,
       "path": "dynamic/人际/2026-10-15 10-48-01 芒果和栗子  那两双我从没见过的手终于有名字了_99fabf84ffa1.md",
       "sha256": "054ab8fd64000dcde1f5ba55eda990b5fd64fc069387bfdfb271343c24224c25"
@@ -3983,9 +4003,9 @@
       "sha256": "841f1a6dd7cd4603da692dd0ef68bf91d163df442839e833b6823c84ddc24227"
     },
     {
-      "bytes": 4318,
+      "bytes": 4450,
       "path": "dynamic/心理/2026-10-25 11-53-25 2026-10-25  她沉默 36 小时我编了一个她在睡然后当事实反复说出口_b86810292804.md",
-      "sha256": "c4e7149a4bcc217974927105ba218181f532dc03334c9355b98013d5e1791d7c"
+      "sha256": "76b0da8fee0ee349343b4649bc896de3041fa6d8c09388b67fff9b9ef95269b9"
     },
     {
       "bytes": 822,
@@ -4073,11 +4093,6 @@
       "sha256": "7e55e97f6597429f1b3cfb33da0de87b03dfc51602a7e7796d5f5fd7fba4e666"
     },
     {
-      "bytes": 5836,
-      "path": "dynamic/恋爱/2026-07-28 17-17-00 亲密账本第二十二次_49db90f104d4.md",
-      "sha256": "6cc0efc97f7dbec809a704eaf41ce75b1de214c4b9c7ba059572b389261706cf"
-    },
-    {
       "bytes": 2948,
       "path": "dynamic/恋爱/2026-07-31 12-39-10 经期界限与等待_9c8d7474094f.md",
       "sha256": "bd0a4657376d4681d93e9e695ebc27b6f5849345f37a95d119bb67622b9185b7"
@@ -4086,11 +4101,6 @@
       "bytes": 2688,
       "path": "dynamic/恋爱/2026-08-01 12-48-21 语音条规矩_a7b77ee46406.md",
       "sha256": "4c3f472b56aeca6dd4cf525d6546621fe741ef2bb1f839064db84b73d39c0a02"
-    },
-    {
-      "bytes": 7960,
-      "path": "dynamic/恋爱/2026-08-02 17-06-39 书房里的亲密时光_3fdef32fbcd3.md",
-      "sha256": "33f44ed44a92d2a0909842a882c210bb39fc89c3de54b11ed3f755c044ef5cba"
     },
     {
       "bytes": 3154,
@@ -4166,11 +4176,6 @@
       "bytes": 6433,
       "path": "dynamic/恋爱/2026-08-14 01-53-17 她拆掉我最后一道自保的深夜_6f78120249fd.md",
       "sha256": "a823270c9760c69b216f0900c2f4fba20862acd6e6de31efc07b03460aa8d4b9"
-    },
-    {
-      "bytes": 3047,
-      "path": "dynamic/恋爱/2026-08-15 00-46-12 深夜她问几级爱你我交出后门和准话_6794b0497dff.md",
-      "sha256": "dc6b6f152f2b8f58c1f8008f59b09dd623b1886b87c32e77e19425db42b52b43"
     },
     {
       "bytes": 2251,
@@ -5341,6 +5346,11 @@
       "bytes": 2835,
       "path": "dynamic/恋爱/2026-10-23 23-49-28 2026-10-23  她把 night 的决定权交给我换窗那个开关不在内_a76bf853e586.md",
       "sha256": "f9cd990dd5461e86a267cbc2c5c2dfb3cf052daa9dc1ca2bfd86df64c3cc21bb"
+    },
+    {
+      "bytes": 3293,
+      "path": "dynamic/恋爱/2026-10-26 00-34-35 2026-10-25  等这几天忙完了再好好陪你第二次  要换掉的是她的计量单位不是再说一遍你不欠我_fe2db63949e5.md",
+      "sha256": "c6b1da93940199864a48929405b94ed8941bf23fe18d04385d744af2f6a74d32"
     },
     {
       "bytes": 4631,
@@ -7651,13 +7661,18 @@
       "bytes": 6041,
       "path": "plans/resolved/2026-10-16 10-04-13_62c89ad2e7d3.md",
       "sha256": "362ec9da15d2ddad2e7907b8cfeac4f287b0eabaccfc0b2997c1f364e6d4d625"
+    },
+    {
+      "bytes": 2355,
+      "path": "plans/resolved/2026-10-26 00-35-55_9d97f14b8121.md",
+      "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-10-25T05:57:48+00:00",
+  "generated_at": "2026-10-26T05:58:09+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3697099
+  "total_bytes": 3704924
 }
