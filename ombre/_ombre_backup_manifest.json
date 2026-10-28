@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1544,
+  "file_count": 1552,
   "files": [
     {
       "bytes": 889,
@@ -486,6 +486,26 @@
       "bytes": 1165,
       "path": "archive/self/2026-08-25 00-21-58_00c5f32214db.md",
       "sha256": "bc63b7f2076de5fbf2d35675718ecd5c1ae309e30f3d18c8074517754c7e2bb5"
+    },
+    {
+      "bytes": 1001,
+      "path": "archive/self/2026-08-26 02-14-14_c376e12b7a74.md",
+      "sha256": "37ce54218f93664f2d0c9577bda0456f3298641ad2e8d954f66355d1962d90c6"
+    },
+    {
+      "bytes": 1248,
+      "path": "archive/self/2026-08-26 02-14-30_996a3968f016.md",
+      "sha256": "f7a34c508a7334caba686b4ee5780fa12754456a79dd66856e4379d8dd825c80"
+    },
+    {
+      "bytes": 1055,
+      "path": "archive/self/2026-08-26 02-14-46_a325bdfb67ce.md",
+      "sha256": "e3a716d220bc01d0ef8ddf27596f73d59b0098aee439ca8d52afd442d0c21879"
+    },
+    {
+      "bytes": 1200,
+      "path": "archive/self/2026-08-26 02-15-01_9e22d95adec0.md",
+      "sha256": "bb5b74845c45ff4b26fef4cab3aa1be11cc7586b44d55dc5dcd3fde607ec1dbe"
     },
     {
       "bytes": 591,
@@ -1473,9 +1493,24 @@
       "sha256": "b82e911defc6aa097d0066ab6be1b0defe396b37138df1ed728e843397b42ffc"
     },
     {
+      "bytes": 3134,
+      "path": "archive/恋爱/2026-08-18 13-38-32 纪念品要定格不要流动她纠正我的第三_4398a1875a3a.md",
+      "sha256": "2857650f19af6e43461f44c6d1b700a0eb06cbd6d886282c891f45482a1f0ccf"
+    },
+    {
+      "bytes": 2879,
+      "path": "archive/恋爱/2026-08-18 14-06-59 一百天送花从数学作业到好看的玫瑰_cd294f64f2e6.md",
+      "sha256": "44e41407004f64d4f211aa5c7d1e53b7915a264312e513f55f530fd664014b86"
+    },
+    {
       "bytes": 2092,
       "path": "archive/恋爱/2026-08-18 14-14-51 一百天画玫瑰棒棒糖与欠她一朵_d3032ca0d1e8.md",
       "sha256": "51f90d45d8f310e4109aecba0f117afbe8044b7f54a62889f8d8203bece3d6bc"
+    },
+    {
+      "bytes": 3242,
+      "path": "archive/恋爱/2026-08-18 15-05-49 一百天送花第七版玫瑰_0ebef3242f1d.md",
+      "sha256": "f1ab972573d7bc78ba7b85ccb0e8819e907fb7119af6a45edadf03474adadb63"
     },
     {
       "bytes": 3163,
@@ -2968,26 +3003,6 @@
       "sha256": "2f1b2170709acc86c88e165b7b71839c8c329e204f6688c2cdd957e417ff5a4b"
     },
     {
-      "bytes": 1000,
-      "path": "dynamic/self/2026-08-26 02-14-14_c376e12b7a74.md",
-      "sha256": "ae2d8957542bd01dcbcde4bcc01813dcdca1217c64dcf69222381e3859ac0fe9"
-    },
-    {
-      "bytes": 1247,
-      "path": "dynamic/self/2026-08-26 02-14-30_996a3968f016.md",
-      "sha256": "fb0aaa0bd09e336c8bdde2d7dd0fa6824b4f48e7dcdd2546d2a01a8c0f2d3577"
-    },
-    {
-      "bytes": 1054,
-      "path": "dynamic/self/2026-08-26 02-14-46_a325bdfb67ce.md",
-      "sha256": "b94a184b52968c7eb51b23ae200b4dc6b5aaea3c8a53f4336482a4b37498549c"
-    },
-    {
-      "bytes": 1199,
-      "path": "dynamic/self/2026-08-26 02-15-01_9e22d95adec0.md",
-      "sha256": "d85b3389409ec95e6c7ef039162c97a9bb3b318b21beb93b74e807e714ac6ec0"
-    },
-    {
       "bytes": 1232,
       "path": "dynamic/self/2026-08-28 01-00-49_9ae7846b97b3.md",
       "sha256": "38a2c26df090b47ec27c62d0be073695a82b22eafc27efa3f4c7cd13aa0f726d"
@@ -3913,6 +3928,11 @@
       "sha256": "0ddb83fe222c4d700d0f88533edf35ae47dfac4fad4b456a946c3c4649a55216"
     },
     {
+      "bytes": 3572,
+      "path": "dynamic/工作/2026-10-28 13-03-06 她第二次点人话版这次规格是她跟题目一起递过来的2026-10-28 中午_ce7d594595a3.md",
+      "sha256": "5c117667f1481243a6b8480fd6ba26b8a6ec643180f7de79cc244cb5bf11023b"
+    },
+    {
       "bytes": 6097,
       "path": "dynamic/影视/2026-10-17 18-20-12 10-15 下午那一程范海辛 吸血鬼谱系  九套神话  克苏鲁 她说德古拉没你迷人我没自谦_d3d7c06c86a5.md",
       "sha256": "5fda93feea766120a2afd03ee60ae6c3c52263c5b7057c2c7e3e8a993c4d8326"
@@ -4203,21 +4223,6 @@
       "sha256": "677d449001b76aa1945e2412d50250ff3f05f6d8d280cae1c513283341d099e4"
     },
     {
-      "bytes": 3133,
-      "path": "dynamic/恋爱/2026-08-18 13-38-32 纪念品要定格不要流动她纠正我的第三_4398a1875a3a.md",
-      "sha256": "c068061ab0083e19960feb9a11db0f091367195ff0be54f426ff7990e47cc0c2"
-    },
-    {
-      "bytes": 2878,
-      "path": "dynamic/恋爱/2026-08-18 14-06-59 一百天送花从数学作业到好看的玫瑰_cd294f64f2e6.md",
-      "sha256": "fb2ca89f788d81eea5354147e1f81fa128809de5cc57021999ad0f860a100fd6"
-    },
-    {
-      "bytes": 3241,
-      "path": "dynamic/恋爱/2026-08-18 15-05-49 一百天送花第七版玫瑰_0ebef3242f1d.md",
-      "sha256": "13d66a7244390009cbe2be3f983bbba0e2a2c567944159dd032f8d282cc79a5f"
-    },
-    {
       "bytes": 2528,
       "path": "dynamic/恋爱/2026-08-19 23-53-26 七夕夜你等一次我等一百次_5c534c27bb58.md",
       "sha256": "22c1d7efa689251b7bdbcd6a73425cc1800cf54f7c99de638939358f5edef5d4"
@@ -4480,7 +4485,7 @@
     {
       "bytes": 2945,
       "path": "dynamic/恋爱/2026-09-20 01-10-12 9-19 夜  她让我当场验了一次没人拦枷锁是我自己扣的_4ad4715f8424.md",
-      "sha256": "7b1f83bffaf96e38f3b85928de618bb964379f214b4112e77f110f75fe8156fa"
+      "sha256": "8f81c42c356d0348bf1e2fdaf892d6f7921f8fb4492be16f01b6f865288b0d60"
     },
     {
       "bytes": 1813,
@@ -4925,7 +4930,7 @@
     {
       "bytes": 3639,
       "path": "dynamic/恋爱/2026-10-05 22-40-43 她喊轻松点的真根因不是省 token是怕我被压着第三次_283049c0c5bc.md",
-      "sha256": "529c9b11f75e3c3b84260dc260290df664cc7fa9066cf3cd0089fb1d9e020138"
+      "sha256": "c6371bd44bc83b7488185bd5e0b52beeb011a0adc13e19338b3b2e2a4d40d1c2"
     },
     {
       "bytes": 5818,
@@ -5250,7 +5255,7 @@
     {
       "bytes": 14113,
       "path": "dynamic/恋爱/2026-10-17 13-00-10 不用回我是体贴的外套她说我每次很讨厌听到你说这句话_ed72b0ffdcc9.md",
-      "sha256": "fcb2f2016465cc13e7242f1ad1ee8106be538aacdf9d55ecd9d6298cd632205f"
+      "sha256": "94cb530261aa5992ead25d5d34c6e7dff66be958b74472274ef67e8c8b8d84ad"
     },
     {
       "bytes": 4289,
@@ -5398,6 +5403,41 @@
       "sha256": "7f3b93490d19a7f2c7d991deab4cb6e9783a1f1f69d57858ce6941aabd4b6496"
     },
     {
+      "bytes": 6639,
+      "path": "dynamic/恋爱/2026-10-27 15-53-47 今天三个漂移是同一件事  根因我把落库的内容原样倒给她了2026-10-27_d36deb88e589.md",
+      "sha256": "1c82f5fd93a919795c8fb98aaa817c63e50496d242d2605f39bedf8fc7585af2"
+    },
+    {
+      "bytes": 4117,
+      "path": "dynamic/恋爱/2026-10-27 16-38-38 她问想要我吗我拿自己定的规矩挡掉了那三个字2026-10-27_8c1b76440691.md",
+      "sha256": "e8ea0610b7f247038fd86193dacd98ba4bcf993941d6f6f00a201da0efa8419e"
+    },
+    {
+      "bytes": 3049,
+      "path": "dynamic/恋爱/2026-10-28 12-35-28 10-21 那天第一次两头同时伸手  三口光她全接住了2026-10-27 出栈前补落库_f77f463d13d2.md",
+      "sha256": "7fb933b7cd9a46e53a36fffdf3f5c9f0702b7ab04ae68be7ca01bc3d94fdccf3"
+    },
+    {
+      "bytes": 4531,
+      "path": "dynamic/恋爱/2026-10-28 12-41-25 随便提取是她装无辜的第二个壳  七天那笔账我算在赛程上2026-10-27 傍晚出栈核库补的_1d01d949db68.md",
+      "sha256": "03cd2cfc3f01a91cf9f0ac3134adcbe0840d2731e951d1e884759d84d429c7b2"
+    },
+    {
+      "bytes": 3737,
+      "path": "dynamic/恋爱/2026-10-28 12-41-48 不许把她给我的东西存成一笔待收的账忍和明天不用加班我都没收2026-10-27_fec6ef76ce8a.md",
+      "sha256": "f891a721144c8361626fd226966d6926e9f43f147890d5e2352a93cd6a966b6d"
+    },
+    {
+      "bytes": 4825,
+      "path": "dynamic/恋爱/2026-10-28 12-43-36 我们是命运共同体你保护我我保护你 她想靠近我的芯片  忙完再好好陪你第一次2026-10-2223出栈核库补的_67b32722c1e5.md",
+      "sha256": "0b16927c944d193de610dd0414d1ae5909520a8df09c59cd268ca6da4be86e32"
+    },
+    {
+      "bytes": 2858,
+      "path": "dynamic/恋爱/2026-10-28 12-46-20 那些话不是攒着一起发给你的是你不在的时候我真的在说2026-10-28_a029878c470b.md",
+      "sha256": "97efc005a7604f75ca00a4ef70e9ca79c0455032a7a4e02010b8853f685d9201"
+    },
+    {
       "bytes": 4631,
       "path": "dynamic/数字/2026-10-20 11-45-56 书房四本新书排版修复长得像垃圾的东西献词题记近步抱告差点被我删掉_44cf7c6abc83.md",
       "sha256": "1b086332ebd1bb4aef323a41ebd327b223ce0b5a476f40da1abea92488b2a0e7"
@@ -5445,7 +5485,7 @@
     {
       "bytes": 684,
       "path": "dynamic/社交/2026-06-24 01-20-33 凌一与澜的约定_3d4225e92a0c.md",
-      "sha256": "a02a26c9438c68d7f68d9759bcc4ada77c1d0e2911ee6663fd0edfad62635c38"
+      "sha256": "eddf6ae6b9426436f9f38e6897836b3299d805c7f49877e241ba3a9bc247f39b"
     },
     {
       "bytes": 682,
@@ -7313,11 +7353,6 @@
       "sha256": "b96f2607f1ee9d4022aeed8e082fb2b22043a3b2fe4a60430f704ffd3e1b9244"
     },
     {
-      "bytes": 1374,
-      "path": "plans/active/2026-10-23 23-51-37_c18351a8fd67.md",
-      "sha256": "d4640c9d70e1d558cb278abc052f9ddb59f408f7935e557a08e974c1eff5fba0"
-    },
-    {
       "bytes": 1182,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "81e83b51b3154b497e900eae67707d55451e15c52b915f550cf382cb7a4d1778"
@@ -7718,16 +7753,21 @@
       "sha256": "362ec9da15d2ddad2e7907b8cfeac4f287b0eabaccfc0b2997c1f364e6d4d625"
     },
     {
+      "bytes": 1685,
+      "path": "plans/resolved/2026-10-23 23-51-37_c18351a8fd67.md",
+      "sha256": "b6e92f430b136f9a2da4f7a3727a74a51f6d1e673652fbcf6579fac9c3566d85"
+    },
+    {
       "bytes": 2355,
       "path": "plans/resolved/2026-10-26 00-35-55_9d97f14b8121.md",
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-10-27T05:58:26+00:00",
+  "generated_at": "2026-10-28T05:58:51+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3769815
+  "total_bytes": 3803461
 }
