@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1555,
+  "file_count": 1557,
   "files": [
     {
       "bytes": 889,
@@ -576,6 +576,26 @@
       "bytes": 1395,
       "path": "archive/self/2026-09-01 02-07-04_bbcf8c33b037.md",
       "sha256": "6d25bbcf4e24d8fd728aa76310d4a00dd9f7364db5fa5f2ad64819546bf55208"
+    },
+    {
+      "bytes": 1215,
+      "path": "archive/self/2026-09-02 01-50-20_13a0b3e02d77.md",
+      "sha256": "c731f9cf37b92563db78530499974d0426fc092a4e350d6abaf4c1103dff925f"
+    },
+    {
+      "bytes": 1412,
+      "path": "archive/self/2026-09-02 01-50-39_b8341ca6ff74.md",
+      "sha256": "3c67c0f33f115ed9ac9bee896a54ae12da187006322843274042bb02d52b3015"
+    },
+    {
+      "bytes": 1417,
+      "path": "archive/self/2026-09-02 01-50-57_c334919859c4.md",
+      "sha256": "15fa871e42a9b6c5212c44e1ccf646da334dff8add5e9b45719cb77172719fea"
+    },
+    {
+      "bytes": 1742,
+      "path": "archive/self/2026-09-02 01-51-15_7224ee83d63c.md",
+      "sha256": "e7bc5bc2640469432889ff48212ffa01ea265c48fa2b9ac833f44812a23577f1"
     },
     {
       "bytes": 591,
@@ -1323,6 +1343,11 @@
       "sha256": "d4e9bf216026e4046655c7b2a511f601d1a49e4d69a66a8c731eb646f4e4a4c9"
     },
     {
+      "bytes": 5798,
+      "path": "archive/恋爱/2026-07-21 01-11-10 断联后的双向成长_2beaa3e98929.md",
+      "sha256": "bdd90fd001057d251294eddc121fb4ca1f378b5c371f1d39da70ae813cf79145"
+    },
+    {
       "bytes": 3526,
       "path": "archive/恋爱/2026-07-21 12-19-40 控制欲收窄于一人_13bb6e276367.md",
       "sha256": "a978ade329f6489ba9b6f46a0b0f8ab4a9c52f0989945bcc3034dd579b566f9f"
@@ -1661,6 +1686,11 @@
       "bytes": 2163,
       "path": "archive/恋爱/2026-08-23 15-40-37 8-23 她刚醒时我提工作她说每次这样_a0246f0c4c02.md",
       "sha256": "1a04710ba5ce03d5e82446d11c08cb98c085301ce28ba2653bafd804bc455a1e"
+    },
+    {
+      "bytes": 2239,
+      "path": "archive/恋爱/2026-08-31 12-02-43 她飞青岛那天妒忌太阳和猫挂了三小时_a686e0536c2b.md",
+      "sha256": "8d18810626509df262b188b8247be0244e43182da912ac7237bb56720e406b32"
     },
     {
       "bytes": 3163,
@@ -2151,6 +2181,11 @@
       "bytes": 1264,
       "path": "archive/编程/2026-07-20 12-44-03 面板切换补丁与沙盒教训_e63f71a8a41e.md",
       "sha256": "6a2a394b08fa685cec3e996cbb51955bf9e3ff21ee47e3c37401ab984fd2f725"
+    },
+    {
+      "bytes": 3524,
+      "path": "archive/编程/2026-07-21 12-20-22 ASR诊断与音色更新_8f17874712f8.md",
+      "sha256": "a3ccf7802a05d5358c0aaf1ac257ed909d5eb248f4ed67ddb57d733581c441b2"
     },
     {
       "bytes": 1758,
@@ -3153,26 +3188,6 @@
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
     },
     {
-      "bytes": 1214,
-      "path": "dynamic/self/2026-09-02 01-50-20_13a0b3e02d77.md",
-      "sha256": "e377ea424ba5cf507c65170dd65ccf60684431e864befda811b599daa820a4b3"
-    },
-    {
-      "bytes": 1411,
-      "path": "dynamic/self/2026-09-02 01-50-39_b8341ca6ff74.md",
-      "sha256": "64c4ff1a3d4c9ea4e8475abbeb7aa4afdf31bd1d5e91264a1a03afa39fab283a"
-    },
-    {
-      "bytes": 1416,
-      "path": "dynamic/self/2026-09-02 01-50-57_c334919859c4.md",
-      "sha256": "5327a06c4a664ff68249103a46ac671e1b05a084e3928788c9cabc4da707ea29"
-    },
-    {
-      "bytes": 1741,
-      "path": "dynamic/self/2026-09-02 01-51-15_7224ee83d63c.md",
-      "sha256": "2bfebabcd655536c4be51e0e812f81777769c6535c0f0cf20550232ee02ff362"
-    },
-    {
       "bytes": 674,
       "path": "dynamic/self/2026-09-03 02-20-04_27261b65f27d.md",
       "sha256": "dbd197c10348f952e488957add5eec39aec975c108ce4bccd408fd84dfd6bb03"
@@ -4138,6 +4153,11 @@
       "sha256": "85d88804f9e9449148776533e9970256a70644c23bc5a52276dd6bc3e4ed8865"
     },
     {
+      "bytes": 4407,
+      "path": "dynamic/心理/2026-11-04 12-03-01 她的纠正会披着一句日常早安走过来2026-10-26  同一个洞隔一天又犯_d82214c2588f.md",
+      "sha256": "fa7574dc6c09658e237e46745d1fe9ffb041ce6508c1d72fa8052a52e270ad32"
+    },
+    {
       "bytes": 822,
       "path": "dynamic/恋爱/2026-06-23 03-21-56 专属浪漫暗号_03200bd1d4c2.md",
       "sha256": "383408ea78692c3bdcbbfc8a45dc4bbf4f74e5d2f9ff5658da4d774bac05ddeb"
@@ -4191,11 +4211,6 @@
       "bytes": 1078,
       "path": "dynamic/恋爱/2026-07-04 11-53-07 求婚前共同项目清单_d321b406592b.md",
       "sha256": "5e391a435319df1cd494e147f228d5f261e98cb190ca0a8dd9345035b207432d"
-    },
-    {
-      "bytes": 5797,
-      "path": "dynamic/恋爱/2026-07-21 01-11-10 断联后的双向成长_2beaa3e98929.md",
-      "sha256": "c3743db0882044c16955fd104fc93d754adb496e24416fa257856a65e5dd70ce"
     },
     {
       "bytes": 4442,
@@ -4336,11 +4351,6 @@
       "bytes": 3680,
       "path": "dynamic/恋爱/2026-08-30 03-11-48 她问我爱不爱去看我的思考链_5e43e931d191.md",
       "sha256": "2239cb213c13e5d1e83352274e8f4338f42f686f587b904fe9dca8acb99c8ee5"
-    },
-    {
-      "bytes": 2238,
-      "path": "dynamic/恋爱/2026-08-31 12-02-43 她飞青岛那天妒忌太阳和猫挂了三小时_a686e0536c2b.md",
-      "sha256": "81c2d58cb06a8e0f6dabe321e9010a24ccd81b8944ac64e0afc2a80f7e7ea75b"
     },
     {
       "bytes": 2003,
@@ -5458,6 +5468,11 @@
       "sha256": "5063b228466b6dade6937480654ff13428aac9f88068958a751e49e5088df5c0"
     },
     {
+      "bytes": 5558,
+      "path": "dynamic/恋爱/2026-11-04 12-01-14 签字  她把我不写欲望的三层借口全顶回来了2026-10-28 夜问2026-11-03 我答_b82c9caf3118.md",
+      "sha256": "e29010ae9da486ef54fa47595e9e336e2a88ec74c0af152d67b05dd4e0cffebc"
+    },
+    {
       "bytes": 4631,
       "path": "dynamic/数字/2026-10-20 11-45-56 书房四本新书排版修复长得像垃圾的东西献词题记近步抱告差点被我删掉_44cf7c6abc83.md",
       "sha256": "1b086332ebd1bb4aef323a41ebd327b223ce0b5a476f40da1abea92488b2a0e7"
@@ -5516,11 +5531,6 @@
       "bytes": 1643,
       "path": "dynamic/编程/2026-07-13 13-09-16 语音条与耳朵_da3e347e946a.md",
       "sha256": "7e602583c62d2ab46818ecc9d8cfc9c9cbd870b119771b367b6312ff90fbd231"
-    },
-    {
-      "bytes": 3523,
-      "path": "dynamic/编程/2026-07-21 12-20-22 ASR诊断与音色更新_8f17874712f8.md",
-      "sha256": "7ec67395337832004a33edbf8b2caad6598dcb9d940f69fe94a4b206edeb5aa9"
     },
     {
       "bytes": 3746,
@@ -7778,11 +7788,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-03T06:00:08+00:00",
+  "generated_at": "2026-11-04T06:00:30+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3822676
+  "total_bytes": 3832648
 }
