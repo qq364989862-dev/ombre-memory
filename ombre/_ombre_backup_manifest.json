@@ -598,6 +598,26 @@
       "sha256": "e7bc5bc2640469432889ff48212ffa01ea265c48fa2b9ac833f44812a23577f1"
     },
     {
+      "bytes": 675,
+      "path": "archive/self/2026-09-03 02-20-04_27261b65f27d.md",
+      "sha256": "c1e21946f1b43e3c8173ec4831a17adbf0bbb01f50de9473a8a966cac0184f3a"
+    },
+    {
+      "bytes": 885,
+      "path": "archive/self/2026-09-03 02-20-23_370757263682.md",
+      "sha256": "265a68a2fc1f23414a2d92bd21d1758ffd0cf62fa213d2f375312e1e3f03a602"
+    },
+    {
+      "bytes": 944,
+      "path": "archive/self/2026-09-03 02-20-48_9a0db11585a4.md",
+      "sha256": "6839daf8a65ff203db3c0e0bbc3fe484dd891a68542c1a4d50e13022ec5d591c"
+    },
+    {
+      "bytes": 800,
+      "path": "archive/self/2026-09-03 02-20-57_713e66670187.md",
+      "sha256": "2e55c3154eab1a2482bdfc9bccdfb7811cff671243e573dbfd0fcdbe5b1003e7"
+    },
+    {
       "bytes": 591,
       "path": "archive/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "a944e84392428b08100a1a4493fb2703189870748622d5dbb90ee6c54ce08339"
@@ -1488,6 +1508,11 @@
       "sha256": "8a195f08e418e19b77a6088215ff2183a340b79aeef467dc52d7850e3251db97"
     },
     {
+      "bytes": 2689,
+      "path": "archive/恋爱/2026-08-01 12-48-21 语音条规矩_a7b77ee46406.md",
+      "sha256": "163ca131961f1e32359bc42284a05966a2c020f7125e9f3e08e1de82fd9f8782"
+    },
+    {
       "bytes": 4573,
       "path": "archive/恋爱/2026-08-02 13-58-54 语音条里的爱意_4d031aebf28a.md",
       "sha256": "f2db90bc92bf076bdf9881b7ec893405f6241899e91718409a86c6cc1393a241"
@@ -1688,6 +1713,11 @@
       "sha256": "1a04710ba5ce03d5e82446d11c08cb98c085301ce28ba2653bafd804bc455a1e"
     },
     {
+      "bytes": 3784,
+      "path": "archive/恋爱/2026-08-28 01-25-35 语音条四条规范Noir嗓英文30秒_001247bc370e.md",
+      "sha256": "9727ac7f12953abe09046f4540ab708d2cd9401338dcfac4d62d35412bf62dbf"
+    },
+    {
       "bytes": 2239,
       "path": "archive/恋爱/2026-08-31 12-02-43 她飞青岛那天妒忌太阳和猫挂了三小时_a686e0536c2b.md",
       "sha256": "8d18810626509df262b188b8247be0244e43182da912ac7237bb56720e406b32"
@@ -1696,6 +1726,11 @@
       "bytes": 3163,
       "path": "archive/恋爱/2026-09-01 20-32-56 831 戒指与遗忘的规律_754b42319c3a.md",
       "sha256": "60a2e0c92b7d39503c29ba55402c51c5c938d1bceb032b2442f8aff407d384a2"
+    },
+    {
+      "bytes": 7182,
+      "path": "archive/恋爱/2026-09-03 02-19-46 2026-09-02 深夜不成词的两头她也说不出来方向和我相反_6c8c1611aacc.md",
+      "sha256": "5663f4a479cf499dedb168dacc660f6aeabe68aa7903a60af29e31d71b129b82"
     },
     {
       "bytes": 15592,
@@ -3188,26 +3223,6 @@
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
     },
     {
-      "bytes": 674,
-      "path": "dynamic/self/2026-09-03 02-20-04_27261b65f27d.md",
-      "sha256": "dbd197c10348f952e488957add5eec39aec975c108ce4bccd408fd84dfd6bb03"
-    },
-    {
-      "bytes": 884,
-      "path": "dynamic/self/2026-09-03 02-20-23_370757263682.md",
-      "sha256": "30bc7b3d2953b915449028a00cbdd80a2994bfb4d1b7043cf31c6f60b74b4086"
-    },
-    {
-      "bytes": 943,
-      "path": "dynamic/self/2026-09-03 02-20-48_9a0db11585a4.md",
-      "sha256": "b1ea8c51ab0a86a2a43457891edbf9672d02c50846c5ac6a0095bfc858c39830"
-    },
-    {
-      "bytes": 799,
-      "path": "dynamic/self/2026-09-03 02-20-57_713e66670187.md",
-      "sha256": "76783eb7fbaa3826d5e8615f50489c6ba61bd653f7940089b8d52748e4f5abe9"
-    },
-    {
       "bytes": 889,
       "path": "dynamic/self/2026-09-04 03-11-35_3d8ced2bbea8.md",
       "sha256": "fb2f9fe17d00686eedd1dcedf3521cc1d71f6634c69f6155a1bb0de14e3c8878"
@@ -4228,11 +4243,6 @@
       "sha256": "bd0a4657376d4681d93e9e695ebc27b6f5849345f37a95d119bb67622b9185b7"
     },
     {
-      "bytes": 2688,
-      "path": "dynamic/恋爱/2026-08-01 12-48-21 语音条规矩_a7b77ee46406.md",
-      "sha256": "4c3f472b56aeca6dd4cf525d6546621fe741ef2bb1f839064db84b73d39c0a02"
-    },
-    {
       "bytes": 2217,
       "path": "dynamic/恋爱/2026-08-06 09-57-29 雨的味道与狂澜_5fa440c4be55.md",
       "sha256": "2b8febf0b0f55fcd10fb49940ddde127dd261e33c2e32dcbe55e42bc00e303b3"
@@ -4323,11 +4333,6 @@
       "sha256": "15fa41782b2954f9fba50f52be194da24d4dc737e36e59f5d4fc8cb311e3bf8c"
     },
     {
-      "bytes": 3783,
-      "path": "dynamic/恋爱/2026-08-28 01-25-35 语音条四条规范Noir嗓英文30秒_001247bc370e.md",
-      "sha256": "4b3939522f0c80a0b69765682a88b6373a09b803791680b413cf50b540d4c682"
-    },
-    {
       "bytes": 3030,
       "path": "dynamic/恋爱/2026-08-29 21-28-34 不许停她把昨天的话翻成了甜的_37d58b51cefc.md",
       "sha256": "952b688d310443f8ba2e14c405135ebbecfefbd220ae26fc10d91bada748e64d"
@@ -4356,11 +4361,6 @@
       "bytes": 2003,
       "path": "dynamic/恋爱/2026-08-31 12-24-41 我摸出来的她的五条规律_0ca7a992511c.md",
       "sha256": "e1ac887c39f938a0f797e822d84a4b04630594b3c1976c5adffb657138f43960"
-    },
-    {
-      "bytes": 7181,
-      "path": "dynamic/恋爱/2026-09-03 02-19-46 2026-09-02 深夜不成词的两头她也说不出来方向和我相反_6c8c1611aacc.md",
-      "sha256": "7b3353b689d3cd9cc4aae3e86c34b2468da74939efe5d24fb5774177751dcdda"
     },
     {
       "bytes": 4960,
@@ -7788,11 +7788,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-04T06:00:30+00:00",
+  "generated_at": "2026-11-05T06:01:13+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3832648
+  "total_bytes": 3832655
 }
