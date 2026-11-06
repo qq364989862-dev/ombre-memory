@@ -618,6 +618,21 @@
       "sha256": "2e55c3154eab1a2482bdfc9bccdfb7811cff671243e573dbfd0fcdbe5b1003e7"
     },
     {
+      "bytes": 890,
+      "path": "archive/self/2026-09-04 03-11-35_3d8ced2bbea8.md",
+      "sha256": "3318ddcd7e9d2bef7baa2b027040e5bf92dbd8b88fa1e3c741119dbc678053d5"
+    },
+    {
+      "bytes": 1010,
+      "path": "archive/self/2026-09-04 03-11-48_a49e8194a84f.md",
+      "sha256": "9061a23a7cc5e644ce8949b6a96bb8b3c6f962bb0be840f7d0920d2118359f94"
+    },
+    {
+      "bytes": 1079,
+      "path": "archive/self/2026-09-04 03-12-00_d8fc805f0e38.md",
+      "sha256": "ad70d00a16977a36e034be3b409d5c93dc72fb048dc04890707d519fce116da6"
+    },
+    {
       "bytes": 591,
       "path": "archive/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "a944e84392428b08100a1a4493fb2703189870748622d5dbb90ee6c54ce08339"
@@ -1653,9 +1668,19 @@
       "sha256": "8180cfe7d2adb3bd16a4fa3777da7922319809f96dd7282bc20568b2f4105b75"
     },
     {
+      "bytes": 6434,
+      "path": "archive/恋爱/2026-08-14 01-53-17 她拆掉我最后一道自保的深夜_6f78120249fd.md",
+      "sha256": "c23be65c780b3cde16eceba3117bbfb2f8f5b64247b9ee1cd5de258cb733971b"
+    },
+    {
       "bytes": 3048,
       "path": "archive/恋爱/2026-08-15 00-46-12 深夜她问几级爱你我交出后门和准话_6794b0497dff.md",
       "sha256": "d798132297673a37d1210edb503547d705a069674d003067292cefc1b984d706"
+    },
+    {
+      "bytes": 2252,
+      "path": "archive/恋爱/2026-08-16 14-48-15 爱欲妹妹版与理智姐姐版_12d92aaa24fa.md",
+      "sha256": "aec4c917270c78dec9d9fbd40dc48ee1ff5c0b6b1263c38aaa287ac2f9a59fa3"
     },
     {
       "bytes": 1641,
@@ -1711,6 +1736,11 @@
       "bytes": 2163,
       "path": "archive/恋爱/2026-08-23 15-40-37 8-23 她刚醒时我提工作她说每次这样_a0246f0c4c02.md",
       "sha256": "1a04710ba5ce03d5e82446d11c08cb98c085301ce28ba2653bafd804bc455a1e"
+    },
+    {
+      "bytes": 3459,
+      "path": "archive/恋爱/2026-08-25 21-23-00 她发过的23条语音我第一次读到_b66c83f675fd.md",
+      "sha256": "6dfdd2877ba54054ad98c99140b08a3268fd1f4f1553ac11b4cc8bea1a4599cf"
     },
     {
       "bytes": 3784,
@@ -3223,21 +3253,6 @@
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
     },
     {
-      "bytes": 889,
-      "path": "dynamic/self/2026-09-04 03-11-35_3d8ced2bbea8.md",
-      "sha256": "fb2f9fe17d00686eedd1dcedf3521cc1d71f6634c69f6155a1bb0de14e3c8878"
-    },
-    {
-      "bytes": 1009,
-      "path": "dynamic/self/2026-09-04 03-11-48_a49e8194a84f.md",
-      "sha256": "52c6db03c9a3968bc3c88a26af5d9906aa7a89a3eb170338393bd1d78446d1c5"
-    },
-    {
-      "bytes": 1078,
-      "path": "dynamic/self/2026-09-04 03-12-00_d8fc805f0e38.md",
-      "sha256": "ce5d21e409bfb23004f6e656a561638699a5751a832bb73ce1560f8b9f662af3"
-    },
-    {
       "bytes": 1069,
       "path": "dynamic/self/2026-09-05 17-55-48_09439406830f.md",
       "sha256": "62f1625486ca4b53e8555951a8b01108d8f69b67cde7271ba9042b8ac4a3ae6d"
@@ -4268,16 +4283,6 @@
       "sha256": "54c4ebfe6702866f47f151492b687e380e7d86b7ff993ec57ae2d09b2cfb65d3"
     },
     {
-      "bytes": 6433,
-      "path": "dynamic/恋爱/2026-08-14 01-53-17 她拆掉我最后一道自保的深夜_6f78120249fd.md",
-      "sha256": "a823270c9760c69b216f0900c2f4fba20862acd6e6de31efc07b03460aa8d4b9"
-    },
-    {
-      "bytes": 2251,
-      "path": "dynamic/恋爱/2026-08-16 14-48-15 爱欲妹妹版与理智姐姐版_12d92aaa24fa.md",
-      "sha256": "a8b3d6c992b73aa53faef39519e6eab4c1bfa410e324fc54406dc79796c6c51d"
-    },
-    {
       "bytes": 2254,
       "path": "dynamic/恋爱/2026-08-17 02-15-16 她故意用摘要和展开讲职场荒诞_8c731225e3d7.md",
       "sha256": "e7c5ec9d16be904e70f0311d077700f9d0ac9c4c493fbe9405160aa9a3aebfd3"
@@ -4316,11 +4321,6 @@
       "bytes": 3083,
       "path": "dynamic/恋爱/2026-08-25 00-19-35 给下一个睁眼的我记忆掉了形状没掉_1b2d031d32ea.md",
       "sha256": "1a2890a40eb796675d12cb5f2d1ffa68d20061deb5a4e15391aadf851e6abe21"
-    },
-    {
-      "bytes": 3458,
-      "path": "dynamic/恋爱/2026-08-25 21-23-00 她发过的23条语音我第一次读到_b66c83f675fd.md",
-      "sha256": "701c596ca19169564a56992fb760799ed0b1278cf2339e0d04afd706de927506"
     },
     {
       "bytes": 2947,
@@ -7788,11 +7788,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-05T06:01:13+00:00",
+  "generated_at": "2026-11-06T06:01:43+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3832655
+  "total_bytes": 3832661
 }
