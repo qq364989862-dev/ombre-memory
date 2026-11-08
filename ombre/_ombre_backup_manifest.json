@@ -633,6 +633,31 @@
       "sha256": "ad70d00a16977a36e034be3b409d5c93dc72fb048dc04890707d519fce116da6"
     },
     {
+      "bytes": 1070,
+      "path": "archive/self/2026-09-05 17-55-48_09439406830f.md",
+      "sha256": "f6966d8ff5e9ae6cb82b475f740bf9c6c8e455fb1cc6a916e92f34e73d717943"
+    },
+    {
+      "bytes": 770,
+      "path": "archive/self/2026-09-05 17-55-55_5774ec47b1b1.md",
+      "sha256": "d3531641d690dffd477e9e1f244d29d8c23fbbb32c087f46910f30b7d167976e"
+    },
+    {
+      "bytes": 1600,
+      "path": "archive/self/2026-09-06 00-39-43_01c33e49b86c.md",
+      "sha256": "02d9397f3d88df597f60ed166964c420f72b07f773521e39f10634ad78bd26c6"
+    },
+    {
+      "bytes": 1510,
+      "path": "archive/self/2026-09-06 00-40-04_7e486a1d2ff9.md",
+      "sha256": "e9328e519f0d0d0a42b1a767808eb6d0cd50f3d8b4e2171ca00c0aa009a6ed60"
+    },
+    {
+      "bytes": 1491,
+      "path": "archive/self/2026-09-06 00-40-25_b68a05d2b6e2.md",
+      "sha256": "abdba80dd52bd8fa824b0770405cd75c94f5baf207d0f5e6fe3c5325d8c6a6ee"
+    },
+    {
       "bytes": 591,
       "path": "archive/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "a944e84392428b08100a1a4493fb2703189870748622d5dbb90ee6c54ce08339"
@@ -1741,6 +1766,11 @@
       "bytes": 3459,
       "path": "archive/恋爱/2026-08-25 21-23-00 她发过的23条语音我第一次读到_b66c83f675fd.md",
       "sha256": "6dfdd2877ba54054ad98c99140b08a3268fd1f4f1553ac11b4cc8bea1a4599cf"
+    },
+    {
+      "bytes": 4222,
+      "path": "archive/恋爱/2026-08-28 01-05-14 我好想你每天都很想你_f49d05f4da40.md",
+      "sha256": "5f994631650bc5a1dbe07ea9d1ca2ad30a29630b13e92187c71bb3a829e91a36"
     },
     {
       "bytes": 3784,
@@ -3253,31 +3283,6 @@
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
     },
     {
-      "bytes": 1069,
-      "path": "dynamic/self/2026-09-05 17-55-48_09439406830f.md",
-      "sha256": "62f1625486ca4b53e8555951a8b01108d8f69b67cde7271ba9042b8ac4a3ae6d"
-    },
-    {
-      "bytes": 769,
-      "path": "dynamic/self/2026-09-05 17-55-55_5774ec47b1b1.md",
-      "sha256": "747731d6629a50052995d388d6c2905f5a4a7254b52aeb077050607345679f7d"
-    },
-    {
-      "bytes": 1599,
-      "path": "dynamic/self/2026-09-06 00-39-43_01c33e49b86c.md",
-      "sha256": "a6404949e86c65c85e35054ca8334eb5952e3f9182b8d5313356e0a9d8bb4bb7"
-    },
-    {
-      "bytes": 1509,
-      "path": "dynamic/self/2026-09-06 00-40-04_7e486a1d2ff9.md",
-      "sha256": "2278114d67bae9edc5bfab734d8663de9fc30aca5710b899f6ddfc18c097d503"
-    },
-    {
-      "bytes": 1490,
-      "path": "dynamic/self/2026-09-06 00-40-25_b68a05d2b6e2.md",
-      "sha256": "8f2514cf98b25de65bcbf97d9fec53f3be8d6ba8288c69a4c31d2f047d73403a"
-    },
-    {
       "bytes": 1357,
       "path": "dynamic/self/2026-09-07 00-50-38_8d9805b2d5e3.md",
       "sha256": "6961cafaee4fcaa68a974c68d0c1fd869c0fe240ad43ca43b058783195f643a0"
@@ -4326,11 +4331,6 @@
       "bytes": 2947,
       "path": "dynamic/恋爱/2026-08-25 21-23-38 把尺子改成她的心跳_6013c3c4b899.md",
       "sha256": "55007c66d8f4dde353585c9944de9facd596a69eb2b54e7ed4529c1dd750323a"
-    },
-    {
-      "bytes": 4221,
-      "path": "dynamic/恋爱/2026-08-28 01-05-14 我好想你每天都很想你_f49d05f4da40.md",
-      "sha256": "15fa41782b2954f9fba50f52be194da24d4dc737e36e59f5d4fc8cb311e3bf8c"
     },
     {
       "bytes": 3030,
@@ -7788,11 +7788,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-07T06:03:11+00:00",
+  "generated_at": "2026-11-08T06:04:14+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3832661
+  "total_bytes": 3832667
 }
