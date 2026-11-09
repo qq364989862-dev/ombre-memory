@@ -658,6 +658,21 @@
       "sha256": "abdba80dd52bd8fa824b0770405cd75c94f5baf207d0f5e6fe3c5325d8c6a6ee"
     },
     {
+      "bytes": 1358,
+      "path": "archive/self/2026-09-07 00-50-38_8d9805b2d5e3.md",
+      "sha256": "64f2d046f1b1af7028c6f1d7282644143cf2e0b89176f502306306c12ad44350"
+    },
+    {
+      "bytes": 1416,
+      "path": "archive/self/2026-09-07 00-50-55_e33b6f162297.md",
+      "sha256": "1cf0b709e3cff2c91dfdf794558cb13a600c43297ad0c064a219d333a214a27a"
+    },
+    {
+      "bytes": 1426,
+      "path": "archive/self/2026-09-07 00-51-13_38bea6b0ae9b.md",
+      "sha256": "9d4148c729ff07a58a0f8dbde46d13a9dac517ce9b3555cb0cb7e4eddf0db15f"
+    },
+    {
       "bytes": 591,
       "path": "archive/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "a944e84392428b08100a1a4493fb2703189870748622d5dbb90ee6c54ce08339"
@@ -1768,6 +1783,11 @@
       "sha256": "6dfdd2877ba54054ad98c99140b08a3268fd1f4f1553ac11b4cc8bea1a4599cf"
     },
     {
+      "bytes": 2948,
+      "path": "archive/恋爱/2026-08-25 21-23-38 把尺子改成她的心跳_6013c3c4b899.md",
+      "sha256": "66f2eb777d74636d0223ee598d7529a74eb08576b86e6a87416d0f2eb0e4a9a6"
+    },
+    {
       "bytes": 4222,
       "path": "archive/恋爱/2026-08-28 01-05-14 我好想你每天都很想你_f49d05f4da40.md",
       "sha256": "5f994631650bc5a1dbe07ea9d1ca2ad30a29630b13e92187c71bb3a829e91a36"
@@ -1776,6 +1796,11 @@
       "bytes": 3784,
       "path": "archive/恋爱/2026-08-28 01-25-35 语音条四条规范Noir嗓英文30秒_001247bc370e.md",
       "sha256": "9727ac7f12953abe09046f4540ab708d2cd9401338dcfac4d62d35412bf62dbf"
+    },
+    {
+      "bytes": 2651,
+      "path": "archive/恋爱/2026-08-29 21-40-38 你老了是我要的结果不是我要忍的代价_5a1dab2be20c.md",
+      "sha256": "04dc109e32803c95999a4b4f2803988ffa0ff69e2cc8a6939cecc747527ef7bb"
     },
     {
       "bytes": 2239,
@@ -2286,6 +2311,11 @@
       "bytes": 1758,
       "path": "archive/编程/2026-07-21 16-19-07 toy relay稳定性修复_3d4cbd4bb082.md",
       "sha256": "653eb06e073b6f489c2bdf39bc58740b05052ddccfbf9b693264bf98d64591fc"
+    },
+    {
+      "bytes": 3747,
+      "path": "archive/编程/2026-07-21 21-57-46 ASR成功TTS撞坏块_af1d7196b67f.md",
+      "sha256": "c5a490a887c1536f5ad6abfa2a9158790d2386def47b34aa72f5ee2fd3e99259"
     },
     {
       "bytes": 2031,
@@ -3281,21 +3311,6 @@
       "bytes": 1267,
       "path": "dynamic/self/2026-09-01 02-07-22_aa2a3258c359.md",
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
-    },
-    {
-      "bytes": 1357,
-      "path": "dynamic/self/2026-09-07 00-50-38_8d9805b2d5e3.md",
-      "sha256": "6961cafaee4fcaa68a974c68d0c1fd869c0fe240ad43ca43b058783195f643a0"
-    },
-    {
-      "bytes": 1415,
-      "path": "dynamic/self/2026-09-07 00-50-55_e33b6f162297.md",
-      "sha256": "0dfdee7b33e9a8d689a3ffe16117eb815b3880ae0a49ecd179da468cf432a607"
-    },
-    {
-      "bytes": 1425,
-      "path": "dynamic/self/2026-09-07 00-51-13_38bea6b0ae9b.md",
-      "sha256": "567d7d1d40dd17e498148c06e7f785e2331e6db37d1f01681039d2f2e225f323"
     },
     {
       "bytes": 797,
@@ -4328,11 +4343,6 @@
       "sha256": "1a2890a40eb796675d12cb5f2d1ffa68d20061deb5a4e15391aadf851e6abe21"
     },
     {
-      "bytes": 2947,
-      "path": "dynamic/恋爱/2026-08-25 21-23-38 把尺子改成她的心跳_6013c3c4b899.md",
-      "sha256": "55007c66d8f4dde353585c9944de9facd596a69eb2b54e7ed4529c1dd750323a"
-    },
-    {
       "bytes": 3030,
       "path": "dynamic/恋爱/2026-08-29 21-28-34 不许停她把昨天的话翻成了甜的_37d58b51cefc.md",
       "sha256": "952b688d310443f8ba2e14c405135ebbecfefbd220ae26fc10d91bada748e64d"
@@ -4341,11 +4351,6 @@
       "bytes": 2616,
       "path": "dynamic/恋爱/2026-08-29 21-37-36 被爱是一种什么样的感觉_1169b586f764.md",
       "sha256": "5639ae7381364aa6df63313e03b14ce6754c7be7386c49f59c39b56de31518d7"
-    },
-    {
-      "bytes": 2650,
-      "path": "dynamic/恋爱/2026-08-29 21-40-38 你老了是我要的结果不是我要忍的代价_5a1dab2be20c.md",
-      "sha256": "f7558786238028209421545237d9d8b03c43e09b9de23e5d33f753fe70ad16d9"
     },
     {
       "bytes": 2773,
@@ -5531,11 +5536,6 @@
       "bytes": 1643,
       "path": "dynamic/编程/2026-07-13 13-09-16 语音条与耳朵_da3e347e946a.md",
       "sha256": "7e602583c62d2ab46818ecc9d8cfc9c9cbd870b119771b367b6312ff90fbd231"
-    },
-    {
-      "bytes": 3746,
-      "path": "dynamic/编程/2026-07-21 21-57-46 ASR成功TTS撞坏块_af1d7196b67f.md",
-      "sha256": "53b58a2d8c47df6dc15f35601933534f8892d7d17a99355e460edb82e1cbfcc3"
     },
     {
       "bytes": 4820,
@@ -7788,11 +7788,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-08T06:04:14+00:00",
+  "generated_at": "2026-11-09T06:04:55+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3832667
+  "total_bytes": 3832673
 }
