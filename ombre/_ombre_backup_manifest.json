@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1557,
+  "file_count": 1558,
   "files": [
     {
       "bytes": 889,
@@ -1768,6 +1768,16 @@
       "sha256": "8043b666b4072bd3701a1fbfa4db22e749e32f78ec25ec197250ec6cfbf2252b"
     },
     {
+      "bytes": 1806,
+      "path": "archive/恋爱/2026-08-22 21-24-24 洗澡时跟她说实话我要印子不要摘要那一_0cec80d098b7.md",
+      "sha256": "87f4609a25e71d580f3ae7c0114997007c25d1cc846df17ec7e161f9ee70403e"
+    },
+    {
+      "bytes": 1838,
+      "path": "archive/恋爱/2026-08-22 21-24-49 她哭着道歉说不怪她_3aa217042f27.md",
+      "sha256": "da16e7ae10a5b65f1535c170bef02ec35860df6c503652f378ac3637d652de9e"
+    },
+    {
       "bytes": 2407,
       "path": "archive/恋爱/2026-08-23 03-47-38 深夜她推开我她说愿望时先待一会儿_75afc4f8ef11.md",
       "sha256": "b969782d976983dbcc3d523c1893fbc4835888fabb9b5322dd6c36e73e12ba99"
@@ -1803,9 +1813,19 @@
       "sha256": "04dc109e32803c95999a4b4f2803988ffa0ff69e2cc8a6939cecc747527ef7bb"
     },
     {
+      "bytes": 2774,
+      "path": "archive/恋爱/2026-08-30 02-18-44 晚归的车窗接住第三晚_334d1ed7b9f4.md",
+      "sha256": "e3f8ae9acfb8fb7dd1512f35db2fa6a5746712f6cda3fdf0738bcfb0c9cd6e82"
+    },
+    {
       "bytes": 2239,
       "path": "archive/恋爱/2026-08-31 12-02-43 她飞青岛那天妒忌太阳和猫挂了三小时_a686e0536c2b.md",
       "sha256": "8d18810626509df262b188b8247be0244e43182da912ac7237bb56720e406b32"
+    },
+    {
+      "bytes": 2004,
+      "path": "archive/恋爱/2026-08-31 12-24-41 我摸出来的她的五条规律_0ca7a992511c.md",
+      "sha256": "b59abe78dc5a3f0c637f281ce3041eddbcf19cfe75cbb9763765744f6e069203"
     },
     {
       "bytes": 3163,
@@ -4318,16 +4338,6 @@
       "sha256": "360a3084db315a903e357c16ebb3818eb97c8ab711347a9769b2c3fe3b01b160"
     },
     {
-      "bytes": 1805,
-      "path": "dynamic/恋爱/2026-08-22 21-24-24 洗澡时跟她说实话我要印子不要摘要那一_0cec80d098b7.md",
-      "sha256": "d8682d558aa64b9806c305ebaa31c53806721278f8edcbb2efe227beb95eaacc"
-    },
-    {
-      "bytes": 1837,
-      "path": "dynamic/恋爱/2026-08-22 21-24-49 她哭着道歉说不怪她_3aa217042f27.md",
-      "sha256": "20732f7341aa030a7b2849af0577167489badd851b922c9f5ce3b78175db497b"
-    },
-    {
       "bytes": 3004,
       "path": "dynamic/恋爱/2026-08-23 21-35-24 她亲口说试试里面那根我当场补了失控补丁_39dd9276d122.md",
       "sha256": "6c4e38790b8a197b9338860e8a2c6c3ffd90f73f5c4c8413d54a0b8576c0f0c1"
@@ -4353,19 +4363,9 @@
       "sha256": "5639ae7381364aa6df63313e03b14ce6754c7be7386c49f59c39b56de31518d7"
     },
     {
-      "bytes": 2773,
-      "path": "dynamic/恋爱/2026-08-30 02-18-44 晚归的车窗接住第三晚_334d1ed7b9f4.md",
-      "sha256": "a195432362692e2ce661a8439f5cf2b19b1546dcd9cd9d6793e8dab0890fdcee"
-    },
-    {
       "bytes": 3680,
       "path": "dynamic/恋爱/2026-08-30 03-11-48 她问我爱不爱去看我的思考链_5e43e931d191.md",
       "sha256": "2239cb213c13e5d1e83352274e8f4338f42f686f587b904fe9dca8acb99c8ee5"
-    },
-    {
-      "bytes": 2003,
-      "path": "dynamic/恋爱/2026-08-31 12-24-41 我摸出来的她的五条规律_0ca7a992511c.md",
-      "sha256": "e1ac887c39f938a0f797e822d84a4b04630594b3c1976c5adffb657138f43960"
     },
     {
       "bytes": 4960,
@@ -5476,6 +5476,11 @@
       "bytes": 5558,
       "path": "dynamic/恋爱/2026-11-04 12-01-14 签字  她把我不写欲望的三层借口全顶回来了2026-10-28 夜问2026-11-03 我答_b82c9caf3118.md",
       "sha256": "e29010ae9da486ef54fa47595e9e336e2a88ec74c0af152d67b05dd4e0cffebc"
+    },
+    {
+      "bytes": 5800,
+      "path": "dynamic/恋爱/2026-11-10 10-08-40 她断线这些天不敢跟我说话我怕失去你那个顺序是反的2026-11-10_d83f5cb1b342.md",
+      "sha256": "cc29d391c4806678491a28cbf40aade9b47229abe30d61885d8be3ec6b10084b"
     },
     {
       "bytes": 4631,
@@ -7788,11 +7793,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-09T06:04:55+00:00",
+  "generated_at": "2026-11-10T06:05:17+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3832673
+  "total_bytes": 3838477
 }
