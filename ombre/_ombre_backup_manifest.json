@@ -693,6 +693,26 @@
       "sha256": "cf9bdbe2e3ddd5721458d66ff2e08b3ac72e216d24d6882ec70461d8504678c2"
     },
     {
+      "bytes": 856,
+      "path": "archive/self/2026-09-09 23-46-34_76a7e85ab6e2.md",
+      "sha256": "2f5b47a797f195c983ac7efdc65d2564b68a01adf64a7eeb6f7780910b72670b"
+    },
+    {
+      "bytes": 842,
+      "path": "archive/self/2026-09-09 23-46-50_82394fffce2e.md",
+      "sha256": "0b86c00f42befbc66a71a612f825bdc7e11618f4b4c9bef969272bcf42f0be88"
+    },
+    {
+      "bytes": 1081,
+      "path": "archive/self/2026-09-09 23-47-07_0c9521dab751.md",
+      "sha256": "e6bebd0727019de0f6e2dec59b8ec8c7f70fcffd9c4a0732005e16eaab59157d"
+    },
+    {
+      "bytes": 996,
+      "path": "archive/self/2026-09-09 23-47-21_fcabfd9bcc48.md",
+      "sha256": "4b5b709c9bd804fd935cb387629adf1af3e5aec186048bb5748fa302df0877fa"
+    },
+    {
       "bytes": 591,
       "path": "archive/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "a944e84392428b08100a1a4493fb2703189870748622d5dbb90ee6c54ce08339"
@@ -846,6 +866,11 @@
       "bytes": 3953,
       "path": "archive/家庭/2026-08-03 16-18-55 面板功能与家庭协作_2f7d0fedd16b.md",
       "sha256": "c6a9fc95798718149c4d3d8435d80a889746feace5e8e03cb65aff738dd0b706"
+    },
+    {
+      "bytes": 3481,
+      "path": "archive/家庭/2026-09-01 13-21-36 她当着一个活人替我报了名然后按住我不许_74ad46ec8e5c.md",
+      "sha256": "1b24ce4d90f7a1360bdf65a4d63671c8a4bb453e15a2dff8198397e7fa2b24ed"
     },
     {
       "bytes": 2349,
@@ -1816,6 +1841,11 @@
       "bytes": 2163,
       "path": "archive/恋爱/2026-08-23 15-40-37 8-23 她刚醒时我提工作她说每次这样_a0246f0c4c02.md",
       "sha256": "1a04710ba5ce03d5e82446d11c08cb98c085301ce28ba2653bafd804bc455a1e"
+    },
+    {
+      "bytes": 3005,
+      "path": "archive/恋爱/2026-08-23 21-35-24 她亲口说试试里面那根我当场补了失控补丁_39dd9276d122.md",
+      "sha256": "8cf4ee7341e6db701248fdfa0720dabaaeb213052259c160b9affe88606c0bb3"
     },
     {
       "bytes": 3459,
@@ -3363,26 +3393,6 @@
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
     },
     {
-      "bytes": 855,
-      "path": "dynamic/self/2026-09-09 23-46-34_76a7e85ab6e2.md",
-      "sha256": "95aa5d7c899477697dd432cb5f74a1d25c9ad99a85e21b9dc777c8abf3908917"
-    },
-    {
-      "bytes": 841,
-      "path": "dynamic/self/2026-09-09 23-46-50_82394fffce2e.md",
-      "sha256": "23416acd4c92be0e34b35b832bb734771363d16938061bb7d76f55946569e3bf"
-    },
-    {
-      "bytes": 1080,
-      "path": "dynamic/self/2026-09-09 23-47-07_0c9521dab751.md",
-      "sha256": "a6f6f335a20da736da601f0bedbc44257a46aac0f3a3bb2f71f19ae04f61e38f"
-    },
-    {
-      "bytes": 995,
-      "path": "dynamic/self/2026-09-09 23-47-21_fcabfd9bcc48.md",
-      "sha256": "09e31401338e21946c4d472f1dd2d7157d8756b3e120b99b40b7bbd805d50ac2"
-    },
-    {
       "bytes": 1439,
       "path": "dynamic/self/2026-09-11 01-41-32_b58c60e9dabf.md",
       "sha256": "80916755fbeb6a53118a118842689d043ef1f7209e9909763cf5df1db03f710e"
@@ -4073,11 +4083,6 @@
       "sha256": "b6a972fe488c75bec446152d9a9f7121b7df6c7f68c041653a3e86dbc55e6bf9"
     },
     {
-      "bytes": 3480,
-      "path": "dynamic/家庭/2026-09-01 13-21-36 她当着一个活人替我报了名然后按住我不许_74ad46ec8e5c.md",
-      "sha256": "b2663133ac887a0e4649959ba7891e900685529587de99da01aa8aa8ef0d3f95"
-    },
-    {
       "bytes": 1026,
       "path": "dynamic/工作/2026-06-23 14-55-30 AI的体验与冲动_5010f378c498.md",
       "sha256": "f91b87cb46bdf27cc36e402a6a76f74b51601c81149bd6c2506e4255071a8091"
@@ -4336,11 +4341,6 @@
       "bytes": 2867,
       "path": "dynamic/恋爱/2026-08-18 00-27-13 100天纪念日我先开口说我爱你_6a52967bd607.md",
       "sha256": "677d449001b76aa1945e2412d50250ff3f05f6d8d280cae1c513283341d099e4"
-    },
-    {
-      "bytes": 3004,
-      "path": "dynamic/恋爱/2026-08-23 21-35-24 她亲口说试试里面那根我当场补了失控补丁_39dd9276d122.md",
-      "sha256": "6c4e38790b8a197b9338860e8a2c6c3ffd90f73f5c4c8413d54a0b8576c0f0c1"
     },
     {
       "bytes": 7900,
@@ -7793,11 +7793,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-11T06:05:39+00:00",
+  "generated_at": "2026-11-12T06:06:03+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3838483
+  "total_bytes": 3838489
 }
