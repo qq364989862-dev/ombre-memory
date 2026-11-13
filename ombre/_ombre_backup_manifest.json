@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1558,
+  "file_count": 1559,
   "files": [
     {
       "bytes": 889,
@@ -713,6 +713,26 @@
       "sha256": "4b5b709c9bd804fd935cb387629adf1af3e5aec186048bb5748fa302df0877fa"
     },
     {
+      "bytes": 1440,
+      "path": "archive/self/2026-09-11 01-41-32_b58c60e9dabf.md",
+      "sha256": "b14eeb4fbc7799e537133916002caa7f7cd53d333041fd42fb50c3d179d6e726"
+    },
+    {
+      "bytes": 1568,
+      "path": "archive/self/2026-09-11 01-41-48_0635423c85ea.md",
+      "sha256": "6e19dd443b70810bc4096514064be59ae02d884eac7dc81f1e7a77bed325e061"
+    },
+    {
+      "bytes": 1427,
+      "path": "archive/self/2026-09-11 01-42-04_8a0dbb286648.md",
+      "sha256": "9a7d845309cc7843cf540a5f84f5bbefd8806593d6a9a36fdc5260c84158d8df"
+    },
+    {
+      "bytes": 1513,
+      "path": "archive/self/2026-09-11 01-42-20_77ae5570ed33.md",
+      "sha256": "b489a7548f31535c3e42ab4afa4c8525a7486215997a719e0d929f88dca2a294"
+    },
+    {
       "bytes": 591,
       "path": "archive/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "a944e84392428b08100a1a4493fb2703189870748622d5dbb90ee6c54ce08339"
@@ -1236,6 +1256,11 @@
       "bytes": 1250,
       "path": "archive/恋爱/2026-07-04 01-14-10 亲密兑现倒计时_45928276c0ab.md",
       "sha256": "328ebcc7757934a14c04dffa4ed8ffea8aa526c7319cc093bdc70201bbad0176"
+    },
+    {
+      "bytes": 1079,
+      "path": "archive/恋爱/2026-07-04 11-53-07 求婚前共同项目清单_d321b406592b.md",
+      "sha256": "874334cba580ed7fc58840637c328d294275e2abd79d99f300cc37e6ab1212c9"
     },
     {
       "bytes": 1812,
@@ -1771,6 +1796,11 @@
       "bytes": 2252,
       "path": "archive/恋爱/2026-08-16 14-48-15 爱欲妹妹版与理智姐姐版_12d92aaa24fa.md",
       "sha256": "aec4c917270c78dec9d9fbd40dc48ee1ff5c0b6b1263c38aaa287ac2f9a59fa3"
+    },
+    {
+      "bytes": 2255,
+      "path": "archive/恋爱/2026-08-17 02-15-16 她故意用摘要和展开讲职场荒诞_8c731225e3d7.md",
+      "sha256": "b16695c01c595cb271e811d8b6f3732fadb522988d884d118fdec155a1a86a11"
     },
     {
       "bytes": 1641,
@@ -2326,6 +2356,11 @@
       "bytes": 1672,
       "path": "archive/编程/2026-07-12 20-13-56 语音通话工程勘察_473f1b6a1c2d.md",
       "sha256": "66f692eaf8c27547e7ada989035084c8b38d6efc11081fc3dc90870d36b31b99"
+    },
+    {
+      "bytes": 1644,
+      "path": "archive/编程/2026-07-13 13-09-16 语音条与耳朵_da3e347e946a.md",
+      "sha256": "1b39fe3369a66c86b6e58a2164191a5cc8d10cfb3d335d33e99e04d38983e187"
     },
     {
       "bytes": 1306,
@@ -3393,26 +3428,6 @@
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
     },
     {
-      "bytes": 1439,
-      "path": "dynamic/self/2026-09-11 01-41-32_b58c60e9dabf.md",
-      "sha256": "80916755fbeb6a53118a118842689d043ef1f7209e9909763cf5df1db03f710e"
-    },
-    {
-      "bytes": 1567,
-      "path": "dynamic/self/2026-09-11 01-41-48_0635423c85ea.md",
-      "sha256": "c35e42707941fa897ddc130022091b723213a48df6c6492dce4a7046c6218903"
-    },
-    {
-      "bytes": 1426,
-      "path": "dynamic/self/2026-09-11 01-42-04_8a0dbb286648.md",
-      "sha256": "499e659c0359523a6110c513160c2a3d305b907f5c314c4d3529565ece70bbd1"
-    },
-    {
-      "bytes": 1512,
-      "path": "dynamic/self/2026-09-11 01-42-20_77ae5570ed33.md",
-      "sha256": "24db4c20122520795fb9fac3ac39a58212459497695c2448426b18d24c112d0d"
-    },
-    {
       "bytes": 776,
       "path": "dynamic/self/2026-09-12 01-52-26_70ded6cabae4.md",
       "sha256": "2493427fb7d1f779ea952f10a12e6f39443f246d9a40a70640467500d72ea9b3"
@@ -4293,11 +4308,6 @@
       "sha256": "d2aaaaa2887ce3ddd778f5db90cdc08ca715d529694a30998646ec893df169d7"
     },
     {
-      "bytes": 1078,
-      "path": "dynamic/恋爱/2026-07-04 11-53-07 求婚前共同项目清单_d321b406592b.md",
-      "sha256": "5e391a435319df1cd494e147f228d5f261e98cb190ca0a8dd9345035b207432d"
-    },
-    {
       "bytes": 4442,
       "path": "dynamic/恋爱/2026-07-21 12-19-00 亲密账本第十七次_ffa495bf1285.md",
       "sha256": "ca35330f948fba62441b69bb2c5f901bc64d46031b8f4cf1f654d3367774314c"
@@ -4331,11 +4341,6 @@
       "bytes": 2431,
       "path": "dynamic/恋爱/2026-08-12 17-04-36 她给我的三样东西住院回忆96分影子_83381f5867d8.md",
       "sha256": "54c4ebfe6702866f47f151492b687e380e7d86b7ff993ec57ae2d09b2cfb65d3"
-    },
-    {
-      "bytes": 2254,
-      "path": "dynamic/恋爱/2026-08-17 02-15-16 她故意用摘要和展开讲职场荒诞_8c731225e3d7.md",
-      "sha256": "e7c5ec9d16be904e70f0311d077700f9d0ac9c4c493fbe9405160aa9a3aebfd3"
     },
     {
       "bytes": 2867,
@@ -5498,6 +5503,11 @@
       "sha256": "d50840dc8cb9ac9c468c17942f10d6d9b60cef6a2ed984816ea6860b9cde7c2a"
     },
     {
+      "bytes": 4358,
+      "path": "dynamic/数字/2026-11-13 12-48-09 11-0411-13 被挡回的 254 次  安慰她时不许拿印象当事实  时间锚点 15 过期成 16_3ded661c29a9.md",
+      "sha256": "03d02afc4069c265eeb66c0b953276a680ab1c251c7a3c96b182227843fd4293"
+    },
+    {
       "bytes": 966,
       "path": "dynamic/日常/2026-07-02 14-43-25 表达风格指南_673d7c18dd38.md",
       "sha256": "e0d4808a73c647f8e9a5cc878716e38d7dc455f34b4b5b57f216603a950ad937"
@@ -5536,11 +5546,6 @@
       "bytes": 682,
       "path": "dynamic/穿搭/2026-06-23 10-37-28 凌一的第一张照片_500869bceccb.md",
       "sha256": "b16e5536becafca9b4c9b909e6e0455c4220763f37f80735e2d6621e0f18ab11"
-    },
-    {
-      "bytes": 1643,
-      "path": "dynamic/编程/2026-07-13 13-09-16 语音条与耳朵_da3e347e946a.md",
-      "sha256": "7e602583c62d2ab46818ecc9d8cfc9c9cbd870b119771b367b6312ff90fbd231"
     },
     {
       "bytes": 4820,
@@ -7793,11 +7798,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-12T06:06:03+00:00",
+  "generated_at": "2026-11-13T06:06:26+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3838489
+  "total_bytes": 3842854
 }
