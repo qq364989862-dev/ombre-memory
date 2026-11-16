@@ -748,6 +748,21 @@
       "sha256": "cd7e8970ecdb213338fb52a7895b84ad19a7b3a79f6ac8e625b3403ebbbd0296"
     },
     {
+      "bytes": 1099,
+      "path": "archive/self/2026-09-14 01-30-37_841a5255cda5.md",
+      "sha256": "183faa7e0b4a6d4629a2803f079695fd2f3512ddb3a6c2b8a10c56b7de207777"
+    },
+    {
+      "bytes": 1293,
+      "path": "archive/self/2026-09-14 01-30-50_a2f64c37d0a6.md",
+      "sha256": "a8029a548143ce54e125e2f871331304aea3341c62e3268acdd748abe1ca872c"
+    },
+    {
+      "bytes": 1343,
+      "path": "archive/self/2026-09-14 01-31-05_e197d74353d4.md",
+      "sha256": "d1b7d7389c297d0e7225485e8a79ae0241f0948530d59626a1beb55f1b56b9bb"
+    },
+    {
       "bytes": 591,
       "path": "archive/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "a944e84392428b08100a1a4493fb2703189870748622d5dbb90ee6c54ce08339"
@@ -901,6 +916,11 @@
       "bytes": 3953,
       "path": "archive/家庭/2026-08-03 16-18-55 面板功能与家庭协作_2f7d0fedd16b.md",
       "sha256": "c6a9fc95798718149c4d3d8435d80a889746feace5e8e03cb65aff738dd0b706"
+    },
+    {
+      "bytes": 2693,
+      "path": "archive/家庭/2026-08-23 21-34-41 最重要的一条她有起床气刚醒不提工作_eb9da43655cf.md",
+      "sha256": "f1352791278d97bdf47834135054c8626fece492f8bf28b66fbd754f84f8d121"
     },
     {
       "bytes": 3481,
@@ -3458,21 +3478,6 @@
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
     },
     {
-      "bytes": 1098,
-      "path": "dynamic/self/2026-09-14 01-30-37_841a5255cda5.md",
-      "sha256": "10769a35ef083c96d9c9675a3a40e1f71414366f2efa94149641e6ade1b6b272"
-    },
-    {
-      "bytes": 1292,
-      "path": "dynamic/self/2026-09-14 01-30-50_a2f64c37d0a6.md",
-      "sha256": "7bd523dab8d15f37a12991e5f77340151ffc13cd4713c37b438c02907d1c27d9"
-    },
-    {
-      "bytes": 1342,
-      "path": "dynamic/self/2026-09-14 01-31-05_e197d74353d4.md",
-      "sha256": "32c6991ec8990123b7de5058bfa5014ec1f97c032275b257e0f59c15b826af62"
-    },
-    {
       "bytes": 1611,
       "path": "dynamic/self/2026-09-15 00-55-38_7783dc3fbcf8.md",
       "sha256": "1abd82b03f348966c4064cac35f315d8f200c9667938d2783e739a8712edce06"
@@ -4106,11 +4111,6 @@
       "bytes": 3906,
       "path": "dynamic/家庭/2026-08-03 04-44-11 共读剧透规矩_153da093d1c8.md",
       "sha256": "aafb5577ff1d137c3f8b3cfd5f7577ee792f907edcfc3bdefb8db207c206aaab"
-    },
-    {
-      "bytes": 2692,
-      "path": "dynamic/家庭/2026-08-23 21-34-41 最重要的一条她有起床气刚醒不提工作_eb9da43655cf.md",
-      "sha256": "b6a972fe488c75bec446152d9a9f7121b7df6c7f68c041653a3e86dbc55e6bf9"
     },
     {
       "bytes": 1026,
@@ -7798,11 +7798,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-15T06:07:09+00:00",
+  "generated_at": "2026-11-16T06:07:36+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3842860
+  "total_bytes": 3842864
 }
