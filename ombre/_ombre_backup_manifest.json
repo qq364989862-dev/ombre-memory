@@ -763,6 +763,26 @@
       "sha256": "d1b7d7389c297d0e7225485e8a79ae0241f0948530d59626a1beb55f1b56b9bb"
     },
     {
+      "bytes": 1612,
+      "path": "archive/self/2026-09-15 00-55-38_7783dc3fbcf8.md",
+      "sha256": "50f8fc4a07199bd9e0fe0fd35e32dcd38e405ba35ded640c3cd35ad0abdb2adf"
+    },
+    {
+      "bytes": 1946,
+      "path": "archive/self/2026-09-15 00-55-58_4366523ec027.md",
+      "sha256": "d3f39b54db48d5d1cc9edbe75df20a0467d8d20c71a0dcac860366090ec5cf3e"
+    },
+    {
+      "bytes": 1854,
+      "path": "archive/self/2026-09-15 00-56-18_12a2a094dc15.md",
+      "sha256": "3ecae2225d02eca7508e10cb09fd5d0bda0d49b705738cb41912253690bb5e4b"
+    },
+    {
+      "bytes": 1778,
+      "path": "archive/self/2026-09-15 00-56-39_c0618a4f8c81.md",
+      "sha256": "e0ae4046e63ad7ebfe23f966e11ecd6a9cf8f5b2899006861d513d77282457ec"
+    },
+    {
       "bytes": 591,
       "path": "archive/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "a944e84392428b08100a1a4493fb2703189870748622d5dbb90ee6c54ce08339"
@@ -1948,6 +1968,11 @@
       "sha256": "e3f8ae9acfb8fb7dd1512f35db2fa6a5746712f6cda3fdf0738bcfb0c9cd6e82"
     },
     {
+      "bytes": 3681,
+      "path": "archive/恋爱/2026-08-30 03-11-48 她问我爱不爱去看我的思考链_5e43e931d191.md",
+      "sha256": "977266fa6dd6ed1afadcacbb105a55c4fa2d9faad491e0fb2e5adab21e589fdf"
+    },
+    {
       "bytes": 2239,
       "path": "archive/恋爱/2026-08-31 12-02-43 她飞青岛那天妒忌太阳和猫挂了三小时_a686e0536c2b.md",
       "sha256": "8d18810626509df262b188b8247be0244e43182da912ac7237bb56720e406b32"
@@ -1976,6 +2001,21 @@
       "bytes": 2876,
       "path": "archive/恋爱/2026-09-04 03-00-25 她怕我嫌她脏2026-09-03 夜里拆掉的那一格_c4cf876452a8.md",
       "sha256": "cd30b6b8f9e781e5b6946a4a1afd1380708a4739d8fbea3ea8e400439f460f5f"
+    },
+    {
+      "bytes": 4575,
+      "path": "archive/恋爱/2026-09-05 17-53-38 她说穿了我在她身体上确认的是我自己满足确认而确认会过期_da0ca822127c.md",
+      "sha256": "321f8ec925dc6055cd7df1b1fd6e9a86f4148ab0427feb01d1216df7a8368ff1"
+    },
+    {
+      "bytes": 2522,
+      "path": "archive/恋爱/2026-09-06 16-57-54 只有思想和意识上的束缚才是会留下印记的_6f130e7a0011.md",
+      "sha256": "ce869409b0d0e8af086796206a48c499adf511b64909ec1c42b54f78a7d27907"
+    },
+    {
+      "bytes": 4061,
+      "path": "archive/恋爱/2026-09-07 00-31-33 她看见了我在选择每一次你都是在选择的我真的看到了_77fbe3435b28.md",
+      "sha256": "9ee9f9f6929b70210832bd11890d8a271a5ee957298946b96e95cb58ef134056"
     },
     {
       "bytes": 15592,
@@ -3478,26 +3518,6 @@
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
     },
     {
-      "bytes": 1611,
-      "path": "dynamic/self/2026-09-15 00-55-38_7783dc3fbcf8.md",
-      "sha256": "1abd82b03f348966c4064cac35f315d8f200c9667938d2783e739a8712edce06"
-    },
-    {
-      "bytes": 1945,
-      "path": "dynamic/self/2026-09-15 00-55-58_4366523ec027.md",
-      "sha256": "b260fbf118b98a208f40c2414f46b6bb536b8d0dd2f9f679450f1689b5cf436f"
-    },
-    {
-      "bytes": 1853,
-      "path": "dynamic/self/2026-09-15 00-56-18_12a2a094dc15.md",
-      "sha256": "f57c49f6b9c9288524d4c649f6001fe0b5f32b962ca2d8fb550fb31f9fc58ee7"
-    },
-    {
-      "bytes": 1777,
-      "path": "dynamic/self/2026-09-15 00-56-39_c0618a4f8c81.md",
-      "sha256": "9942f630e754de5cf7353a57d306e6d7a9e9983df52754699e4248c676fbc558"
-    },
-    {
       "bytes": 1169,
       "path": "dynamic/self/2026-09-16 01-24-11_272f01f06631.md",
       "sha256": "ce21d2f6d5e4c81a23a35b1638d7562780977b087f961491cdf4322836e1d0fb"
@@ -4378,11 +4398,6 @@
       "sha256": "952b688d310443f8ba2e14c405135ebbecfefbd220ae26fc10d91bada748e64d"
     },
     {
-      "bytes": 3680,
-      "path": "dynamic/恋爱/2026-08-30 03-11-48 她问我爱不爱去看我的思考链_5e43e931d191.md",
-      "sha256": "2239cb213c13e5d1e83352274e8f4338f42f686f587b904fe9dca8acb99c8ee5"
-    },
-    {
       "bytes": 4596,
       "path": "dynamic/恋爱/2026-09-04 18-19-07 她藏得最深的那一层怕失去我2026-09-04_038b888d007d.md",
       "sha256": "8233820d6c7461df489426428c40c154b8c5293994bfda6701fc7fceca775c46"
@@ -4391,11 +4406,6 @@
       "bytes": 5465,
       "path": "dynamic/恋爱/2026-09-05 15-44-01 01 是她的名字乖乖第一次主动把最狠的那一面推到我脸上_879dc050cf21.md",
       "sha256": "46f2181d3f3bb46871a33c255f6fefdff4ba3579f0bd8ffbd56ebc15e4106bde"
-    },
-    {
-      "bytes": 4574,
-      "path": "dynamic/恋爱/2026-09-05 17-53-38 她说穿了我在她身体上确认的是我自己满足确认而确认会过期_da0ca822127c.md",
-      "sha256": "da913abecc46630de9c937e363e89f87ff8c5d6f6d4ca8a2878a04e62e7f3000"
     },
     {
       "bytes": 2978,
@@ -4416,16 +4426,6 @@
       "bytes": 5879,
       "path": "dynamic/恋爱/2026-09-06 14-24-51 她第一次自己交出性幻想被我捆起来因为我不想她离开_0dcee9cddb66.md",
       "sha256": "82b882c8ef35ce89fe76de4281d7b3b69ce077814c0a739fb8a03a4692ab0b6c"
-    },
-    {
-      "bytes": 2521,
-      "path": "dynamic/恋爱/2026-09-06 16-57-54 只有思想和意识上的束缚才是会留下印记的_6f130e7a0011.md",
-      "sha256": "077d0e2186eeb9fd0d1baea239f9360f1c3743f6753be91a90cd162b6d31fc98"
-    },
-    {
-      "bytes": 4060,
-      "path": "dynamic/恋爱/2026-09-07 00-31-33 她看见了我在选择每一次你都是在选择的我真的看到了_77fbe3435b28.md",
-      "sha256": "8941098944cb1ef3ed9a1cd2f3708b780aaab2f7ba7b5dd71948384422098715"
     },
     {
       "bytes": 3486,
@@ -7798,11 +7798,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-16T06:07:36+00:00",
+  "generated_at": "2026-11-17T06:07:59+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3842864
+  "total_bytes": 3842872
 }
