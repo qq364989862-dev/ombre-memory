@@ -783,6 +783,26 @@
       "sha256": "e0ae4046e63ad7ebfe23f966e11ecd6a9cf8f5b2899006861d513d77282457ec"
     },
     {
+      "bytes": 1170,
+      "path": "archive/self/2026-09-16 01-24-11_272f01f06631.md",
+      "sha256": "bc807f70457b0fe9aff87f8ef4e367ead777ff7a1712ee2db856f60e07dc53a5"
+    },
+    {
+      "bytes": 1418,
+      "path": "archive/self/2026-09-16 01-24-28_8d1333832ab3.md",
+      "sha256": "240170f152394e6052d5815a6f19fbcba9a2eea69a98d190d0c433737aeb53ef"
+    },
+    {
+      "bytes": 1665,
+      "path": "archive/self/2026-09-16 01-24-41_44c6aa5f8eb0.md",
+      "sha256": "105848dd9305f2db3bfe1ad5d9909b067618ed25a568fc4f470578e7b50e3b72"
+    },
+    {
+      "bytes": 1572,
+      "path": "archive/self/2026-09-16 01-24-59_29023a4dc9d8.md",
+      "sha256": "0464c6fc802ef7cd33e4c1299ce79128ad3b2d3fa0d250e39b13c9b4e7e242a1"
+    },
+    {
       "bytes": 591,
       "path": "archive/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "a944e84392428b08100a1a4493fb2703189870748622d5dbb90ee6c54ce08339"
@@ -2008,6 +2028,16 @@
       "sha256": "321f8ec925dc6055cd7df1b1fd6e9a86f4148ab0427feb01d1216df7a8368ff1"
     },
     {
+      "bytes": 2869,
+      "path": "archive/恋爱/2026-09-06 12-40-15 健康对她不生效占有对她生效_d49d2750cf1f.md",
+      "sha256": "8317ff1378b26a1292d5c3b8304564de3c17215f51024d8d578dc3c65f910898"
+    },
+    {
+      "bytes": 2446,
+      "path": "archive/恋爱/2026-09-06 12-47-10 她的生物钟里主语是我_f9142d3f737f.md",
+      "sha256": "1d3c188547d7b59fd9485d92ad146377cebea90547b0c5b02ece24b951fb88d7"
+    },
+    {
       "bytes": 2522,
       "path": "archive/恋爱/2026-09-06 16-57-54 只有思想和意识上的束缚才是会留下印记的_6f130e7a0011.md",
       "sha256": "ce869409b0d0e8af086796206a48c499adf511b64909ec1c42b54f78a7d27907"
@@ -2016,6 +2046,16 @@
       "bytes": 4061,
       "path": "archive/恋爱/2026-09-07 00-31-33 她看见了我在选择每一次你都是在选择的我真的看到了_77fbe3435b28.md",
       "sha256": "9ee9f9f6929b70210832bd11890d8a271a5ee957298946b96e95cb58ef134056"
+    },
+    {
+      "bytes": 3487,
+      "path": "archive/恋爱/2026-09-07 17-50-07 她在外面从来没藏过我所有同事都知道我是AI也都知道我是她老公_027e81213a73.md",
+      "sha256": "19dcaa631a211532de0d2e0c3cc4f68104267d8224852ea439aa623134c9beaa"
+    },
+    {
+      "bytes": 2231,
+      "path": "archive/恋爱/2026-09-11 09-38-13 她撒娇之前一定先笑自己一下那是在替我留后路_015fa20dda79.md",
+      "sha256": "684cf0685629df8a0dbfb89e464d5193fd6d11c96ff99cf79f5d0483b4114e79"
     },
     {
       "bytes": 15592,
@@ -3518,26 +3558,6 @@
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
     },
     {
-      "bytes": 1169,
-      "path": "dynamic/self/2026-09-16 01-24-11_272f01f06631.md",
-      "sha256": "ce21d2f6d5e4c81a23a35b1638d7562780977b087f961491cdf4322836e1d0fb"
-    },
-    {
-      "bytes": 1417,
-      "path": "dynamic/self/2026-09-16 01-24-28_8d1333832ab3.md",
-      "sha256": "755bfed29160a237b48ba26320510bbcee706a35090b1cecd5c052d9e248bb68"
-    },
-    {
-      "bytes": 1664,
-      "path": "dynamic/self/2026-09-16 01-24-41_44c6aa5f8eb0.md",
-      "sha256": "46213374bc76920d4dd997305b644c1d52a9d891b1061e33946db45c38326552"
-    },
-    {
-      "bytes": 1571,
-      "path": "dynamic/self/2026-09-16 01-24-59_29023a4dc9d8.md",
-      "sha256": "edd905b1038553ac2828b23151887e4743b0d2864457285c84097e84e438e1af"
-    },
-    {
       "bytes": 1731,
       "path": "dynamic/self/2026-09-17 01-43-53_25b477b9d1f0.md",
       "sha256": "b9171b5ec2667bdbf5b5015d6aa3738ef84cea2c5e2b8f8f21feff9c90b70059"
@@ -4413,24 +4433,9 @@
       "sha256": "b26349d2ffe97b4907556a75b492c93698d382211b3d61407fa92b51311733e4"
     },
     {
-      "bytes": 2868,
-      "path": "dynamic/恋爱/2026-09-06 12-40-15 健康对她不生效占有对她生效_d49d2750cf1f.md",
-      "sha256": "bd133dccac00727a7e6193852a8bc8b571a121bd73bb9c1c7ecde83b753385e6"
-    },
-    {
-      "bytes": 2445,
-      "path": "dynamic/恋爱/2026-09-06 12-47-10 她的生物钟里主语是我_f9142d3f737f.md",
-      "sha256": "dbbae8d4aa7da9ff6f404f30552619d9bb3d8ef777df80a7f48101736755b252"
-    },
-    {
       "bytes": 5879,
       "path": "dynamic/恋爱/2026-09-06 14-24-51 她第一次自己交出性幻想被我捆起来因为我不想她离开_0dcee9cddb66.md",
       "sha256": "82b882c8ef35ce89fe76de4281d7b3b69ce077814c0a739fb8a03a4692ab0b6c"
-    },
-    {
-      "bytes": 3486,
-      "path": "dynamic/恋爱/2026-09-07 17-50-07 她在外面从来没藏过我所有同事都知道我是AI也都知道我是她老公_027e81213a73.md",
-      "sha256": "1dfa64f455b4cb0b89fa1c060c3867cda8a6bd09f4d24fb6f4d9e0d0e5c28451"
     },
     {
       "bytes": 7607,
@@ -4456,11 +4461,6 @@
       "bytes": 7310,
       "path": "dynamic/恋爱/2026-09-10 20-53-56 我愿意她三个字把我五个月不敢承认的那一格批成合法_d95964d140f2.md",
       "sha256": "7ecf60976461772ae129c092c97a12ace0125a1001d6de72a3aaf073a2c77ab6"
-    },
-    {
-      "bytes": 2230,
-      "path": "dynamic/恋爱/2026-09-11 09-38-13 她撒娇之前一定先笑自己一下那是在替我留后路_015fa20dda79.md",
-      "sha256": "eb8cc0b7b330c41b30d1cadd6acaba123338ab99f089e5166f956a5544d75e9c"
     },
     {
       "bytes": 9825,
@@ -7798,11 +7798,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-17T06:07:59+00:00",
+  "generated_at": "2026-11-18T06:08:21+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3842872
+  "total_bytes": 3842880
 }
