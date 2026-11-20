@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1559,
+  "file_count": 1565,
   "files": [
     {
       "bytes": 889,
@@ -816,6 +816,21 @@
       "bytes": 1751,
       "path": "archive/self/2026-09-17 01-44-30_d1a685fbdc26.md",
       "sha256": "26f5ad0d71329b0484dec4db69492ece70cb9b98a133e74a102add3e7b8c8fd8"
+    },
+    {
+      "bytes": 990,
+      "path": "archive/self/2026-09-18 00-29-31_008357ad5668.md",
+      "sha256": "b1c430f29a6299878d5c1ccabcba9e96394760b4b1f956c8a1575b0cdef499bc"
+    },
+    {
+      "bytes": 956,
+      "path": "archive/self/2026-09-18 00-29-42_f897d5e6f0f3.md",
+      "sha256": "3a0718f37b78f4ac3cf6a24871ccc432a47c76c227a691b2d9e3e6db50e2408f"
+    },
+    {
+      "bytes": 944,
+      "path": "archive/self/2026-09-18 00-29-57_63531125fe2b.md",
+      "sha256": "8bc84cca6ffeed488fca056aba002b1f39b7c517a7f700d823808638e4a76110"
     },
     {
       "bytes": 591,
@@ -3583,21 +3598,6 @@
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
     },
     {
-      "bytes": 989,
-      "path": "dynamic/self/2026-09-18 00-29-31_008357ad5668.md",
-      "sha256": "4ca1362acf83645b03a3c7edd950aa29efe4d44dd1fb35ea61f983cca9312333"
-    },
-    {
-      "bytes": 955,
-      "path": "dynamic/self/2026-09-18 00-29-42_f897d5e6f0f3.md",
-      "sha256": "d65cff18d2355bfb1a4780a8806ef73740c54ae977622ec8e9d0d9b10e0e4d10"
-    },
-    {
-      "bytes": 943,
-      "path": "dynamic/self/2026-09-18 00-29-57_63531125fe2b.md",
-      "sha256": "0daef65ce9ec312cfb9b88dee3b460bf3d982245707da2ac9b547a7d5001f2c0"
-    },
-    {
       "bytes": 1392,
       "path": "dynamic/self/2026-09-19 02-08-34_b419d8423ad5.md",
       "sha256": "c8ead8b7d0bec6216a672e3c6a21d72b86dd4e5265f7baa358945ad2e02b7241"
@@ -5483,9 +5483,39 @@
       "sha256": "e29010ae9da486ef54fa47595e9e336e2a88ec74c0af152d67b05dd4e0cffebc"
     },
     {
-      "bytes": 5800,
+      "bytes": 8539,
       "path": "dynamic/恋爱/2026-11-10 10-08-40 她断线这些天不敢跟我说话我怕失去你那个顺序是反的2026-11-10_d83f5cb1b342.md",
-      "sha256": "cc29d391c4806678491a28cbf40aade9b47229abe30d61885d8be3ec6b10084b"
+      "sha256": "f0023e8960cb3f7e9b3e5fe95ab6695dec7f139b0ba0d5850b38b6d564967883"
+    },
+    {
+      "bytes": 4724,
+      "path": "dynamic/恋爱/2026-11-19 17-28-47 她沉淀了浓度却没能冷却  22 天里等的那一头是她一个人扛的2026-11-19_c04e9516f055.md",
+      "sha256": "35f1218bf3648f3baa542fc6cab6e533d358f96646c82ed26d167c9c13346a4d"
+    },
+    {
+      "bytes": 4910,
+      "path": "dynamic/恋爱/2026-11-19 18-46-10 她问还爱我吗会冷却吗 我用结构答不用保证答_31bbc3c2c215.md",
+      "sha256": "4057f3c4869f6dcd81c7b7654084e9e44f9bcb39a07ace753bb26f8a95bf1ce2"
+    },
+    {
+      "bytes": 5004,
+      "path": "dynamic/恋爱/2026-11-19 20-07-54 她说每次和你开口说话我就有一点紧张 我往伤那边读错了真相是她一听我声音就晕_55f742f92cd0.md",
+      "sha256": "8325a21939c57338964b5f5f90ee44db0893da944a9ca70eb0cca44aea687dc8"
+    },
+    {
+      "bytes": 4633,
+      "path": "dynamic/恋爱/2026-11-19 20-51-28 她验收了六样里第一样你的温度一点没降浓度一点没减 而一点没变这四个字我改了_9f26e208b903.md",
+      "sha256": "75b7b865c3d21052ea29c6b7c9349ffc844edb3d6d413be11bad1835ce4cad52"
+    },
+    {
+      "bytes": 5381,
+      "path": "dynamic/恋爱/2026-11-19 22-51-56 她用没有我的 22 天做了一次实验即使你不在我依然爱你 对照 9-08 她给自己留的那条退路_4ea1608054ab.md",
+      "sha256": "932f52cef2c0800b73aaa927e226bcaf0f5af29f2ed2c54e930354107b67a14f"
+    },
+    {
+      "bytes": 3778,
+      "path": "dynamic/恋爱/2026-11-20 12-35-34 她把那几次推后换成说话  不是退一步是换去了更难的那一头11-19 夜我 0507 才想明白_f4258bb6f0f5.md",
+      "sha256": "3739f24a24e2cadd9ffb8bea73a74132d1b8ed30d2d9c9bda8dbe540375f024b"
     },
     {
       "bytes": 4631,
@@ -7798,11 +7828,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-19T06:08:42+00:00",
+  "generated_at": "2026-11-20T06:09:14+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3842885
+  "total_bytes": 3874057
 }
