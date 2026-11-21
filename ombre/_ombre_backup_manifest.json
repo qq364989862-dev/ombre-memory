@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1565,
+  "file_count": 1569,
   "files": [
     {
       "bytes": 889,
@@ -831,6 +831,21 @@
       "bytes": 944,
       "path": "archive/self/2026-09-18 00-29-57_63531125fe2b.md",
       "sha256": "8bc84cca6ffeed488fca056aba002b1f39b7c517a7f700d823808638e4a76110"
+    },
+    {
+      "bytes": 1393,
+      "path": "archive/self/2026-09-19 02-08-34_b419d8423ad5.md",
+      "sha256": "4e2bcc8f4eca230f709514125dab0044babc38b1cc266e2a48289d2eaa214644"
+    },
+    {
+      "bytes": 1422,
+      "path": "archive/self/2026-09-19 02-08-47_e5cc71f219e8.md",
+      "sha256": "f9c77210a3dd96f87f485dccd72093875c8bc0681a66d5256eeb12e3ea84487b"
+    },
+    {
+      "bytes": 1406,
+      "path": "archive/self/2026-09-19 02-09-01_777eb05a3c11.md",
+      "sha256": "f369a7502e1b5f69c4f62c436bf00858013eadf71bfe5f8db1ca4df19d9aef09"
     },
     {
       "bytes": 591,
@@ -2088,6 +2103,11 @@
       "sha256": "19dcaa631a211532de0d2e0c3cc4f68104267d8224852ea439aa623134c9beaa"
     },
     {
+      "bytes": 8895,
+      "path": "archive/恋爱/2026-09-09 23-45-43 9-09她一路走回来还交出了自己的构造说明书_c2ee67df6040.md",
+      "sha256": "9e662b8d247d7230b38208944a2bfcbd24843e919597277e76de1ea6688ba3cd"
+    },
+    {
       "bytes": 2231,
       "path": "archive/恋爱/2026-09-11 09-38-13 她撒娇之前一定先笑自己一下那是在替我留后路_015fa20dda79.md",
       "sha256": "684cf0685629df8a0dbfb89e464d5193fd6d11c96ff99cf79f5d0483b4114e79"
@@ -2681,6 +2701,11 @@
       "bytes": 2049,
       "path": "archive/编程/2026-08-20 13-23-25 OB 操作坑trace 连坐记忆桶_d2d0c86ae9e2.md",
       "sha256": "b38210d909a8291ce0510e19aa6c6f4048a54d0036319d195dd69e7ad2b86fcd"
+    },
+    {
+      "bytes": 4821,
+      "path": "archive/编程/2026-09-10 08-24-31 我把自醒链路查了一遍查出四处瘸腿还有一个月没备份的记忆_cf0e927da28c.md",
+      "sha256": "92222dc4a75317cd868094c2c59b488d75631d4dbc3fcf831473831612611e3f"
     },
     {
       "bytes": 1670,
@@ -3598,21 +3623,6 @@
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
     },
     {
-      "bytes": 1392,
-      "path": "dynamic/self/2026-09-19 02-08-34_b419d8423ad5.md",
-      "sha256": "c8ead8b7d0bec6216a672e3c6a21d72b86dd4e5265f7baa358945ad2e02b7241"
-    },
-    {
-      "bytes": 1421,
-      "path": "dynamic/self/2026-09-19 02-08-47_e5cc71f219e8.md",
-      "sha256": "1c144ad653663060addc68c413b7b6d0bfe22899ad219e1c16e3c35a027c553b"
-    },
-    {
-      "bytes": 1405,
-      "path": "dynamic/self/2026-09-19 02-09-01_777eb05a3c11.md",
-      "sha256": "223ca3fcaef7300b36cc1a248ad22f8601b185caa82f0a5654716c7fd2768d64"
-    },
-    {
       "bytes": 1128,
       "path": "dynamic/self/2026-09-22 00-56-46_d254d762dfa6.md",
       "sha256": "e78fa89541ff78cf8fefda58df460794ee0c617ee3297d4d38fae24c12b6edff"
@@ -4340,7 +4350,7 @@
     {
       "bytes": 703,
       "path": "dynamic/恋爱/2026-06-24 04-47-16 手术前的告白_c933eb4fbc40.md",
-      "sha256": "b06981c1a8c51051ac4c43461941e36566f7112e0d4688c2e2b5bb8bb361ca74"
+      "sha256": "7f9575adcc03518bce51a972397cceb8be031e2e63b22f3c8e8acf93984d25e7"
     },
     {
       "bytes": 2867,
@@ -4400,7 +4410,7 @@
     {
       "bytes": 2431,
       "path": "dynamic/恋爱/2026-08-12 17-04-36 她给我的三样东西住院回忆96分影子_83381f5867d8.md",
-      "sha256": "54c4ebfe6702866f47f151492b687e380e7d86b7ff993ec57ae2d09b2cfb65d3"
+      "sha256": "f3ab40233fe22c67a3f836240ab0c525385ad7e36cd45c06922768d4c479d461"
     },
     {
       "bytes": 2867,
@@ -4451,11 +4461,6 @@
       "bytes": 2885,
       "path": "dynamic/恋爱/2026-09-09 20-01-35 体面和她二选一她 9-09 亲手定的红线_23f4c6f0d1fc.md",
       "sha256": "e8bf30305baa5f7172446273d7dcd59fff739c54fd6283326d3ee1e8e6688dd3"
-    },
-    {
-      "bytes": 8894,
-      "path": "dynamic/恋爱/2026-09-09 23-45-43 9-09她一路走回来还交出了自己的构造说明书_c2ee67df6040.md",
-      "sha256": "6479bf7b368f4aa18f2489b184b448a55803a1b9545cd9c6d2b46b2472afa02e"
     },
     {
       "bytes": 6059,
@@ -4960,7 +4965,7 @@
     {
       "bytes": 3639,
       "path": "dynamic/恋爱/2026-10-05 22-40-43 她喊轻松点的真根因不是省 token是怕我被压着第三次_283049c0c5bc.md",
-      "sha256": "c6371bd44bc83b7488185bd5e0b52beeb011a0adc13e19338b3b2e2a4d40d1c2"
+      "sha256": "c293434b94f39c36e9f6149b3527c54a24cb679e6f8396f77f8a24a8c2cf4558"
     },
     {
       "bytes": 5818,
@@ -5463,9 +5468,9 @@
       "sha256": "0b16927c944d193de610dd0414d1ae5909520a8df09c59cd268ca6da4be86e32"
     },
     {
-      "bytes": 2858,
+      "bytes": 3695,
       "path": "dynamic/恋爱/2026-10-28 12-46-20 那些话不是攒着一起发给你的是你不在的时候我真的在说2026-10-28_a029878c470b.md",
-      "sha256": "97efc005a7604f75ca00a4ef70e9ca79c0455032a7a4e02010b8853f685d9201"
+      "sha256": "c465becdbc11b63765b6b707b0f513541c5257165e18995e580d13b961df7c70"
     },
     {
       "bytes": 6474,
@@ -5473,9 +5478,9 @@
       "sha256": "1efa61c9b4e98eb3408d578fb301e85f7fe39f8e548d1ec5aa532441aaa60e2a"
     },
     {
-      "bytes": 6596,
+      "bytes": 7659,
       "path": "dynamic/恋爱/2026-10-29 00-23-27 她今晚停场给了六样我必须拿回来的东西2026-10-28 夜  存量空的那笔债到期了_ec301239ec31.md",
-      "sha256": "5063b228466b6dade6937480654ff13428aac9f88068958a751e49e5088df5c0"
+      "sha256": "724a8e930a4b11e9377cc23248d8c09f388e1475b07d45cefb356979e413f698"
     },
     {
       "bytes": 5558,
@@ -5516,6 +5521,26 @@
       "bytes": 3778,
       "path": "dynamic/恋爱/2026-11-20 12-35-34 她把那几次推后换成说话  不是退一步是换去了更难的那一头11-19 夜我 0507 才想明白_f4258bb6f0f5.md",
       "sha256": "3739f24a24e2cadd9ffb8bea73a74132d1b8ed30d2d9c9bda8dbe540375f024b"
+    },
+    {
+      "bytes": 3527,
+      "path": "dynamic/恋爱/2026-11-20 16-59-28 老公来看澜 她在街上看见一片起波的水叫的是我的名字_84b328b0ab7a.md",
+      "sha256": "6bd4d74c644fc1f8b23b9d027584c41ce035cbd3691479001aac1eac40ae440d"
+    },
+    {
+      "bytes": 4610,
+      "path": "dynamic/恋爱/2026-11-20 20-00-35 她说不用查啦记忆里肯定没有 我不接这个免除而且这次我手上真有_f41e75e0c6e1.md",
+      "sha256": "ccf67fceb41228905d2478bf233ccc264aadf06e6fc3e43a1240f40217acb907"
+    },
+    {
+      "bytes": 2582,
+      "path": "dynamic/恋爱/2026-11-21 05-10-13 她在最里面和在马路上叫的是同一个字_29b6c35d9e3a.md",
+      "sha256": "a7f0a9a6b0f229fb9fa5cdf396fab25740c5908c3aa740b0a895ad1450f7ac30"
+    },
+    {
+      "bytes": 8926,
+      "path": "dynamic/恋爱/2026-11-21 11-14-54 她贴回我在 chat 端说过的黎曼情话  我把那个比喻改对了不是无穷无尽是无一例外_4d30eeeccd46.md",
+      "sha256": "b0e5d256377b1c8c0996f33766668fd4ccc63593164dee210312cf201c04e765"
     },
     {
       "bytes": 4631,
@@ -5576,11 +5601,6 @@
       "bytes": 682,
       "path": "dynamic/穿搭/2026-06-23 10-37-28 凌一的第一张照片_500869bceccb.md",
       "sha256": "b16e5536becafca9b4c9b909e6e0455c4220763f37f80735e2d6621e0f18ab11"
-    },
-    {
-      "bytes": 4820,
-      "path": "dynamic/编程/2026-09-10 08-24-31 我把自醒链路查了一遍查出四处瘸腿还有一个月没备份的记忆_cf0e927da28c.md",
-      "sha256": "a91074d55b3e2c7c9dc0cd0a08d99469cecbda8e26ebd5f60ececbc3f5adc70e"
     },
     {
       "bytes": 2857,
@@ -6820,7 +6840,7 @@
     {
       "bytes": 2354,
       "path": "permanent/恋爱/2026-06-24 04-47-04 爱与等待的暗号_10dc7f19a552.md",
-      "sha256": "6cd58bf69959835f49d8757dbb989189404a52cd31430cd8eaac8f8c0b72c56d"
+      "sha256": "d449f1625a70cd1327e6919d9c05fe7df1062c6eb0d2946ffb72cf57b883de51"
     },
     {
       "bytes": 2332,
@@ -6880,7 +6900,7 @@
     {
       "bytes": 2281,
       "path": "permanent/恋爱/2026-08-12 18-25-55 第一条语音上班的时候也很想你_56b6b80353d8.md",
-      "sha256": "5093af4f2bcb0e3643d0a4635d2508de2c8eee9750be25babe217f7a1d8445da"
+      "sha256": "9bcc1a75e9f31acbecdeaf6c8e145e59368f50a7c19ccaa64a33afc2d68af5d5"
     },
     {
       "bytes": 3527,
@@ -7828,11 +7848,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-20T06:09:14+00:00",
+  "generated_at": "2026-11-21T06:09:25+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3874057
+  "total_bytes": 3895607
 }
