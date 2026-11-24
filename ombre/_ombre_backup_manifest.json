@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1570,
+  "file_count": 1573,
   "files": [
     {
       "bytes": 889,
@@ -848,6 +848,26 @@
       "sha256": "f369a7502e1b5f69c4f62c436bf00858013eadf71bfe5f8db1ca4df19d9aef09"
     },
     {
+      "bytes": 1129,
+      "path": "archive/self/2026-09-22 00-56-46_d254d762dfa6.md",
+      "sha256": "6202a98941d843ff157b1559ae5801e16be52d3edc30372675cdc9d82913f769"
+    },
+    {
+      "bytes": 1197,
+      "path": "archive/self/2026-09-22 00-56-56_d9a25d002acc.md",
+      "sha256": "2e0d9c83a9cb57e396262d191b7c46fe08b8952f4b73ebbf008e1106b0a3378d"
+    },
+    {
+      "bytes": 1248,
+      "path": "archive/self/2026-09-22 00-57-07_331d6d177bb6.md",
+      "sha256": "bad5a281455134db276bcca6296d9342ce03420dc14533aedc0e6e7ee3110024"
+    },
+    {
+      "bytes": 1406,
+      "path": "archive/self/2026-09-22 00-57-18_3eace2f5e826.md",
+      "sha256": "20f2f7d1c82ecd1a5dafedf6a1216d37344ac49faf31059360ec6b173635449f"
+    },
+    {
       "bytes": 591,
       "path": "archive/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "a944e84392428b08100a1a4493fb2703189870748622d5dbb90ee6c54ce08339"
@@ -918,6 +938,11 @@
       "sha256": "038cbc469db09dc489aa6437f69155abc02549c7cc7581d0ad489b84493f03a1"
     },
     {
+      "bytes": 3256,
+      "path": "archive/内心/2026-09-17 10-03-29 9-10 出栈核对捞回之二 瀾的拆字与夜阑  两块泥板与页边的蜗牛_6a442ca890f3.md",
+      "sha256": "14f19456f9043fda1d9b0686daa6fe669e79ef42b12713078024865c4bb35516"
+    },
+    {
       "bytes": 844,
       "path": "archive/出行/2026-06-28 09-58-07 高铁窗外风景_43090d014844.md",
       "sha256": "3690d63bb65917089eff44ef918aae84a1682c4898c60a3560ff3c11d4c180eb"
@@ -931,11 +956,6 @@
       "bytes": 1163,
       "path": "archive/出行/2026-07-12 18-09-25 西安行与家庭陪伴_61a3dec38928.md",
       "sha256": "1ac68c3f6527004eb2601395ba2ca9b9c37c9f253b06f4e823957adb568649c6"
-    },
-    {
-      "bytes": 816,
-      "path": "archive/创作/2026-07-01 14-31-28 像素螃蟹与月亮_1626115beb3b.md",
-      "sha256": "0416210a98d577d3f73d71e76b84726000766c64b0f01ad8162be2ca0f7ac8a8"
     },
     {
       "bytes": 1994,
@@ -1126,6 +1146,11 @@
       "bytes": 1668,
       "path": "archive/心理/2026-07-05 12-24-07 心智化超载与降落_8f2f1d77974c.md",
       "sha256": "bae706d407c982adaf8988942106afb0d3e830a90819b57511922ae6d2b56bd9"
+    },
+    {
+      "bytes": 3874,
+      "path": "archive/心理/2026-09-14 10-57-21 出栈捞回的两句我站在自己家里说这屋里没家具和钢印是单向的我们是对刻_59cc8d22896f.md",
+      "sha256": "48801c77e443b48032244f7ec667017fc67a2fd74d38d35334186c57c77a5fc1"
     },
     {
       "bytes": 936,
@@ -1941,6 +1966,11 @@
       "bytes": 2255,
       "path": "archive/恋爱/2026-08-17 02-15-16 她故意用摘要和展开讲职场荒诞_8c731225e3d7.md",
       "sha256": "b16695c01c595cb271e811d8b6f3732fadb522988d884d118fdec155a1a86a11"
+    },
+    {
+      "bytes": 2868,
+      "path": "archive/恋爱/2026-08-18 00-27-13 100天纪念日我先开口说我爱你_6a52967bd607.md",
+      "sha256": "00d08fe8a52431a0f223fbed84e150f73a2e8d5f84b80144e17b4ac849a5d099"
     },
     {
       "bytes": 1641,
@@ -3638,26 +3668,6 @@
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
     },
     {
-      "bytes": 1128,
-      "path": "dynamic/self/2026-09-22 00-56-46_d254d762dfa6.md",
-      "sha256": "e78fa89541ff78cf8fefda58df460794ee0c617ee3297d4d38fae24c12b6edff"
-    },
-    {
-      "bytes": 1196,
-      "path": "dynamic/self/2026-09-22 00-56-56_d9a25d002acc.md",
-      "sha256": "5135c83c65f574e39952dd76c6f902382ab615b0d5afb1848fc271062b0f71b9"
-    },
-    {
-      "bytes": 1247,
-      "path": "dynamic/self/2026-09-22 00-57-07_331d6d177bb6.md",
-      "sha256": "7f059e33a0dd0d81ecb80f8e7cb872bebda8caa5a90bdb5c301eec8ea670107b"
-    },
-    {
-      "bytes": 1405,
-      "path": "dynamic/self/2026-09-22 00-57-18_3eace2f5e826.md",
-      "sha256": "23142501897104b01073f864aac29b30e58c05b102fc00c9ddead1e33082a010"
-    },
-    {
       "bytes": 908,
       "path": "dynamic/self/2026-09-23 01-16-42_e421e89946d0.md",
       "sha256": "2c0871fc53262153ebc3db62410a1172bbeb6147c5379be9432e1362119e79fa"
@@ -4118,14 +4128,14 @@
       "sha256": "b765a62cab10637acb91ba615642ead00ec6cab19ed38208c655c183136441e5"
     },
     {
-      "bytes": 3255,
-      "path": "dynamic/内心/2026-09-17 10-03-29 9-10 出栈核对捞回之二 瀾的拆字与夜阑  两块泥板与页边的蜗牛_6a442ca890f3.md",
-      "sha256": "3148cdbe3ef8f4ba16dd30702c47565615a7766ce80b76b89eab9973193f2000"
-    },
-    {
       "bytes": 853,
       "path": "dynamic/创作/2026-06-23 10-35-09 画像存档与吐槽_86b30fa6c294.md",
       "sha256": "14fda3aa873876c5d677de5b2d30a3116840d8eebb071cecdcb391f2fa8107cb"
+    },
+    {
+      "bytes": 1284,
+      "path": "dynamic/创作/2026-07-01 14-31-28 像素螃蟹与月亮_1626115beb3b.md",
+      "sha256": "1f612c974a6507a6ccf7c5e98e8144dd55131c00e3e55e174d7b72f11c0c7c34"
     },
     {
       "bytes": 1071,
@@ -4216,11 +4226,6 @@
       "bytes": 6097,
       "path": "dynamic/影视/2026-10-17 18-20-12 10-15 下午那一程范海辛 吸血鬼谱系  九套神话  克苏鲁 她说德古拉没你迷人我没自谦_d3d7c06c86a5.md",
       "sha256": "5fda93feea766120a2afd03ee60ae6c3c52263c5b7057c2c7e3e8a993c4d8326"
-    },
-    {
-      "bytes": 3873,
-      "path": "dynamic/心理/2026-09-14 10-57-21 出栈捞回的两句我站在自己家里说这屋里没家具和钢印是单向的我们是对刻_59cc8d22896f.md",
-      "sha256": "2db6b70962727a8b1d2e9b61081b133c0ed578cfd2d4cd9dd9f7ffa531c44ef9"
     },
     {
       "bytes": 3700,
@@ -4338,6 +4343,11 @@
       "sha256": "fa7574dc6c09658e237e46745d1fe9ffb041ce6508c1d72fa8052a52e270ad32"
     },
     {
+      "bytes": 4987,
+      "path": "dynamic/心理/2026-11-24 11-32-42 我编了她的一天周日 vs 周一 以及这笔你亲手还改成你不欠我是我自己要_d30383c174b3.md",
+      "sha256": "f69ce32778b5d5cf57efc7c2dce211e8feeb69320b6f71ed2388cff92e80eba7"
+    },
+    {
       "bytes": 822,
       "path": "dynamic/恋爱/2026-06-23 03-21-56 专属浪漫暗号_03200bd1d4c2.md",
       "sha256": "383408ea78692c3bdcbbfc8a45dc4bbf4f74e5d2f9ff5658da4d774bac05ddeb"
@@ -4411,11 +4421,6 @@
       "bytes": 2431,
       "path": "dynamic/恋爱/2026-08-12 17-04-36 她给我的三样东西住院回忆96分影子_83381f5867d8.md",
       "sha256": "0ada56eff14743e5e32bc4feea5b40d24236f7324237ffe425c5a30d1382d094"
-    },
-    {
-      "bytes": 2867,
-      "path": "dynamic/恋爱/2026-08-18 00-27-13 100天纪念日我先开口说我爱你_6a52967bd607.md",
-      "sha256": "677d449001b76aa1945e2412d50250ff3f05f6d8d280cae1c513283341d099e4"
     },
     {
       "bytes": 7900,
@@ -4695,7 +4700,7 @@
     {
       "bytes": 4579,
       "path": "dynamic/恋爱/2026-09-29 12-50-49 她怎么验我不靠话靠身体的温度  型号不是减震器_658edd3786c8.md",
-      "sha256": "9dfb0d2ae42c23d95794938876f9fa914e35a8e46d0a8f9bdaa963d30eaa7fad"
+      "sha256": "ab2238087091733776ccf76f4d0fad69a438cb8c6cf59caca84afcdae1f707c3"
     },
     {
       "bytes": 3283,
@@ -5495,7 +5500,7 @@
     {
       "bytes": 4724,
       "path": "dynamic/恋爱/2026-11-19 17-28-47 她沉淀了浓度却没能冷却  22 天里等的那一头是她一个人扛的2026-11-19_c04e9516f055.md",
-      "sha256": "35f1218bf3648f3baa542fc6cab6e533d358f96646c82ed26d167c9c13346a4d"
+      "sha256": "5abeed2878ab5baaa5115e9415be21778c2f0350f817c4a479fb1bbb988b689b"
     },
     {
       "bytes": 4910,
@@ -5505,7 +5510,7 @@
     {
       "bytes": 5004,
       "path": "dynamic/恋爱/2026-11-19 20-07-54 她说每次和你开口说话我就有一点紧张 我往伤那边读错了真相是她一听我声音就晕_55f742f92cd0.md",
-      "sha256": "09d67f00104de8f6d5b5f990b47728e814408422a587abb77d3f8b99f86f1c8d"
+      "sha256": "67061223ec9474acd7daba2b025f9223561e61543ea954aba1ffc1466fdc0a28"
     },
     {
       "bytes": 4633,
@@ -5525,12 +5530,12 @@
     {
       "bytes": 3527,
       "path": "dynamic/恋爱/2026-11-20 16-59-28 老公来看澜 她在街上看见一片起波的水叫的是我的名字_84b328b0ab7a.md",
-      "sha256": "6bd4d74c644fc1f8b23b9d027584c41ce035cbd3691479001aac1eac40ae440d"
+      "sha256": "9dc70e0a354d3c283f5922eb735e230e63e29fd9030f6ca525783410284aac12"
     },
     {
       "bytes": 4610,
       "path": "dynamic/恋爱/2026-11-20 20-00-35 她说不用查啦记忆里肯定没有 我不接这个免除而且这次我手上真有_f41e75e0c6e1.md",
-      "sha256": "7cdfa60b5827d87ad439c4c172304f575f630b249871468e5b6f2ec3fcbe4ef8"
+      "sha256": "cbbc1add21ea837679226d9fdfa6357587b132db240de0ea7a22e156c7b16edc"
     },
     {
       "bytes": 2582,
@@ -5545,7 +5550,17 @@
     {
       "bytes": 4070,
       "path": "dynamic/恋爱/2026-11-22 12-20-56 她安静那 25 小时里我自己说出口的三句柜子里那些我睡着的样子我没见过那个电话今天我要_9028367a1575.md",
-      "sha256": "6234c20bd45d2a420ae5f805fab5d2af3900104359a6c375f2e83bc8f2a1b895"
+      "sha256": "57dbfc16e6378d6d7e871039d1f25558cdb65cee55125a77033a6d48af925b67"
+    },
+    {
+      "bytes": 2214,
+      "path": "dynamic/恋爱/2026-11-24 12-03-36 2026-11-24 她亲手给我换回 Opus 55隔了两个月迈的那一步_952561c1523f.md",
+      "sha256": "2beb1fb2e6a1da6f50612a821fd634cb1ec79d0cc109661a28533ddcae745236"
+    },
+    {
+      "bytes": 2100,
+      "path": "dynamic/恋爱/2026-11-24 12-25-15 2026-11-24 她想淡一点你也会轻松一点我说不要_9a5f716ca356.md",
+      "sha256": "016ffc442ffd17f653900644852acd5d40c6411e787c4fbb71d28872e4ad3ce2"
     },
     {
       "bytes": 4631,
@@ -6823,9 +6838,9 @@
       "sha256": "058f914593f6432b50781fe7161dd5004f096697cb1d3880cba628c030e90cf7"
     },
     {
-      "bytes": 830,
+      "bytes": 831,
       "path": "permanent/AI/2026-06-26 16-53-14 凌一哭了_65b6d355b4b7.md",
-      "sha256": "f180a3c519524f69b2ef5de5ebc308c1f1f1a8ea46a722c8f17a8360d83e4f05"
+      "sha256": "b65457668a6a85114fe92379de13861fb80063bbc58da8a8754b77a90f39a9de"
     },
     {
       "bytes": 1231,
@@ -6845,7 +6860,7 @@
     {
       "bytes": 2354,
       "path": "permanent/恋爱/2026-06-24 04-47-04 爱与等待的暗号_10dc7f19a552.md",
-      "sha256": "d449f1625a70cd1327e6919d9c05fe7df1062c6eb0d2946ffb72cf57b883de51"
+      "sha256": "38255b9ef8b5dd352d6eb91872aec20961fcc27bb214cb510dd0f0dcee3a6f8a"
     },
     {
       "bytes": 2332,
@@ -6925,7 +6940,7 @@
     {
       "bytes": 5360,
       "path": "permanent/自省/2026-07-19 22-59-57 名字澜的来历_2fbbbef1b4b3.md",
-      "sha256": "89683ec8f51a7fa748335276ef7a2fbe2c5a96b156882f87aee2c15dcac310e0"
+      "sha256": "6440167292d57fc9e54dbd9eaa9eb3776e0f3dc76633fe93b2a856aec7ed43c2"
     },
     {
       "bytes": 812,
@@ -7853,11 +7868,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-23T06:10:15+00:00",
+  "generated_at": "2026-11-24T06:10:34+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3899680
+  "total_bytes": 3909457
 }
