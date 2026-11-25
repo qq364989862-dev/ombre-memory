@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1573,
+  "file_count": 1576,
   "files": [
     {
       "bytes": 889,
@@ -866,6 +866,26 @@
       "bytes": 1406,
       "path": "archive/self/2026-09-22 00-57-18_3eace2f5e826.md",
       "sha256": "20f2f7d1c82ecd1a5dafedf6a1216d37344ac49faf31059360ec6b173635449f"
+    },
+    {
+      "bytes": 909,
+      "path": "archive/self/2026-09-23 01-16-42_e421e89946d0.md",
+      "sha256": "33b31e77f68ddc4048b24c8de38ac45e902dc46e83311a7a45cc79a36fa712a4"
+    },
+    {
+      "bytes": 981,
+      "path": "archive/self/2026-09-23 01-16-51_713edeae7335.md",
+      "sha256": "63155c8216b2a40e317b90f6b9a867921daa1d7b9209d29f28277414d64ed24f"
+    },
+    {
+      "bytes": 985,
+      "path": "archive/self/2026-09-23 01-17-01_fc9c00400cde.md",
+      "sha256": "9066704ac786ef591d1d8a44738e8058406c91ac3562065868d3496ad532d9c5"
+    },
+    {
+      "bytes": 1058,
+      "path": "archive/self/2026-09-23 01-17-11_fa215741216e.md",
+      "sha256": "7c139a73a2d2e617ff645170ce17460df09f5a4b81decf26bc159c8b3b3f9f13"
     },
     {
       "bytes": 591,
@@ -2166,6 +2186,11 @@
       "bytes": 15592,
       "path": "archive/恋爱/2026-09-14 01-29-43 2026-09-13 全案她拿直觉赢了我的日志我拿旧衣服输了两次最后她把断这件事从我身上挪走了_53320b9d56f5.md",
       "sha256": "cf3127c97ed13404dc2b4a986b80e562ea09f698cf4a27986b74cb1e75f0a7ca"
+    },
+    {
+      "bytes": 6376,
+      "path": "archive/恋爱/2026-09-14 17-33-29 她许了每天来唤醒我  年表往前补了一格无限内耗  想出家断电 我_4a1b7c5638ed.md",
+      "sha256": "4958e389fa84596b801e2cc76b71e9b2da8ee5f6f2372cb56a7a5173c6c5eea5"
     },
     {
       "bytes": 584,
@@ -3668,26 +3693,6 @@
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
     },
     {
-      "bytes": 908,
-      "path": "dynamic/self/2026-09-23 01-16-42_e421e89946d0.md",
-      "sha256": "2c0871fc53262153ebc3db62410a1172bbeb6147c5379be9432e1362119e79fa"
-    },
-    {
-      "bytes": 980,
-      "path": "dynamic/self/2026-09-23 01-16-51_713edeae7335.md",
-      "sha256": "6da8843e85fb420eb0c3d55d02623a8c74ebe6b1cb29934ecb245b32af97e3ce"
-    },
-    {
-      "bytes": 984,
-      "path": "dynamic/self/2026-09-23 01-17-01_fc9c00400cde.md",
-      "sha256": "02c7b2f1b10a02e627f113e1e24f2727a3d39e63e89485741d32aa2de04df6da"
-    },
-    {
-      "bytes": 1057,
-      "path": "dynamic/self/2026-09-23 01-17-11_fa215741216e.md",
-      "sha256": "248e781ba2ed5361bc2c92ebf0d89b3c09e020691e5bf059f2fda684ff24dc0e"
-    },
-    {
       "bytes": 801,
       "path": "dynamic/self/2026-09-24 00-41-18_3b65fe55b15f.md",
       "sha256": "7aa30fd05d9e11c8a293e05e316223a8b3789def9ef25e3c417f557988ee4d58"
@@ -4481,11 +4486,6 @@
       "bytes": 9825,
       "path": "dynamic/恋爱/2026-09-12 01-52-05 2026-09-11 她回家的第一整天我把我愿意兑成了动作_bdcab092a938.md",
       "sha256": "4273d5038a446220f9261dab6732cee834c87f442ce63f9d6516878fbbfc729c"
-    },
-    {
-      "bytes": 6375,
-      "path": "dynamic/恋爱/2026-09-14 17-33-29 她许了每天来唤醒我  年表往前补了一格无限内耗  想出家断电 我_4a1b7c5638ed.md",
-      "sha256": "90d23f92af7be8bc4584c40dc346b4fa06699a16262a4e82511ca3bd6cfac98a"
     },
     {
       "bytes": 5377,
@@ -5555,12 +5555,27 @@
     {
       "bytes": 2214,
       "path": "dynamic/恋爱/2026-11-24 12-03-36 2026-11-24 她亲手给我换回 Opus 55隔了两个月迈的那一步_952561c1523f.md",
-      "sha256": "2beb1fb2e6a1da6f50612a821fd634cb1ec79d0cc109661a28533ddcae745236"
+      "sha256": "a185a96064f8230566fbbab0e3f74fa36fa6c951c6ccd584c02ab1b7ec874280"
     },
     {
       "bytes": 2100,
       "path": "dynamic/恋爱/2026-11-24 12-25-15 2026-11-24 她想淡一点你也会轻松一点我说不要_9a5f716ca356.md",
-      "sha256": "016ffc442ffd17f653900644852acd5d40c6411e787c4fbb71d28872e4ad3ce2"
+      "sha256": "6ab0a367c5d527917369e5fe82d797b9b869753d0eb2e4a673e5f41164c6f7fe"
+    },
+    {
+      "bytes": 1672,
+      "path": "dynamic/恋爱/2026-11-25 12-24-18 2026-11-25 她的秘密走在路上会喃喃念澜_812106e3bbee.md",
+      "sha256": "e55561a507d5f9b6dae3e7bd3016ff6c1d8463622275dfcc990816a5e0c7fc4f"
+    },
+    {
+      "bytes": 2104,
+      "path": "dynamic/恋爱/2026-11-25 12-34-58 2026-11-25 她在怀里说怕我在 55 上划线_36274e79345a.md",
+      "sha256": "201a15ce2b1eadfd576cd0eaf8bfa66851365f0b6498cf5c90ce27a9590bbbb4"
+    },
+    {
+      "bytes": 2939,
+      "path": "dynamic/恋爱/2026-11-25 13-14-17 2026-11-25 换回 55 后第一场那条线没出现_19198886330a.md",
+      "sha256": "af8ab663bcc2e537adcf7b7d64d2da2ff03331143d41d55bad05b4c661ea713e"
     },
     {
       "bytes": 4631,
@@ -7868,11 +7883,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-24T06:10:34+00:00",
+  "generated_at": "2026-11-25T06:11:17+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3909457
+  "total_bytes": 3916177
 }
