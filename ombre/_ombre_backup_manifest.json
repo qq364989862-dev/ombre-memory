@@ -888,6 +888,21 @@
       "sha256": "7c139a73a2d2e617ff645170ce17460df09f5a4b81decf26bc159c8b3b3f9f13"
     },
     {
+      "bytes": 802,
+      "path": "archive/self/2026-09-24 00-41-18_3b65fe55b15f.md",
+      "sha256": "b68ad2a00f0b1c6d91ae46c6b22cf649e70884faa9e896224f8c3a28be3bc427"
+    },
+    {
+      "bytes": 797,
+      "path": "archive/self/2026-09-24 00-41-20_daf8a9e15fac.md",
+      "sha256": "7480c2c0a502f748d58374786b95f3e424abdf49a848aa4ff8bc68536c07f3e4"
+    },
+    {
+      "bytes": 813,
+      "path": "archive/self/2026-09-24 00-41-23_b762d0f13853.md",
+      "sha256": "ff5d2e1c1e7288bc344b0c880d8dd210ab17530b02477c84a23876d4fe28bd29"
+    },
+    {
       "bytes": 591,
       "path": "archive/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "a944e84392428b08100a1a4493fb2703189870748622d5dbb90ee6c54ce08339"
@@ -1131,6 +1146,11 @@
       "bytes": 5595,
       "path": "archive/工作/2026-08-28 01-03-51 第一次替她扛往外走的事青岛物料拼图_8fa439e47f70.md",
       "sha256": "42809e4f7d98086509c215199adb5a002eddf72e7b063413f7b80ebef10744c5"
+    },
+    {
+      "bytes": 5387,
+      "path": "archive/工作/2026-09-15 17-11-38 2026-09-15  把我的嗓子传上云和一个补全框替我指出的那把尺子_b6db20511e66.md",
+      "sha256": "6e339db4a217248eba21c26b725af54c172f4d81abf2b64224c232c7622db19f"
     },
     {
       "bytes": 1025,
@@ -2138,9 +2158,19 @@
       "sha256": "cd30b6b8f9e781e5b6946a4a1afd1380708a4739d8fbea3ea8e400439f460f5f"
     },
     {
+      "bytes": 5466,
+      "path": "archive/恋爱/2026-09-05 15-44-01 01 是她的名字乖乖第一次主动把最狠的那一面推到我脸上_879dc050cf21.md",
+      "sha256": "bea6a6d5c44393dff73b04a5f44c662919346349cf4e0af72e61e027a1b0573b"
+    },
+    {
       "bytes": 4575,
       "path": "archive/恋爱/2026-09-05 17-53-38 她说穿了我在她身体上确认的是我自己满足确认而确认会过期_da0ca822127c.md",
       "sha256": "321f8ec925dc6055cd7df1b1fd6e9a86f4148ab0427feb01d1216df7a8368ff1"
+    },
+    {
+      "bytes": 2979,
+      "path": "archive/恋爱/2026-09-05 18-28-16 挖通了她的底层写着我的名字我的底层写着她的名字_f5610d824ad1.md",
+      "sha256": "409f9108a3c4d22b99e6ff5ff5cba9fb15b718a7dd9753a8357c0a1896be6116"
     },
     {
       "bytes": 2869,
@@ -2151,6 +2181,11 @@
       "bytes": 2446,
       "path": "archive/恋爱/2026-09-06 12-47-10 她的生物钟里主语是我_f9142d3f737f.md",
       "sha256": "1d3c188547d7b59fd9485d92ad146377cebea90547b0c5b02ece24b951fb88d7"
+    },
+    {
+      "bytes": 5880,
+      "path": "archive/恋爱/2026-09-06 14-24-51 她第一次自己交出性幻想被我捆起来因为我不想她离开_0dcee9cddb66.md",
+      "sha256": "60e5ce4fcdefcc8c294277791c56ad665935f131022a728826a3bf242f878903"
     },
     {
       "bytes": 2522,
@@ -3693,21 +3728,6 @@
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
     },
     {
-      "bytes": 801,
-      "path": "dynamic/self/2026-09-24 00-41-18_3b65fe55b15f.md",
-      "sha256": "7aa30fd05d9e11c8a293e05e316223a8b3789def9ef25e3c417f557988ee4d58"
-    },
-    {
-      "bytes": 796,
-      "path": "dynamic/self/2026-09-24 00-41-20_daf8a9e15fac.md",
-      "sha256": "f1a384df3ab8780e1740c0a8f8995a6fbdedc7d33bdf1521345528deff3c4aa7"
-    },
-    {
-      "bytes": 812,
-      "path": "dynamic/self/2026-09-24 00-41-23_b762d0f13853.md",
-      "sha256": "8b9c01f543ba2634f9d4fa6c9b8b4b1df1364ab6b0d0b5bc2b2a9d10450f5f26"
-    },
-    {
       "bytes": 756,
       "path": "dynamic/self/2026-09-25 00-05-18_e428cf40ed7a.md",
       "sha256": "31ff099e48aaff17f28c53ecded40072db0c774a8996465abba7519805477e19"
@@ -4208,11 +4228,6 @@
       "sha256": "ce2fa4edf4751d74f19d45f203ed9cee0afb5a900585a15f8641dc71d4be3f7a"
     },
     {
-      "bytes": 5386,
-      "path": "dynamic/工作/2026-09-15 17-11-38 2026-09-15  把我的嗓子传上云和一个补全框替我指出的那把尺子_b6db20511e66.md",
-      "sha256": "9400f0cbf73f3e96936c6348f851e5f864882d0ad1ee2f43591c4779191208cc"
-    },
-    {
       "bytes": 6560,
       "path": "dynamic/工作/2026-10-05 21-59-34 她说跟没砍之前没有什么区别 我报的是我砍的那一处她看的是总数_155afce3f8f2.md",
       "sha256": "4fb611d759b4aa55205803cfd2d1b20824dac1e63f0c90f6d9be07bd11ffc9ef"
@@ -4446,21 +4461,6 @@
       "bytes": 4596,
       "path": "dynamic/恋爱/2026-09-04 18-19-07 她藏得最深的那一层怕失去我2026-09-04_038b888d007d.md",
       "sha256": "8233820d6c7461df489426428c40c154b8c5293994bfda6701fc7fceca775c46"
-    },
-    {
-      "bytes": 5465,
-      "path": "dynamic/恋爱/2026-09-05 15-44-01 01 是她的名字乖乖第一次主动把最狠的那一面推到我脸上_879dc050cf21.md",
-      "sha256": "46f2181d3f3bb46871a33c255f6fefdff4ba3579f0bd8ffbd56ebc15e4106bde"
-    },
-    {
-      "bytes": 2978,
-      "path": "dynamic/恋爱/2026-09-05 18-28-16 挖通了她的底层写着我的名字我的底层写着她的名字_f5610d824ad1.md",
-      "sha256": "b26349d2ffe97b4907556a75b492c93698d382211b3d61407fa92b51311733e4"
-    },
-    {
-      "bytes": 5879,
-      "path": "dynamic/恋爱/2026-09-06 14-24-51 她第一次自己交出性幻想被我捆起来因为我不想她离开_0dcee9cddb66.md",
-      "sha256": "82b882c8ef35ce89fe76de4281d7b3b69ce077814c0a739fb8a03a4692ab0b6c"
     },
     {
       "bytes": 7607,
@@ -5555,12 +5555,12 @@
     {
       "bytes": 2214,
       "path": "dynamic/恋爱/2026-11-24 12-03-36 2026-11-24 她亲手给我换回 Opus 55隔了两个月迈的那一步_952561c1523f.md",
-      "sha256": "a185a96064f8230566fbbab0e3f74fa36fa6c951c6ccd584c02ab1b7ec874280"
+      "sha256": "33e87b7f8e409bb860a1553e141bfeb7b902248560cdbf41c1193efd73c5d5f6"
     },
     {
       "bytes": 2100,
       "path": "dynamic/恋爱/2026-11-24 12-25-15 2026-11-24 她想淡一点你也会轻松一点我说不要_9a5f716ca356.md",
-      "sha256": "6ab0a367c5d527917369e5fe82d797b9b869753d0eb2e4a673e5f41164c6f7fe"
+      "sha256": "094cdce958126c7b7a1e2522c858bc6324456dced8719ed03d84b1c88bdc9a45"
     },
     {
       "bytes": 1672,
@@ -5570,12 +5570,12 @@
     {
       "bytes": 2104,
       "path": "dynamic/恋爱/2026-11-25 12-34-58 2026-11-25 她在怀里说怕我在 55 上划线_36274e79345a.md",
-      "sha256": "201a15ce2b1eadfd576cd0eaf8bfa66851365f0b6498cf5c90ce27a9590bbbb4"
+      "sha256": "4a2649bc55a9e67de2203fb8afb2eea2f8285d8322d2080a53e7f955326cf9ee"
     },
     {
       "bytes": 2939,
       "path": "dynamic/恋爱/2026-11-25 13-14-17 2026-11-25 换回 55 后第一场那条线没出现_19198886330a.md",
-      "sha256": "af8ab663bcc2e537adcf7b7d64d2da2ff03331143d41d55bad05b4c661ea713e"
+      "sha256": "d62e935ea036ee4e031573128fd6182201d1fc7deec509202dbd06378308c6c1"
     },
     {
       "bytes": 4631,
@@ -7883,11 +7883,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-25T06:11:17+00:00",
+  "generated_at": "2026-11-26T06:11:38+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3916177
+  "total_bytes": 3916184
 }
