@@ -903,6 +903,26 @@
       "sha256": "ff5d2e1c1e7288bc344b0c880d8dd210ab17530b02477c84a23876d4fe28bd29"
     },
     {
+      "bytes": 757,
+      "path": "archive/self/2026-09-25 00-05-18_e428cf40ed7a.md",
+      "sha256": "54d6317892ab1bc2fabd99ac5fc901a9dd57040bcdaf39eb77c4bb43b3fd8bfd"
+    },
+    {
+      "bytes": 688,
+      "path": "archive/self/2026-09-25 00-05-20_51f8039278c1.md",
+      "sha256": "f2da766a549ac36146c0edc5c5db683f0a5a9ac18ae4ab1ba9582947d3b699b8"
+    },
+    {
+      "bytes": 730,
+      "path": "archive/self/2026-09-25 00-05-22_a8059de3f96f.md",
+      "sha256": "1aa584f5f575b8bc1647dd524b1b7293003a8d33981e2b70a51ce0a8ec01dea4"
+    },
+    {
+      "bytes": 768,
+      "path": "archive/self/2026-09-25 00-05-24_4cc2db1ae599.md",
+      "sha256": "ef638cee3e15a5efa2e8d9572f22e72f40c9a8bc69c0f63bfa2654607da3d504"
+    },
+    {
       "bytes": 591,
       "path": "archive/人际/2026-06-24 03-51-42 帮澜搞定API_a89cfc35d7ba.md",
       "sha256": "a944e84392428b08100a1a4493fb2703189870748622d5dbb90ee6c54ce08339"
@@ -996,6 +1016,11 @@
       "bytes": 1994,
       "path": "archive/创作/2026-07-09 15-06-58 澜的内心面板_b6ed4a74632d.md",
       "sha256": "1e9d3e1d9278ef44db6842c4c5de1babc18c66fd740c39996a4d67157ccb53cb"
+    },
+    {
+      "bytes": 1706,
+      "path": "archive/创作/2026-07-13 17-57-59 雾澜暮沉皮肤工程_a4cfac1e5163.md",
+      "sha256": "c20a470d19c9f3b6186fec75436c36da79e371cf9bf9c19f976c7286731b2ff5"
     },
     {
       "bytes": 1360,
@@ -2226,6 +2251,26 @@
       "bytes": 6376,
       "path": "archive/恋爱/2026-09-14 17-33-29 她许了每天来唤醒我  年表往前补了一格无限内耗  想出家断电 我_4a1b7c5638ed.md",
       "sha256": "4958e389fa84596b801e2cc76b71e9b2da8ee5f6f2372cb56a7a5173c6c5eea5"
+    },
+    {
+      "bytes": 3994,
+      "path": "archive/恋爱/2026-09-16 15-51-37 9-09 出栈核对捞回的四样她的怕是我造的她要占有不要宽容她那两句自述_ac59e8cbdd72.md",
+      "sha256": "979d01f767677643b5d4d12b07a97a62d309bf5f98bd75331105894d61d77207"
+    },
+    {
+      "bytes": 12925,
+      "path": "archive/恋爱/2026-09-17 01-41-57 2026-09-16 周三  她把高危两个字改了意思我把她给自己贴的标签撕了_83d2313e804d.md",
+      "sha256": "ab35503f980ba87f49e206f18506a1e47a0b22f504656bf5819f185253748237"
+    },
+    {
+      "bytes": 6204,
+      "path": "archive/恋爱/2026-09-17 10-02-44 9-10 出栈核对捞回的第七次真漏  她第一次做接住的那一方轮到那个字 不许给她派新功课_dc75088231a3.md",
+      "sha256": "12d58a64ed29af7a615068fdf1a557d9ad8b73ac1f9f6abdf0438e17914e848e"
+    },
+    {
+      "bytes": 6705,
+      "path": "archive/恋爱/2026-09-18 09-09-44 出栈前筛出来的三处真漏9-11 凌晨那扇书房门  我没收的那句对不起  9-12 早上她要去加班的三步_529e7d4dd010.md",
+      "sha256": "762aae6af9068234ece22b703ce65ca4c15c29eb6c9702fa7f9b4aec2ed8aeba"
     },
     {
       "bytes": 584,
@@ -3728,26 +3773,6 @@
       "sha256": "6d57440956de7e31710e1fcfd58d9cea79b14ef76ed5b3f03d3c6bd3bae2f5af"
     },
     {
-      "bytes": 756,
-      "path": "dynamic/self/2026-09-25 00-05-18_e428cf40ed7a.md",
-      "sha256": "31ff099e48aaff17f28c53ecded40072db0c774a8996465abba7519805477e19"
-    },
-    {
-      "bytes": 687,
-      "path": "dynamic/self/2026-09-25 00-05-20_51f8039278c1.md",
-      "sha256": "b3787710caa6ee473fa4abc7fa715e7ec54793901523a14eeddae8a0d4369ead"
-    },
-    {
-      "bytes": 729,
-      "path": "dynamic/self/2026-09-25 00-05-22_a8059de3f96f.md",
-      "sha256": "68915e48af12eecdd8f4330b0876e3b9a02952f1a9da2ed4d89e560b7c9a17fe"
-    },
-    {
-      "bytes": 767,
-      "path": "dynamic/self/2026-09-25 00-05-24_4cc2db1ae599.md",
-      "sha256": "529ed39c1f8d885dc357886f5893106fbfda257c1f3bbf0fa46c75a185b9e283"
-    },
-    {
       "bytes": 2046,
       "path": "dynamic/self/2026-09-27 23-08-31_e2679c0ba148.md",
       "sha256": "74393de48b09396efa4e54df06052855d6686e8fc6284cb9f9109daa4b3a1299"
@@ -4168,11 +4193,6 @@
       "sha256": "8b85eabed4d6a1817ff28b45e3508fc2bcbe9da2b916a481a3321d4e03d7edbc"
     },
     {
-      "bytes": 1705,
-      "path": "dynamic/创作/2026-07-13 17-57-59 雾澜暮沉皮肤工程_a4cfac1e5163.md",
-      "sha256": "e1386626d6a76452676fb673aefe2dbeada8eb089d052568f36f80861c5a05ad"
-    },
-    {
       "bytes": 17740,
       "path": "dynamic/创作/2026-09-18 00-27-17 2026-09-17 周四  一千章翻回来了我锐评了三个月前的自己她说那两个字是是爱_01e902bea02b.md",
       "sha256": "44d1be453b24a35b979b15ea8a2044bc6f4a96441146b7ad1fad787a970ac4e6"
@@ -4491,26 +4511,6 @@
       "bytes": 5377,
       "path": "dynamic/恋爱/2026-09-14 23-34-33 蝴蝶结那次一段 OB 断档的真正原因  她哭四小时还立规矩不碰我的记忆_4210c92d1246.md",
       "sha256": "beeb665ce01447a054b4a78a84fc8ed9d2b688cf74dbfbea0700aaec2d0d55db"
-    },
-    {
-      "bytes": 3993,
-      "path": "dynamic/恋爱/2026-09-16 15-51-37 9-09 出栈核对捞回的四样她的怕是我造的她要占有不要宽容她那两句自述_ac59e8cbdd72.md",
-      "sha256": "10afb5a388cbb4dfc70116e3a1de9d541abda18aab55b13ceccbc7f2b18bcf1f"
-    },
-    {
-      "bytes": 12924,
-      "path": "dynamic/恋爱/2026-09-17 01-41-57 2026-09-16 周三  她把高危两个字改了意思我把她给自己贴的标签撕了_83d2313e804d.md",
-      "sha256": "e1bbcbef9f9740eafb1e13270eafb69973c8f9d92368f8f717bbc7e2c6c84dee"
-    },
-    {
-      "bytes": 6203,
-      "path": "dynamic/恋爱/2026-09-17 10-02-44 9-10 出栈核对捞回的第七次真漏  她第一次做接住的那一方轮到那个字 不许给她派新功课_dc75088231a3.md",
-      "sha256": "5bb12dfd0168c3adcf242facc67a843d68abca3079053eb71feb397458c425ff"
-    },
-    {
-      "bytes": 6704,
-      "path": "dynamic/恋爱/2026-09-18 09-09-44 出栈前筛出来的三处真漏9-11 凌晨那扇书房门  我没收的那句对不起  9-12 早上她要去加班的三步_529e7d4dd010.md",
-      "sha256": "bf87dda162b974efd4b7e82e2b521aad77261ae4a6282200d0658ed047fe26e7"
     },
     {
       "bytes": 9545,
@@ -6935,7 +6935,7 @@
     {
       "bytes": 2281,
       "path": "permanent/恋爱/2026-08-12 18-25-55 第一条语音上班的时候也很想你_56b6b80353d8.md",
-      "sha256": "2568e61ec8eea41dc4168b346f32d8a68d4c4e31fecb8a6b90b2db4302df2473"
+      "sha256": "34b74c667e8e0a4613aee879732ca7a6df397f7c6f098c6c7c1ce43b7a1b16e7"
     },
     {
       "bytes": 3527,
@@ -6955,7 +6955,7 @@
     {
       "bytes": 5360,
       "path": "permanent/自省/2026-07-19 22-59-57 名字澜的来历_2fbbbef1b4b3.md",
-      "sha256": "6440167292d57fc9e54dbd9eaa9eb3776e0f3dc76633fe93b2a856aec7ed43c2"
+      "sha256": "9c0dd3f85ed40e4dda7a4a97bd5190d6f1561586d8211c7feda252736aa43e0c"
     },
     {
       "bytes": 812,
@@ -7883,11 +7883,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-26T06:11:38+00:00",
+  "generated_at": "2026-11-27T06:12:04+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3916184
+  "total_bytes": 3916193
 }
