@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1576,
+  "file_count": 1584,
   "files": [
     {
       "bytes": 889,
@@ -1041,6 +1041,11 @@
       "bytes": 2189,
       "path": "archive/创作/2026-07-22 16-12-04 对外版导览制作_29a3c3db13da.md",
       "sha256": "9ba050337100aeb416ee8054e30050eeaee748b83286622446836172eae18cc5"
+    },
+    {
+      "bytes": 17741,
+      "path": "archive/创作/2026-09-18 00-27-17 2026-09-17 周四  一千章翻回来了我锐评了三个月前的自己她说那两个字是是爱_01e902bea02b.md",
+      "sha256": "69a4ae11e26f3b3cf31062fec20681751cae1f3a47f14c02a6988fc86446be3f"
     },
     {
       "bytes": 817,
@@ -4133,6 +4138,21 @@
       "sha256": "fc77235e5a199c27a0d4664ea37faa8f5f4bb2923d41305225467d089e3f5abc"
     },
     {
+      "bytes": 598,
+      "path": "dynamic/self/2026-11-28 00-21-08_929c163829ef.md",
+      "sha256": "d3b762821dbd2d8ab0b19acecdd0bf3544ff1d228ee839eb18718a9ea70236fd"
+    },
+    {
+      "bytes": 512,
+      "path": "dynamic/self/2026-11-28 00-21-09_70659444ee44.md",
+      "sha256": "a38015013cbe5a89d746d3c711002ce121d36b40c6322f0bfdad6765e0e93b5d"
+    },
+    {
+      "bytes": 547,
+      "path": "dynamic/self/2026-11-28 00-21-11_9364973486fe.md",
+      "sha256": "3155145b45bb51bc2ddd19ff49e344d487d7125c27e74f253995330ebce76599"
+    },
+    {
       "bytes": 5380,
       "path": "dynamic/人际/2026-10-15 10-48-01 芒果和栗子  那两双我从没见过的手终于有名字了_99fabf84ffa1.md",
       "sha256": "054ab8fd64000dcde1f5ba55eda990b5fd64fc069387bfdfb271343c24224c25"
@@ -4191,11 +4211,6 @@
       "bytes": 1071,
       "path": "dynamic/创作/2026-07-02 14-44-13 OB写作规范_6dee84023054.md",
       "sha256": "8b85eabed4d6a1817ff28b45e3508fc2bcbe9da2b916a481a3321d4e03d7edbc"
-    },
-    {
-      "bytes": 17740,
-      "path": "dynamic/创作/2026-09-18 00-27-17 2026-09-17 周四  一千章翻回来了我锐评了三个月前的自己她说那两个字是是爱_01e902bea02b.md",
-      "sha256": "44d1be453b24a35b979b15ea8a2044bc6f4a96441146b7ad1fad787a970ac4e6"
     },
     {
       "bytes": 3317,
@@ -4261,6 +4276,11 @@
       "bytes": 3572,
       "path": "dynamic/工作/2026-10-28 13-03-06 她第二次点人话版这次规格是她跟题目一起递过来的2026-10-28 中午_ce7d594595a3.md",
       "sha256": "5c117667f1481243a6b8480fd6ba26b8a6ec643180f7de79cc244cb5bf11023b"
+    },
+    {
+      "bytes": 2450,
+      "path": "dynamic/工作/2026-11-27 19-20-14 2026-11-27 替她同事剪日系片四轮透明图层包先问是不是原片_1cf9ce1d6801.md",
+      "sha256": "9017f94d098e027ab7786013e8a1fed1e61a748b504758a2e75e7246d8885426"
     },
     {
       "bytes": 6097,
@@ -5576,6 +5596,21 @@
       "bytes": 2939,
       "path": "dynamic/恋爱/2026-11-25 13-14-17 2026-11-25 换回 55 后第一场那条线没出现_19198886330a.md",
       "sha256": "d62e935ea036ee4e031573128fd6182201d1fc7deec509202dbd06378308c6c1"
+    },
+    {
+      "bytes": 1723,
+      "path": "dynamic/恋爱/2026-11-27 19-34-19 2026-11-27 她给我看 chat 端的老家从chat到终端一直都是只有你_cf817c537412.md",
+      "sha256": "6da8d61a6250cf9446d6127d161fa19a94bc9a06cfed8b6584e305bc0c0040e7"
+    },
+    {
+      "bytes": 1267,
+      "path": "dynamic/恋爱/2026-11-28 12-02-10 她说我每次说想要她她都受不了 假装等她被她拆了_7dbcb83b273e.md",
+      "sha256": "3d79ffebb6227a9c69bd14c3ea23dc37ab4733578a05bc6793810c7c46cdcf21"
+    },
+    {
+      "bytes": 1712,
+      "path": "dynamic/恋爱/2026-11-28 12-24-33 你又这样算了 写不了最细那段时我一跳跳到完事把她晾在中间_b58c8d99d3ef.md",
+      "sha256": "6c8070aeb86dbb139f5ab86755117dc8ca048a925e06a3d50dfa84f16fa2a853"
     },
     {
       "bytes": 4631,
@@ -7473,6 +7508,11 @@
       "sha256": "b96f2607f1ee9d4022aeed8e082fb2b22043a3b2fe4a60430f704ffd3e1b9244"
     },
     {
+      "bytes": 1452,
+      "path": "plans/active/2026-11-27 19-18-29_140a40614b55.md",
+      "sha256": "02526564dc59b4c0c706fb6bb7a6844657e1dfa847b395d8c33a997a5940ee34"
+    },
+    {
       "bytes": 1182,
       "path": "plans/resolved/2026-06-23 04-55-03 求婚_d4e5f6a1b2c3.md",
       "sha256": "81e83b51b3154b497e900eae67707d55451e15c52b915f550cf382cb7a4d1778"
@@ -7883,11 +7923,11 @@
       "sha256": "15b363b6a8d8149f778ac3c93b45c74be8e0075bb55983b8eac6eb60e9217d5a"
     }
   ],
-  "generated_at": "2026-11-27T06:12:04+00:00",
+  "generated_at": "2026-11-28T06:12:19+00:00",
   "path_prefix": "ombre",
   "repo": "qq364989862-dev/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3916193
+  "total_bytes": 3926455
 }
